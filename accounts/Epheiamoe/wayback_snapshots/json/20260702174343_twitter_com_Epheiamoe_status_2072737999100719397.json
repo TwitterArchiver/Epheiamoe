@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2072610925245272099",
+    "created_at": "2026-07-02T17:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072737999100719397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 24,
+          "id": "914028453174796293",
+          "start": 12,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072737999100719397",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072646630478839868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @Ajisai1207_ 已经能想象到那时推友吵架的情形了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2072610925245272099",
+        "created_at": "2026-07-02T17:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072737999100719397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 24,
+              "id": "914028453174796293",
+              "start": 12,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072737999100719397",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072646630478839868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @Ajisai1207_ 已经能想象到那时推友吵架的情形了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2072610925245272099",
+        "created_at": "2026-07-02T11:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072646630478839868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072646630478839868",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072610925245272099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 預想劇情：「不願意裝全套，只願裝陰道的都只算非二元！」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 25,
+          "like_count": 473,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 231,
+          "like_count": 10209,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 13758
+        },
+        "url": "",
+        "username": "billyswong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 1032,
+          "like_count": 16843,
+          "listed_count": 14,
+          "media_count": 740,
+          "tweet_count": 7566
+        },
+        "url": "",
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

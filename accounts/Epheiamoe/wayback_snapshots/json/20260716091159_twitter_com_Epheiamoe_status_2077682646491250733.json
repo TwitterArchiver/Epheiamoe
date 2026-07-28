@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077521842080817296",
+    "created_at": "2026-07-16T09:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077682646491250733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1861818861785587714",
+          "start": 0,
+          "username": "JaydenDavisNC"
+        },
+        {
+          "end": 29,
+          "id": "1863959670169501696",
+          "start": 15,
+          "username": "Kimi_Moonshot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077682646491250733",
+    "in_reply_to_user_id": "1861818861785587714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077524970591203686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JaydenDavisNC @Kimi_Moonshot 支持开源模型正义蒸馏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077521842080817296",
+        "created_at": "2026-07-16T09:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077682646491250733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1861818861785587714",
+              "start": 0,
+              "username": "JaydenDavisNC"
+            },
+            {
+              "end": 29,
+              "id": "1863959670169501696",
+              "start": 15,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077682646491250733",
+        "in_reply_to_user_id": "1861818861785587714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077524970591203686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JaydenDavisNC @Kimi_Moonshot 支持开源模型正义蒸馏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861818861785587714",
+        "conversation_id": "2077521842080817296",
+        "created_at": "2026-07-15T22:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077524970591203686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863959670169501696",
+              "start": 0,
+              "username": "Kimi_Moonshot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077524970591203686",
+        "in_reply_to_user_id": "1863959670169501696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16633,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077521842080817296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kimi_Moonshot They distilled Fable 5\nAnd now they are distilling Anthropic’s marketing."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 72,
+          "like_count": 678,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T17:06:34.000Z",
+        "description": "AI Journalist, Insider, and Enthusiast\n\nGot any tips or leaks? Email me at\njaydendavisnc@proton.me",
+        "id": "1861818861785587714",
+        "location": "United States, North Carolina",
+        "name": "Jayden Davis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072376114060632064/LPDeaKT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 722,
+          "like_count": 2108,
+          "listed_count": 9,
+          "media_count": 750,
+          "tweet_count": 4230
+        },
+        "url": "",
+        "username": "JaydenDavisNC",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kimidevs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.kimi.ai",
+                "end": 121,
+                "expanded_url": "http://platform.kimi.ai",
+                "start": 98,
+                "url": "https://t.co/XCrgjXAqMw"
+              },
+              {
+                "display_url": "discord.gg/9SY8CenBNh",
+                "end": 149,
+                "expanded_url": "https://discord.gg/9SY8CenBNh",
+                "start": 126,
+                "url": "https://t.co/wBsBTn6Ncc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.com",
+                "end": 23,
+                "expanded_url": "https://www.kimi.com/",
+                "start": 0,
+                "url": "https://t.co/mlnKFmsdLe"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2065377579130142937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185860,
+          "following_count": 136,
+          "like_count": 304,
+          "listed_count": 1864,
+          "media_count": 153,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/mlnKFmsdLe",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

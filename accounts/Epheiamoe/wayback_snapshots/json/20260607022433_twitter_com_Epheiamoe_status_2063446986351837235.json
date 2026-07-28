@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2063411933320192183",
+    "created_at": "2026-06-07T02:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063446986351837235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942136939735560192",
+          "start": 0,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063446986351837235",
+    "in_reply_to_user_id": "1942136939735560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063411933320192183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picxis63594 我早就说tyw纯炒作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2063411933320192183",
+        "created_at": "2026-06-07T02:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063446986351837235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942136939735560192",
+              "start": 0,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063446986351837235",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063411933320192183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picxis63594 我早就说tyw纯炒作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2063411933320192183",
+        "created_at": "2026-06-07T00:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063411933320192183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2063348174438453292",
+              "start": 19,
+              "url": "https://t.co/RjECrCJTDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063411933320192183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063348174438453292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是说你把17账号注销又蒸了个出来？ https://t.co/RjECrCJTDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\n主要账号@nyaepheia\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 82,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 59,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 14,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/炒鸡大社恐\n互fo喵  贴贴喵/\n断糖了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/subdrone",
+                "end": 23,
+                "expanded_url": "https://ngl.link/subdrone",
+                "start": 0,
+                "url": "https://t.co/xtIGiU6eOD"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone无人机潜水",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 314,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/xtIGiU6eOD",
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

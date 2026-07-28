@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074269714608689584",
+    "created_at": "2026-07-08T10:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074798336704717096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046781355753664512",
+          "start": 0,
+          "username": "Luminimk7"
+        },
+        {
+          "end": 25,
+          "id": "1069931275698335744",
+          "start": 11,
+          "username": "TponyS_xiaoma"
+        },
+        {
+          "end": 42,
+          "id": "1557846379736666113",
+          "start": 26,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074798336704717096",
+    "in_reply_to_user_id": "2046781355753664512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没错。有防止后悔的作用\n但现在的流程难道不是完全在刁难吗？？\n而且你要知道，很多地方完全不是制度设计本意如此，完全就是医疗资源根本没有考虑跨性别\n如果是「防止后悔」那应该是小证大证这种设计，它没错，但我想问了，医院数量少，标准不统一，流程繁琐，序列医疗极少需要跑东跑西这也是任何为了防止后悔吗？那我比如防止你后悔结婚，是不是也可以要求你办结婚证要跑好多完全不同的地方？显然不是吧？\n好的制度设计不会刁难人，防止后悔完全可以在开证的时候做到"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074797201520525684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminimk7 @TponyS_xiaoma @Meguminsama2009 没错。有防止后悔的作用\n但现在的流程难道不是完全在刁难吗？？\n而且你要知道，很多地方完全不是制度设计本意如此，完全就是医疗资源根本没有考虑跨性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T10:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074798336704717096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046781355753664512",
+              "start": 0,
+              "username": "Luminimk7"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 42,
+              "id": "1557846379736666113",
+              "start": 26,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074798336704717096",
+        "in_reply_to_user_id": "2046781355753664512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没错。有防止后悔的作用\n但现在的流程难道不是完全在刁难吗？？\n而且你要知道，很多地方完全不是制度设计本意如此，完全就是医疗资源根本没有考虑跨性别\n如果是「防止后悔」那应该是小证大证这种设计，它没错，但我想问了，医院数量少，标准不统一，流程繁琐，序列医疗极少需要跑东跑西这也是任何为了防止后悔吗？那我比如防止你后悔结婚，是不是也可以要求你办结婚证要跑好多完全不同的地方？显然不是吧？\n好的制度设计不会刁难人，防止后悔完全可以在开证的时候做到"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074797201520525684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminimk7 @TponyS_xiaoma @Meguminsama2009 没错。有防止后悔的作用\n但现在的流程难道不是完全在刁难吗？？\n而且你要知道，很多地方完全不是制度设计本意如此，完全就是医疗资源根本没有考虑跨性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046781355753664512",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T10:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074797201520525684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 42,
+              "id": "1557846379736666113",
+              "start": 26,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074797201520525684",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074795872119034294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @TponyS_xiaoma @Meguminsama2009 我个人认为这个流程是为了防止你做了手术又后悔然后耍赖的，不过看你的描述这方面规定确实不太完善"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 49,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T02:45:20.000Z",
+        "description": "",
+        "id": "2046781355753664512",
+        "name": "Lumini",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "Luminimk7",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2072316487369445686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21535,
+          "following_count": 360,
+          "like_count": 5717,
+          "listed_count": 131,
+          "media_count": 744,
+          "tweet_count": 6954
+        },
+        "url": "",
+        "username": "TponyS_xiaoma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1960,
+          "like_count": 3365,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 7671
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

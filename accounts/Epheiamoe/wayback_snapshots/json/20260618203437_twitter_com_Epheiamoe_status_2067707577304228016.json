@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2067655245417885933",
+    "created_at": "2026-06-18T20:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067707577304228016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063085390668689408",
+          "start": 0,
+          "username": "tomorrowomg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067707577304228016",
+    "in_reply_to_user_id": "2063085390668689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067655245417885933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorrowomg 说这是Debian 安装媒介，那个鱼板是Debian 周边"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067655236530081792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHJe5NaEAA_dHC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2067655245417885933",
+        "created_at": "2026-06-18T20:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067707577304228016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063085390668689408",
+              "start": 0,
+              "username": "tomorrowomg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067707577304228016",
+        "in_reply_to_user_id": "2063085390668689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067655245417885933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorrowomg 说这是Debian 安装媒介，那个鱼板是Debian 周边"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067655236530081792"
+          ]
+        },
+        "author_id": "2063085390668689408",
+        "conversation_id": "2067655245417885933",
+        "created_at": "2026-06-18T17:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067655245417885933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJfkUHC0Xr",
+              "end": 67,
+              "expanded_url": "https://x.com/tomorrowomg/status/2067655245417885933/photo/1",
+              "media_key": "3_2067655236530081792",
+              "start": 44,
+              "url": "https://t.co/tJfkUHC0Xr"
+            },
+            {
+              "display_url": "x.com/tomorrowomg/st…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/tomorrowomg/status/2067579757970235683",
+              "start": 68,
+              "url": "https://t.co/OW2zjQ2Hf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067655245417885933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1825,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579757970235683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哎，室友好像不知道补佳乐是什么，感觉还能坚持一会，这种情况下要怎么办，在线等，有点急 https://t.co/tJfkUHC0Xr https://t.co/OW2zjQ2Hf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 22,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "pinned_tweet_id": "2066808630964523252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 85,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

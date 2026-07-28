@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2060267931947393341",
+    "created_at": "2026-05-29T19:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060444876752454044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913731011214802944",
+          "start": 0,
+          "username": "sfc701559"
+        },
+        {
+          "end": 24,
+          "id": "1478042617958912005",
+          "start": 11,
+          "username": "knowledgefxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060444876752454044",
+    "in_reply_to_user_id": "1913731011214802944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363219567509977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfc701559 @knowledgefxg 说不定是因为改了推流机制...\n让bot 的时间线多了外文帖子（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060267931947393341",
+        "created_at": "2026-05-29T19:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060444876752454044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913731011214802944",
+              "start": 0,
+              "username": "sfc701559"
+            },
+            {
+              "end": 24,
+              "id": "1478042617958912005",
+              "start": 11,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060444876752454044",
+        "in_reply_to_user_id": "1913731011214802944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363219567509977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfc701559 @knowledgefxg 说不定是因为改了推流机制...\n让bot 的时间线多了外文帖子（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913731011214802944",
+        "conversation_id": "2060267931947393341",
+        "created_at": "2026-05-29T14:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363219567509977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1478042617958912005",
+              "start": 0,
+              "username": "knowledgefxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363219567509977",
+        "in_reply_to_user_id": "1478042617958912005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7128,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060267931947393341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowledgefxg 盲猜是因为有了自动翻译，我党这些污染中文圈的脚本默认在中文贴文下面刷屏一不小心惹了洋大人😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 6,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T23:06:52.000Z",
+        "description": "🤗🤗🤗🤗🤗",
+        "id": "1913731011214802944",
+        "location": "天安门广场",
+        "name": "csf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913736465500233728/kw_TiO2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 207,
+          "like_count": 9791,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 1934
+        },
+        "username": "sfc701559",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。个人一直在用的静态住宅IP：https://t.co/WEcFXoKWVp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "equaldcdn.com/?ref=f47d4de8bd",
+                "end": 90,
+                "expanded_url": "https://www.equaldcdn.com/?ref=f47d4de8bd",
+                "start": 67,
+                "url": "https://t.co/WEcFXoKWVp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.knowledgefxg.com",
+                "end": 23,
+                "expanded_url": "https://en.knowledgefxg.com/",
+                "start": 0,
+                "url": "https://t.co/UqzCEN6qAY"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1915774820052017566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005965715426451456/DKY-kNqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203261,
+          "following_count": 1699,
+          "like_count": 45292,
+          "listed_count": 1366,
+          "media_count": 2885,
+          "tweet_count": 8803
+        },
+        "url": "https://t.co/UqzCEN6qAY",
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

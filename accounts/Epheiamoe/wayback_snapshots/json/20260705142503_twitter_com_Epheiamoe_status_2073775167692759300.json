@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2073769865547251862",
+    "created_at": "2026-07-05T14:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073775167692759300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796233508605952",
+          "start": 0,
+          "username": "yue_li0712"
+        },
+        {
+          "end": 28,
+          "id": "2047679401400373248",
+          "start": 12,
+          "username": "Hysteriadie0331"
+        },
+        {
+          "end": 49,
+          "id": "2055356059066466304",
+          "start": 34,
+          "username": "TransCircleOrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073775167692759300",
+    "in_reply_to_user_id": "2044796233508605952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073773454323859763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li0712 @Hysteriadie0331 请问您愿意@TransCircleorg 帮您撰写文章吗（？\n我们希望能提供力所能及的帮助\n当然，尊重您的个人隐私和意愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2073769865547251862",
+        "created_at": "2026-07-05T14:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073775167692759300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796233508605952",
+              "start": 0,
+              "username": "yue_li0712"
+            },
+            {
+              "end": 28,
+              "id": "2047679401400373248",
+              "start": 12,
+              "username": "Hysteriadie0331"
+            },
+            {
+              "end": 49,
+              "id": "2055356059066466304",
+              "start": 34,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775167692759300",
+        "in_reply_to_user_id": "2044796233508605952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073773454323859763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li0712 @Hysteriadie0331 请问您愿意@TransCircleorg 帮您撰写文章吗（？\n我们希望能提供力所能及的帮助\n当然，尊重您的个人隐私和意愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796233508605952",
+        "conversation_id": "2073769865547251862",
+        "created_at": "2026-07-05T14:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073773454323859763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073773454323859763",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073771110341226584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 怎么帮呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 25,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵｜最最喜欢的小可爱@xingyunxiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "xingyunxiya"
+              }
+            ]
+          }
+        },
+        "id": "2044796233508605952",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 104,
+          "like_count": 2113,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "2009｜mtf｜中度GD🏳️‍⚧️｜间断含糖25.05.01🍥｜易性症病历｜家长反对党｜天残党｜INFP-T｜BPD｜一个坏孩子｜温柔体贴善良｜社交回避-自闭倾向｜疑似精神病友｜同类fo｜请和咱交朋友嘛~｜咱不喜欢屏蔽人，被屏蔽会特别难过...｜一只小透明｜恋人@ting_xia91591",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "ting_xia91591"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet",
+        "name": "白汐雪🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072266123056443763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073753981130870784/bPIsphE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 389,
+          "like_count": 99,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "Hysteriadie0331",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 30,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

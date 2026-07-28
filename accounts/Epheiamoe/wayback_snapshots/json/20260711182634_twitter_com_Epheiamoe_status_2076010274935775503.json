@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2075731739125956688",
+    "created_at": "2026-07-11T18:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076010274935775503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757619412511887360",
+          "start": 0,
+          "username": "NeroArmore91252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076010274935775503",
+    "in_reply_to_user_id": "1757619412511887360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075731739125956688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeroArmore91252 牢A不就是中国特色MAGA 吗...\n而且可能比MAGA 更弱智"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075731718502502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM57ABJaUAAYX0u.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2075731739125956688",
+        "created_at": "2026-07-11T18:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076010274935775503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757619412511887360",
+              "start": 0,
+              "username": "NeroArmore91252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076010274935775503",
+        "in_reply_to_user_id": "1757619412511887360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075731739125956688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeroArmore91252 牢A不就是中国特色MAGA 吗...\n而且可能比MAGA 更弱智"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075731718502502400"
+          ]
+        },
+        "author_id": "1757619412511887360",
+        "conversation_id": "2075731739125956688",
+        "created_at": "2026-07-10T23:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075731739125956688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HyCtrX3UX",
+              "end": 35,
+              "expanded_url": "https://x.com/NeroArmore91252/status/2075731739125956688/photo/1",
+              "media_key": "3_2075731718502502400",
+              "start": 12,
+              "url": "https://t.co/7HyCtrX3UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075731739125956688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 92001,
+          "like_count": 987,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了   哈哈哈哈哈 https://t.co/7HyCtrX3UX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 67,
+          "like_count": 571,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:15:11.000Z",
+        "description": "装甲尼禄\nyoutube：审判庭尼禄\nhttps://t.co/7e2fc2lvEc\n\n见众生，见自己，只求问心无愧。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%AE%A1%E5%…",
+                "end": 42,
+                "expanded_url": "https://www.youtube.com/@%E5%AE%A1%E5%88%A4%E5%BA%AD%E5%B0%BC%E7%A6%84/videos",
+                "start": 19,
+                "url": "https://t.co/7e2fc2lvEc"
+              }
+            ]
+          }
+        },
+        "id": "1757619412511887360",
+        "name": "Armored Nero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041720310366662658/ybZ0-fEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 18,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "NeroArmore91252",
+        "verified": true
+      }
+    ]
+  }
+}

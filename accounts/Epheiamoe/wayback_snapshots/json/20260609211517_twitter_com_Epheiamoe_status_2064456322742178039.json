@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2064456322742178039",
+    "created_at": "2026-06-09T21:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064456322742178039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886330442657214465",
+          "start": 3,
+          "username": "HHH2309nyan"
+        },
+        {
+          "end": 26,
+          "id": "1955218488185982980",
+          "start": 17,
+          "username": "bbbkamen"
+        },
+        {
+          "end": 38,
+          "id": "1526534364900642817",
+          "start": 27,
+          "username": "linwanru17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064456322742178039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063928959126188487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HHH2309nyan: @bbbkamen @linwanru17 顺直就是欠图😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2064456322742178039",
+        "created_at": "2026-06-09T21:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064456322742178039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886330442657214465",
+              "start": 3,
+              "username": "HHH2309nyan"
+            },
+            {
+              "end": 26,
+              "id": "1955218488185982980",
+              "start": 17,
+              "username": "bbbkamen"
+            },
+            {
+              "end": 38,
+              "id": "1526534364900642817",
+              "start": 27,
+              "username": "linwanru17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064456322742178039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063928959126188487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HHH2309nyan: @bbbkamen @linwanru17 顺直就是欠图😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886330442657214465",
+        "conversation_id": "2063868683810918469",
+        "created_at": "2026-06-08T10:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063928959126188487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            },
+            {
+              "end": 21,
+              "id": "1526534364900642817",
+              "start": 10,
+              "username": "linwanru17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063928959126188487",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1489,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063868683810918469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen @linwanru17 顺直就是欠图😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 15,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T08:27:13.000Z",
+        "description": "苦逼高中生|OIer AFO|C＃绝赞学习中|友跨🏳️‍⚧️|或许是Mt..我不知道|ADHD|喜欢一切可爱的东西\n祝你生活愉快！\n互fo喵喵\n\nTG https://t.co/ZS545LodmW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hhh2309nyan",
+                "end": 99,
+                "expanded_url": "http://t.me/hhh2309nyan",
+                "start": 76,
+                "url": "https://t.co/ZS545LodmW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oiermeow.love",
+                "end": 23,
+                "expanded_url": "https://oiermeow.love",
+                "start": 0,
+                "url": "https://t.co/Oim5WABOZ7"
+              }
+            ]
+          }
+        },
+        "id": "1886330442657214465",
+        "location": "喵星！",
+        "name": "HHH2309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 681,
+          "like_count": 7013,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/Oim5WABOZ7",
+        "username": "HHH2309nyan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在尝试炒作/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "aaakamen"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "内蒙+++真的有这地方同类吗",
+        "name": "☬脊髓☬",
+        "pinned_tweet_id": "2063868683810918469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 312,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 296
+        },
+        "username": "bbbkamen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T12:05:39.000Z",
+        "description": "You came into my world with love！",
+        "id": "1526534364900642817",
+        "location": "Tokyo-to, Japan",
+        "name": "林婉茹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526538338278473728/vfH1CsYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "linwanru17",
+        "verified": false
+      }
+    ]
+  }
+}

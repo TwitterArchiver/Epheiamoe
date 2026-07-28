@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069617382793138515",
+    "created_at": "2026-06-24T03:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069617382793138515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dtbgaius/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/dtbgaius/status/2069591063459778662",
+          "start": 14,
+          "url": "https://t.co/nc1r4kgiBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069617382793138515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069591063459778662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "在互联网，你甚至可以看到… https://t.co/nc1r4kgiBA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069617382793138515",
+        "created_at": "2026-06-24T03:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069617382793138515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dtbgaius/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/dtbgaius/status/2069591063459778662",
+              "start": 14,
+              "url": "https://t.co/nc1r4kgiBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069617382793138515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069591063459778662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "在互联网，你甚至可以看到… https://t.co/nc1r4kgiBA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765005683282292737",
+        "conversation_id": "2069464840620437751",
+        "created_at": "2026-06-24T01:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069591063459778662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191546676722442245",
+              "start": 0,
+              "username": "ThugValere"
+            },
+            {
+              "end": 24,
+              "id": "2045843816746254337",
+              "start": 12,
+              "username": "Henruiiyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069591063459778662",
+        "in_reply_to_user_id": "1191546676722442245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1642,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069568407339454724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThugValere @Henruiiyang Those aren't Chinese, you don't find Chinese on western social media."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 21,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T13:26:24.000Z",
+        "description": "A life focused on transformation and uncovering what lies beneath the surface.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dtbgaius",
+                "end": 23,
+                "expanded_url": "https://t.me/dtbgaius",
+                "start": 0,
+                "url": "https://t.co/dYiJ40Kcqy"
+              }
+            ]
+          }
+        },
+        "id": "1765005683282292737",
+        "location": "Delta, Nigeria",
+        "name": "Mr. Gaius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068955748671864832/G1stufUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 53,
+          "like_count": 5485,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 9438
+        },
+        "url": "https://t.co/dYiJ40Kcqy",
+        "username": "dtbgaius",
+        "verified": false
+      }
+    ]
+  }
+}

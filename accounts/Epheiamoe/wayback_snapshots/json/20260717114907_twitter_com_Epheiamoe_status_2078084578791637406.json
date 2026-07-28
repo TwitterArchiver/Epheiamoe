@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078054444072128984",
+    "created_at": "2026-07-17T11:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078084578791637406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2073515116856045568",
+          "start": 0,
+          "username": "dcmjxl_biu"
+        },
+        {
+          "end": 25,
+          "id": "2801561021",
+          "start": 12,
+          "username": "QimoHK300311"
+        },
+        {
+          "end": 42,
+          "id": "1565981667746914304",
+          "start": 26,
+          "username": "Kagura_Yukikaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/wiki/%E4%BA%9A…",
+          "end": 66,
+          "expanded_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+          "images": [
+            {
+              "height": 667,
+              "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=orig",
+              "width": 500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 43,
+          "status": 200,
+          "title": "亚硝酸钠 - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+          "url": "https://t.co/eW8jX8BC3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078084578791637406",
+    "in_reply_to_user_id": "2073515116856045568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078067504707223675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dcmjxl_biu @QimoHK300311 @Kagura_Yukikaze https://t.co/eW8jX8BC3L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078054444072128984",
+        "created_at": "2026-07-17T11:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078084578791637406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2073515116856045568",
+              "start": 0,
+              "username": "dcmjxl_biu"
+            },
+            {
+              "end": 25,
+              "id": "2801561021",
+              "start": 12,
+              "username": "QimoHK300311"
+            },
+            {
+              "end": 42,
+              "id": "1565981667746914304",
+              "start": 26,
+              "username": "Kagura_Yukikaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/wiki/%E4%BA%9A…",
+              "end": 66,
+              "expanded_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+              "images": [
+                {
+                  "height": 667,
+                  "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "亚硝酸钠 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+              "url": "https://t.co/eW8jX8BC3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078084578791637406",
+        "in_reply_to_user_id": "2073515116856045568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078067504707223675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dcmjxl_biu @QimoHK300311 @Kagura_Yukikaze https://t.co/eW8jX8BC3L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073515116856045568",
+        "conversation_id": "2078054444072128984",
+        "created_at": "2026-07-17T10:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078067504707223675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            },
+            {
+              "end": 30,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078067504707223675",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078054444072128984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 @Kagura_Yukikaze 吃盐？啥意思 单纯吃食用盐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 74,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-04T21:14:38.000Z",
+        "description": "",
+        "id": "2073515116856045568",
+        "name": "鶴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073516369765941248/8h-LaQPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "dcmjxl_biu",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 94,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3174,
+          "following_count": 3071,
+          "like_count": 115682,
+          "listed_count": 6,
+          "media_count": 826,
+          "tweet_count": 13980
+        },
+        "url": "",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

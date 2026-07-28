@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077398711702114304"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077398720694591523",
+    "created_at": "2026-07-15T14:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077398720694591523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2iWr5la6Qj",
+          "end": 27,
+          "expanded_url": "https://x.com/Epheiamoe/status/2077398720694591523/photo/1",
+          "media_key": "3_2077398711702114304",
+          "start": 4,
+          "url": "https://t.co/2iWr5la6Qj"
+        },
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Epheiamoe/status/2077316258094289294",
+          "start": 28,
+          "url": "https://t.co/0DyCTSlEBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077398720694591523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077316258094289294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如图。 https://t.co/2iWr5la6Qj https://t.co/0DyCTSlEBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077398711702114304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRnHyvb0AAJL-N.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077398711702114304"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077398720694591523",
+        "created_at": "2026-07-15T14:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077398720694591523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iWr5la6Qj",
+              "end": 27,
+              "expanded_url": "https://x.com/Epheiamoe/status/2077398720694591523/photo/1",
+              "media_key": "3_2077398711702114304",
+              "start": 4,
+              "url": "https://t.co/2iWr5la6Qj"
+            },
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Epheiamoe/status/2077316258094289294",
+              "start": 28,
+              "url": "https://t.co/0DyCTSlEBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077398720694591523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077316258094289294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如图。 https://t.co/2iWr5la6Qj https://t.co/0DyCTSlEBA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077211550104866998",
+        "created_at": "2026-07-15T08:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077316258094289294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495727990202056708",
+              "start": 0,
+              "username": "pascal92110050"
+            },
+            {
+              "end": 32,
+              "id": "1920665768750182401",
+              "start": 16,
+              "username": "Restorelife0771"
+            },
+            {
+              "end": 48,
+              "id": "1260553941714186241",
+              "start": 33,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077316258094289294",
+        "in_reply_to_user_id": "1495727990202056708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077305942384009559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pascal92110050 @Restorelife0771 @whyyoutouzhele 因为用Claude code 这个行为本身就政治不正确。\n你看前几天网信办还是什么部门宣布Claude code 窃取隐私要求卸载。\n这完全是两码事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 72,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      }
+    ]
+  }
+}

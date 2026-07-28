@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2064688832960741677",
+    "created_at": "2026-06-12T00:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T01:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065227813083545667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2047908550031085568",
+          "start": 0,
+          "username": "n728sn"
+        },
+        {
+          "end": 15,
+          "id": "1669376642094092290",
+          "start": 8,
+          "username": "yxzlwz"
+        },
+        {
+          "end": 25,
+          "id": "1419393636249350208",
+          "start": 16,
+          "username": "queerzoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065227813083545667",
+    "in_reply_to_user_id": "2047908550031085568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064936259189948757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n728sn @yxzlwz @queerzoi 几乎所有中国应用都有「短视频」功能...因为这样能让人沉迷，就像tiktok 那样，然后让用户用更久他们的应用...\n是的，甚至连外卖和天气app 都是这样，更不用说购物和社交app 了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064936254823649280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgglVCW0AAC8ew.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2064688832960741677",
+        "created_at": "2026-06-12T00:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065227813083545667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2047908550031085568",
+              "start": 0,
+              "username": "n728sn"
+            },
+            {
+              "end": 15,
+              "id": "1669376642094092290",
+              "start": 8,
+              "username": "yxzlwz"
+            },
+            {
+              "end": 25,
+              "id": "1419393636249350208",
+              "start": 16,
+              "username": "queerzoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065227813083545667",
+        "in_reply_to_user_id": "2047908550031085568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064936259189948757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n728sn @yxzlwz @queerzoi 几乎所有中国应用都有「短视频」功能...因为这样能让人沉迷，就像tiktok 那样，然后让用户用更久他们的应用...\n是的，甚至连外卖和天气app 都是这样，更不用说购物和社交app 了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064936254823649280"
+          ]
+        },
+        "author_id": "2047908550031085568",
+        "conversation_id": "2064688832960741677",
+        "created_at": "2026-06-11T05:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064936259189948757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1669376642094092290",
+              "start": 0,
+              "username": "yxzlwz"
+            },
+            {
+              "end": 17,
+              "id": "1419393636249350208",
+              "start": 8,
+              "username": "queerzoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72pSWbuEsw",
+              "end": 102,
+              "expanded_url": "https://x.com/n728sn/status/2064936259189948757/photo/1",
+              "media_key": "3_2064936254823649280",
+              "start": 79,
+              "url": "https://t.co/72pSWbuEsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064936259189948757",
+        "in_reply_to_user_id": "1669376642094092290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1114,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064901624091521206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxzlwz @queerzoi …Western apps are slightly better designed, don’t you think? https://t.co/72pSWbuEsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 16,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T05:21:31.000Z",
+        "description": "",
+        "id": "2047908550031085568",
+        "location": "Poland",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047921482706378752/H9ulO_VI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 57,
+          "like_count": 2354,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 253
+        },
+        "username": "n728sn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T16:09:52.000Z",
+        "description": "CS在读｜全栈开发｜互fo｜欢迎来与我闲聊～\nGitHub: https://t.co/EiXDUTefUj\nEnglish account: @yxzlwz_en",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "yxzlwz_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/yxzlwz",
+                "end": 54,
+                "expanded_url": "https://github.com/yxzlwz",
+                "start": 31,
+                "url": "https://t.co/EiXDUTefUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yxzl.dev",
+                "end": 23,
+                "expanded_url": "https://yxzl.dev/",
+                "start": 0,
+                "url": "https://t.co/DCTqcTLe0L"
+              }
+            ]
+          }
+        },
+        "id": "1669376642094092290",
+        "location": "上海",
+        "name": "异想之旅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059932666338607109/mZ1zhdtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 298,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/DCTqcTLe0L",
+        "username": "yxzlwz",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T20:26:44.000Z",
+        "description": "She/her ⠇22 ⠇alt @kweerzoi ⠇wife @vergless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "kweerzoi"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "username": "vergless"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fujofaps.com",
+                "end": 23,
+                "expanded_url": "http://fujofaps.com",
+                "start": 0,
+                "url": "https://t.co/iWpdUSGvBf"
+              }
+            ]
+          }
+        },
+        "id": "1419393636249350208",
+        "location": "Poznan, Poland",
+        "name": "Amelia",
+        "pinned_tweet_id": "2060405669124063404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064435375251075073/JHoE6hSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 510,
+          "like_count": 72378,
+          "listed_count": 5,
+          "media_count": 4110,
+          "tweet_count": 35257
+        },
+        "url": "https://t.co/iWpdUSGvBf",
+        "username": "queerzoi",
+        "verified": false
+      }
+    ]
+  }
+}

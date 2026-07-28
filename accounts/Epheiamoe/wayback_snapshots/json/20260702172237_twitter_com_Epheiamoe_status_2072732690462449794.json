@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2072297517472166345",
+    "created_at": "2026-07-02T17:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072732690462449794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2072280011487494144",
+          "start": 0,
+          "username": "i8zfl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072732690462449794",
+    "in_reply_to_user_id": "2072280011487494144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072297517472166345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i8zfl7 呃\n在中国 跨性别者精神状态堪忧很大一部分原因就是因为你这种人的存在，如果你真的没有恶意，就请了解并尊重，如果不想了解完全可以点不感兴趣。如果你想要炒作，看起来这并不是成功的起号方式"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072297505119985664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJHmfWa4AAN8kH.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072297505132531712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJHmfZaUAAgfhm.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2072297517472166345",
+        "created_at": "2026-07-02T17:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072732690462449794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2072280011487494144",
+              "start": 0,
+              "username": "i8zfl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072732690462449794",
+        "in_reply_to_user_id": "2072280011487494144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072297517472166345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i8zfl7 呃\n在中国 跨性别者精神状态堪忧很大一部分原因就是因为你这种人的存在，如果你真的没有恶意，就请了解并尊重，如果不想了解完全可以点不感兴趣。如果你想要炒作，看起来这并不是成功的起号方式"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072297505119985664",
+            "3_2072297505132531712"
+          ]
+        },
+        "author_id": "2072280011487494144",
+        "conversation_id": "2072297517472166345",
+        "created_at": "2026-07-01T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072297517472166345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTA0toWppE",
+              "end": 162,
+              "expanded_url": "https://x.com/i8zfl7/status/2072297517472166345/photo/1",
+              "media_key": "3_2072297505119985664",
+              "start": 139,
+              "url": "https://t.co/bTA0toWppE"
+            },
+            {
+              "display_url": "pic.x.com/bTA0toWppE",
+              "end": 162,
+              "expanded_url": "https://x.com/i8zfl7/status/2072297517472166345/photo/1",
+              "media_key": "3_2072297505132531712",
+              "start": 139,
+              "url": "https://t.co/bTA0toWppE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072297517472166345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我去了，刚注册这个号，第一天想认识个不一样的世界来着，结果看到一堆人头像不知道什么东西，背后面有一个不知道什么国家的旗，什么国家旗有粉色。然后这些人又说什么补什么盐，精神状态堪忧。这都是些什么东西啊，还有几个发一大堆药片说再见的，吓人的很。看来是发现了个什么不得了的圈子。 https://t.co/bTA0toWppE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 25,
+          "like_count": 471,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T11:24:31.000Z",
+        "description": "",
+        "id": "2072280011487494144",
+        "name": "宋优莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072280344594980864/oMjL0YXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "i8zfl7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2076062787101429944",
+    "created_at": "2026-07-12T04:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076156084193243547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547929727960199180",
+          "start": 0,
+          "username": "Pirat_Nation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076156084193243547",
+    "in_reply_to_user_id": "1547929727960199180",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Please note the following important information:\nThis case primarily concerns the amendment of real-name registration details. The government requires that online games in China be subject to real-name authentication. However, foreign platforms such as Steam are still not required to implement real-name authentication.\nThe court assists the heir in amending the real-name registration details with the game company, thereby effectively enabling the inheritance of the account; however, if the account itself does not require real-name authentication, the situation may differ from that in this case."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076062787101429944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pirat_Nation Please note the following important information:\nThis case primarily concerns the amendment of real-name registration details. The government requires that online games in China be subject to real-name authentication. However, foreign platforms such as Steam are still not"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2076062781262946304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-oGaCWYAA-flI.jpg",
+        "width": 442
+      },
+      {
+        "height": 2070,
+        "media_key": "3_2076062781271400448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-oGaEXYAA_uF7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2076062787101429944",
+        "created_at": "2026-07-12T04:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076156084193243547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547929727960199180",
+              "start": 0,
+              "username": "Pirat_Nation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076156084193243547",
+        "in_reply_to_user_id": "1547929727960199180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Please note the following important information:\nThis case primarily concerns the amendment of real-name registration details. The government requires that online games in China be subject to real-name authentication. However, foreign platforms such as Steam are still not required to implement real-name authentication.\nThe court assists the heir in amending the real-name registration details with the game company, thereby effectively enabling the inheritance of the account; however, if the account itself does not require real-name authentication, the situation may differ from that in this case."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076062787101429944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pirat_Nation Please note the following important information:\nThis case primarily concerns the amendment of real-name registration details. The government requires that online games in China be subject to real-name authentication. However, foreign platforms such as Steam are still not"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076062781262946304",
+            "3_2076062781271400448"
+          ]
+        },
+        "author_id": "1547929727960199180",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076062787101429944",
+        "created_at": "2026-07-11T21:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076062787101429944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BurEDtmFF2",
+              "end": 302,
+              "expanded_url": "https://x.com/Pirat_Nation/status/2076062787101429944/photo/1",
+              "media_key": "3_2076062781262946304",
+              "start": 279,
+              "url": "https://t.co/BurEDtmFF2"
+            },
+            {
+              "display_url": "pic.x.com/BurEDtmFF2",
+              "end": 302,
+              "expanded_url": "https://x.com/Pirat_Nation/status/2076062787101429944/photo/1",
+              "media_key": "3_2076062781271400448",
+              "start": 279,
+              "url": "https://t.co/BurEDtmFF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076062787101429944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Chinese courts have ruled that gaming accounts, in-game items, and digital purchases can be passed on to family after death, setting a major legal precedent for digital ownership.\n\nThe decisions come from several court cases over the years, with judges ruling that these digital assets have real value and should be treated like other property. In one recent case, a mother was allowed to inherit her late son’s 87 gaming accounts.\n\nThe courts also ruled that platform terms of service cannot automatically block inheritance if the law permits it. However, personal data such as private messages and chat history remain protected and are not included."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2655,
+          "impression_count": 627360,
+          "like_count": 24637,
+          "quote_count": 302,
+          "reply_count": 267,
+          "retweet_count": 2425
+        },
+        "reply_settings": "everyone",
+        "text": "Chinese courts have ruled that gaming accounts, in-game items, and digital purchases can be passed on to family after death, setting a major legal precedent for digital ownership.\n\nThe decisions come from several court cases over the years, with judges ruling that these digital https://t.co/BurEDtmFF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 66,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-15T13:03:09.000Z",
+        "description": "Tech & gaming analysis with the latest updates | TV & Films | alt: @piratnation | Official @skinscom Affiliate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "piratnation"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "skinscom"
+              }
+            ]
+          }
+        },
+        "id": "1547929727960199180",
+        "name": "Pirat_Nation 🔴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795139938586890240/fQtS5oQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335884,
+          "following_count": 96,
+          "like_count": 40216,
+          "listed_count": 1092,
+          "media_count": 20366,
+          "tweet_count": 29456
+        },
+        "url": "",
+        "username": "Pirat_Nation",
+        "verified": true
+      }
+    ]
+  }
+}

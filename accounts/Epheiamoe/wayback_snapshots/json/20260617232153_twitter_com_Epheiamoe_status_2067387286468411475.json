@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      }
+    ],
+    "conversation_id": "2067387286468411475",
+    "created_at": "2026-06-17T23:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T00:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067387286468411475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570982319162523648",
+          "start": 3,
+          "username": "minaduchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067387286468411475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1576
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067079800003703280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minaduchi: この国には、まだ同性婚がない。\nゲイの僕らは、30年連れ添った。\n\n毎晩、彼が先に風呂へ入る。\nその間に、僕がお茶を淹れる。\n棚にはいつも、湯呑みが二つ。\n\n最近、彼の手のシミが、少し増えた。\n\n夜の薬を並べるのも、僕の役目だ。\nなのに、たった一枚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2067387286468411475",
+        "created_at": "2026-06-17T23:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067387286468411475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570982319162523648",
+              "start": 3,
+              "username": "minaduchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067387286468411475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1577
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067079800003703280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minaduchi: この国には、まだ同性婚がない。\nゲイの僕らは、30年連れ添った。\n\n毎晩、彼が先に風呂へ入る。\nその間に、僕がお茶を淹れる。\n棚にはいつも、湯呑みが二つ。\n\n最近、彼の手のシミが、少し増えた。\n\n夜の薬を並べるのも、僕の役目だ。\nなのに、たった一枚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570982319162523648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2067079800003703280",
+        "created_at": "2026-06-17T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067079800003703280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067079800003703280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "この国には、まだ同性婚がない。\nゲイの僕らは、30年連れ添った。\n\n毎晩、彼が先に風呂へ入る。\nその間に、僕がお茶を淹れる。\n棚にはいつも、湯呑みが二つ。\n\n最近、彼の手のシミが、少し増えた。\n\n夜の薬を並べるのも、僕の役目だ。\nなのに、たった一枚の紙の上で、\n二人は今も、赤の他人のまま。\n\nそれでも、湯呑みは今夜も二つ。\n明日も、僕がそっと並べる。\n\n法律はまだ、僕らを家族と呼ばない。\nでも、この二つの湯呑みは、もう家族だ。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 786,
+          "impression_count": 418243,
+          "like_count": 14048,
+          "quote_count": 98,
+          "reply_count": 110,
+          "retweet_count": 1577
+        },
+        "reply_settings": "everyone",
+        "text": "この国には、まだ同性婚がない。\nゲイの僕らは、30年連れ添った。\n\n毎晩、彼が先に風呂へ入る。\nその間に、僕がお茶を淹れる。\n棚にはいつも、湯呑みが二つ。\n\n最近、彼の手のシミが、少し増えた。\n\n夜の薬を並べるのも、僕の役目だ。\nなのに、たった一枚の紙の上で、\n二人は今も、赤の他人のまま。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 22,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T03:47:21.000Z",
+        "description": "僕はゲイ×強迫性障害。🌈結婚する自由を、すべての人に。アンチは利用するただそれだけ。※匿名化・再構成・表現調整あり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minaduchi.link",
+                "end": 23,
+                "expanded_url": "https://minaduchi.link",
+                "start": 0,
+                "url": "https://t.co/KMy2G2lBI1"
+              }
+            ]
+          }
+        },
+        "id": "1570982319162523648",
+        "location": "インスタとかも頑張ってる！みなづちのSNSリンク集→",
+        "name": "みなづち",
+        "pinned_tweet_id": "2060227598433812698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571358536218865665/xvlLDXD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 2178,
+          "like_count": 4856,
+          "listed_count": 30,
+          "media_count": 1041,
+          "tweet_count": 7546
+        },
+        "url": "https://t.co/KMy2G2lBI1",
+        "username": "minaduchi",
+        "verified": true
+      }
+    ]
+  }
+}

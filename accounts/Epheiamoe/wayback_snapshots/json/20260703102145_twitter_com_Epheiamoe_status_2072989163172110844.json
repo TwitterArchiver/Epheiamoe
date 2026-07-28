@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2072222646696366359",
+    "created_at": "2026-07-03T10:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072989163172110844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1328331511725051905",
+          "start": 0,
+          "username": "maomao2233"
+        },
+        {
+          "end": 21,
+          "id": "1447499448649601025",
+          "start": 12,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072989163172110844",
+    "in_reply_to_user_id": "1328331511725051905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072883107649466854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomao2233 @LVTGW666 ？\n我们不是在借这个机会讨论恋爱关系中虚拟角色的参与吗。我们甚至都不知道图中的人是谁吧。我想这是互联网很常见的话题讨论吧\n我认为这样的话题讨论能了解到更多元的观点，在互联网上应该很常见啊，这应该并非干涉他人生活吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2072222646696366359",
+        "created_at": "2026-07-03T10:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072989163172110844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1328331511725051905",
+              "start": 0,
+              "username": "maomao2233"
+            },
+            {
+              "end": 21,
+              "id": "1447499448649601025",
+              "start": 12,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072989163172110844",
+        "in_reply_to_user_id": "1328331511725051905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072883107649466854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomao2233 @LVTGW666 ？\n我们不是在借这个机会讨论恋爱关系中虚拟角色的参与吗。我们甚至都不知道图中的人是谁吧。我想这是互联网很常见的话题讨论吧\n我认为这样的话题讨论能了解到更多元的观点，在互联网上应该很常见啊，这应该并非干涉他人生活吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328331511725051905",
+        "conversation_id": "2072222646696366359",
+        "created_at": "2026-07-03T03:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072883107649466854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 20,
+              "id": "1447499448649601025",
+              "start": 11,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072883107649466854",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072855516582420672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @LVTGW666 为什么要对别人的正常生活有这么强的干涉欲？指手画脚的。自己的日子都没过明白呢，却管起其他人来了？这种控制欲太强的人，不能来往，最喜欢说教PUA了，以自我为中心指指点点，还以为自己很有道理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 25,
+          "like_count": 477,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T13:38:40.000Z",
+        "description": "",
+        "id": "1328331511725051905",
+        "location": "广西",
+        "name": "浑元形意喵喵拳创始人马保喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1328850898504667138/Ahs0Rfkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 914,
+          "like_count": 34162,
+          "listed_count": 2,
+          "media_count": 2521,
+          "tweet_count": 17363
+        },
+        "url": "",
+        "username": "maomao2233",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72537,
+          "following_count": 1001,
+          "like_count": 15002,
+          "listed_count": 307,
+          "media_count": 5666,
+          "tweet_count": 13232
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

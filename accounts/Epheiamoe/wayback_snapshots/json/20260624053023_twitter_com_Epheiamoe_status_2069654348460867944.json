@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069654348460867944",
+    "created_at": "2026-06-24T05:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069654348460867944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570982319162523648",
+          "start": 3,
+          "username": "minaduchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069654348460867944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069616513502556575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minaduchi: 30年連れ添った同性パートナーが、\n先月、死んだ。\n家族として、見送りたかった。\n\n翌日、会社に忌引を願い出た。\nでも、認められなかった。\n\n戸籍の上では、ただの他人。\n忌引は、家族にしか、ない。\n\n彼を送ったその足で出社し、\n誰にも言わず、\n何事…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069654348460867944",
+        "created_at": "2026-06-24T05:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069654348460867944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570982319162523648",
+              "start": 3,
+              "username": "minaduchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069654348460867944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069616513502556575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minaduchi: 30年連れ添った同性パートナーが、\n先月、死んだ。\n家族として、見送りたかった。\n\n翌日、会社に忌引を願い出た。\nでも、認められなかった。\n\n戸籍の上では、ただの他人。\n忌引は、家族にしか、ない。\n\n彼を送ったその足で出社し、\n誰にも言わず、\n何事…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570982319162523648",
+        "conversation_id": "2069616513502556575",
+        "created_at": "2026-06-24T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069616513502556575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069616513502556575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "30年連れ添った同性パートナーが、\n先月、死んだ。\n家族として、見送りたかった。\n\n翌日、会社に忌引を願い出た。\nでも、認められなかった。\n\n戸籍の上では、ただの他人。\n忌引は、家族にしか、ない。\n\n彼を送ったその足で出社し、\n誰にも言わず、\n何事もない顔で働いた。\n\n異性の夫婦なら、\n当たり前に取れる休みだ。\n\n違いはただ、「結婚できるか」だけ。\nそれだけで、悲しむ時間さえ奪われる。\n\n愛する人が死んでも、休む権利すらない。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 811,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "30年連れ添った同性パートナーが、\n先月、死んだ。\n家族として、見送りたかった。\n\n翌日、会社に忌引を願い出た。\nでも、認められなかった。\n\n戸籍の上では、ただの他人。\n忌引は、家族にしか、ない。\n\n彼を送ったその足で出社し、\n誰にも言わず、\n何事もない顔で働いた。\n\n異性の夫婦なら、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 21,
+          "like_count": 430,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T03:47:21.000Z",
+        "description": "僕はゲイ×強迫性障害。🌈結婚する自由を、すべての人に。アンチは利用するただそれだけ。※匿名化・再構成・表現調整あり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minaduchi.link",
+                "end": 23,
+                "expanded_url": "https://minaduchi.link",
+                "start": 0,
+                "url": "https://t.co/KMy2G2lBI1"
+              }
+            ]
+          }
+        },
+        "id": "1570982319162523648",
+        "location": "インスタとかも頑張ってる！みなづちのSNSリンク集→",
+        "name": "みなづち",
+        "pinned_tweet_id": "2067949901888270346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571358536218865665/xvlLDXD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 2139,
+          "like_count": 4834,
+          "listed_count": 28,
+          "media_count": 1043,
+          "tweet_count": 7596
+        },
+        "url": "https://t.co/KMy2G2lBI1",
+        "username": "minaduchi",
+        "verified": true
+      }
+    ]
+  }
+}

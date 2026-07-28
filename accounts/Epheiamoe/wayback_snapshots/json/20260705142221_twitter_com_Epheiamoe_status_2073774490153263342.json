@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2073751634753228925",
+    "created_at": "2026-07-05T14:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073774490153263342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930261854510821388",
+          "start": 0,
+          "username": "xingyunxiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073774490153263342",
+    "in_reply_to_user_id": "1930261854510821388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073751634753228925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyunxiya 试试bluesky （（\n也有很多跨而且环境更好，私聊功能也有\n可以用第三方客户端，每次无痕模式登录，用完就退出。bluesky 第三方客户端那么多，他们完全没办法限制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2073751634753228925",
+        "created_at": "2026-07-05T14:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073774490153263342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930261854510821388",
+              "start": 0,
+              "username": "xingyunxiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073774490153263342",
+        "in_reply_to_user_id": "1930261854510821388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073751634753228925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyunxiya 试试bluesky （（\n也有很多跨而且环境更好，私聊功能也有\n可以用第三方客户端，每次无痕模式登录，用完就退出。bluesky 第三方客户端那么多，他们完全没办法限制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930261854510821388",
+        "conversation_id": "2073751634753228925",
+        "created_at": "2026-07-05T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073751634753228925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073751634753228925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4773,
+          "like_count": 94,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "手机拿回来了，人给我拉黑了一堆，帖子也给我删了一堆，vxQQ开了未成年模式，加不了人，我要跟谁聊天也可以限制，x必须登录两台，另一台给他们拿着监控，我无语了，脑袋还是昏昏沉沉的，够了够了，糖也吃不了了我就没资格带旗了，好了，再会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 25,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T13:54:46.000Z",
+        "description": "破茧成蝶，终见光芒\nOVER：2026/07/05",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furina.blog",
+                "end": 23,
+                "expanded_url": "http://furina.blog",
+                "start": 0,
+                "url": "https://t.co/N99BSLWgjU"
+              }
+            ]
+          }
+        },
+        "id": "1930261854510821388",
+        "location": "東京 渋谷区",
+        "name": "星云稀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261955450941441/fsBaETTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 82,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/N99BSLWgjU",
+        "username": "xingyunxiya",
+        "verified": true
+      }
+    ]
+  }
+}

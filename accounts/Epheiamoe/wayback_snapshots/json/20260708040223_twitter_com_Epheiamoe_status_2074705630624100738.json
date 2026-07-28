@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "1085880893087121408",
+    "created_at": "2026-07-08T04:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074705630624100738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "poo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "611212278",
+          "start": 0,
+          "username": "giselabarreto7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20744…",
+          "end": 170,
+          "expanded_url": "https://x.com/i/status/2074448462964527244",
+          "start": 147,
+          "url": "https://t.co/AwJX35YSzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074705630624100738",
+    "in_reply_to_user_id": "611212278",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074448462964527244",
+        "type": "quoted"
+      },
+      {
+        "id": "1085880893087121408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giselabarreto7 If people had intestines as transparent as glass, no one would choose to eat, because they would see the #poo inside their bodies.\nhttps://t.co/AwJX35YSzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_1085880887714242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DxHS6gSX4AAKAUy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "1085880893087121408",
+        "created_at": "2026-07-08T04:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074705630624100738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "poo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "611212278",
+              "start": 0,
+              "username": "giselabarreto7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20744…",
+              "end": 170,
+              "expanded_url": "https://x.com/i/status/2074448462964527244",
+              "start": 147,
+              "url": "https://t.co/AwJX35YSzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074705630624100738",
+        "in_reply_to_user_id": "611212278",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074448462964527244",
+            "type": "quoted"
+          },
+          {
+            "id": "1085880893087121408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giselabarreto7 If people had intestines as transparent as glass, no one would choose to eat, because they would see the #poo inside their bodies.\nhttps://t.co/AwJX35YSzG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2074448462964527244",
+        "created_at": "2026-07-07T11:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074448462964527244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "大便"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/giselabarreto7…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/giselabarreto7/status/1085880893087121408",
+              "start": 43,
+              "url": "https://t.co/1Z6IZUBtjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074448462964527244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8754,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1085880893087121408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果人们有玻璃般透明的肠道，就没有人会选择进食，因为他们会看到他们体内承载的 #大便 https://t.co/1Z6IZUBtjE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1085880887714242560"
+          ]
+        },
+        "author_id": "611212278",
+        "conversation_id": "1085880893087121408",
+        "created_at": "2019-01-17T12:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2019-01-17T13:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1085880893087121408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "milagro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoI7GDkufF",
+              "end": 134,
+              "expanded_url": "https://x.com/giselabarreto7/status/1085880893087121408/photo/1",
+              "media_key": "3_1085880887714242560",
+              "start": 111,
+              "url": "https://t.co/XoI7GDkufF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1085880893087121408",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 359,
+          "impression_count": 0,
+          "like_count": 16270,
+          "quote_count": 8343,
+          "reply_count": 4723,
+          "retweet_count": 4809
+        },
+        "reply_settings": "everyone",
+        "text": "Si las mujeres tuvieran ,el vientre de cristal, ninguna abortaría, porque verían el #milagro que llevan dentro https://t.co/XoI7GDkufF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 26,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-17T21:18:21.000Z",
+        "description": "Locutora-Presentadora de TV y Radio.Diplomada en ESI por Universidad Austral   Suscríbete a mi canal https://t.co/m4m2HR892B IG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCwCt9…",
+                "end": 124,
+                "expanded_url": "https://m.youtube.com/channel/UCwCt9PLhbQ7QXNGyrtGGc1A",
+                "start": 101,
+                "url": "https://t.co/m4m2HR892B"
+              }
+            ]
+          }
+        },
+        "id": "611212278",
+        "name": "Gisela Barreto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552480417458135040/FL888oQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 1850,
+          "like_count": 10432,
+          "listed_count": 30,
+          "media_count": 5255,
+          "tweet_count": 12132
+        },
+        "url": "",
+        "username": "giselabarreto7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "天澹无情 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060944742486274048/XFk2oB01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 440,
+          "like_count": 223033,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 14252
+        },
+        "url": "",
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069675967791161669",
+    "created_at": "2026-06-24T06:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069675967791161669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "101636202",
+          "start": 3,
+          "username": "AfriKa_Bambata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069675967791161669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069403939557241262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AfriKa_Bambata: 同性婚を「合法化」じゃなくて「法制化」と言う人、信用できる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069675967791161669",
+        "created_at": "2026-06-24T06:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069675967791161669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "101636202",
+              "start": 3,
+              "username": "AfriKa_Bambata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069675967791161669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069403939557241262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AfriKa_Bambata: 同性婚を「合法化」じゃなくて「法制化」と言う人、信用できる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "101636202",
+        "conversation_id": "2069403939557241262",
+        "created_at": "2026-06-23T12:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069403939557241262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069403939557241262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 24106,
+          "like_count": 984,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "同性婚を「合法化」じゃなくて「法制化」と言う人、信用できる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 21,
+          "like_count": 432,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-04T02:37:23.000Z",
+        "description": "音楽の趣味はルーツミュージック寄り/古のパソコン(MSX)でゴニョゴニョする人/政治的スタンスは左派/いわゆるひとつのセクシャルマイノリティ/承諾の上唐揚げにレモンをかける派/好きなヤグラはガチヤグラ",
+        "id": "101636202",
+        "name": "アイリス・オーヤマ倍達🍥",
+        "pinned_tweet_id": "2001269870273740920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025702507859857409/gowOK6pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 368,
+          "like_count": 17361,
+          "listed_count": 10,
+          "media_count": 10135,
+          "tweet_count": 104439
+        },
+        "url": "",
+        "username": "AfriKa_Bambata",
+        "verified": false
+      }
+    ]
+  }
+}

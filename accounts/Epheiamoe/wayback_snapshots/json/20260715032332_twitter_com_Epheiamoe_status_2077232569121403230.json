@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077232569121403230",
+    "created_at": "2026-07-15T03:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077232569121403230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2077212050674135233",
+          "start": 51,
+          "url": "https://t.co/yKYYODSpEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077232569121403230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077212050674135233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "True.\n并不是「跨性别拥有家暴党父母」的概率高，而是「家暴党父母更容易在跨性别语境下暴露出来」。 https://t.co/yKYYODSpEW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077232569121403230",
+        "created_at": "2026-07-15T03:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077232569121403230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2077212050674135233",
+              "start": 51,
+              "url": "https://t.co/yKYYODSpEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077232569121403230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077212050674135233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "True.\n并不是「跨性别拥有家暴党父母」的概率高，而是「家暴党父母更容易在跨性别语境下暴露出来」。 https://t.co/yKYYODSpEW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2077212050674135233",
+        "created_at": "2026-07-15T02:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077212050674135233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2077070069780349221",
+              "start": 155,
+              "url": "https://t.co/12iKNgqsFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077212050674135233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果環状線当跨，父母反对的概率为 100%，与環状線断绝关系的概率为 100%，把環状線送到扭转机构的概率为 90%，環状線骂「sb 父母」的概率为 100%。\n\n但实际上環状線并不会这样骂自己的父母，因为自己不是跨，所以没有性别相关的家庭矛盾，也不会因性别而断绝关系什么的。\n\n「sb 父母」从来都是在矛盾 中暴露出来的。\n\n（之所以送到扭转机构那一项是 90%，因为環状線的父母先前听说过有孩子死在扭转机构，以及有孩子从扭转机构出来以后报复社会的事情。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 663,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077070069780349221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果環状線当跨，父母反对的概率为 100%，与環状線断绝关系的概率为 100%，把環状線送到扭转机构的概率为 90%，環状線骂「sb 父母」的概率为 100%。\n\n但实际上環状線并不会这样骂自己的父母，因为自己不是跨，所以没有性别相关的家庭矛盾，也不会因性别而断绝关系什么的。\n\n「sb 父母」从来都是在矛盾 https://t.co/12iKNgqsFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 72,
+          "like_count": 657,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文由 @yameta_www 代发\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yameta_www"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 121,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 98,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10492,
+          "following_count": 883,
+          "like_count": 30750,
+          "listed_count": 13,
+          "media_count": 2070,
+          "tweet_count": 10378
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

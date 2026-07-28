@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2056094834189045895",
+    "created_at": "2026-05-18T06:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056253484866109759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "lxltanya1811"
+        },
+        {
+          "end": 29,
+          "id": "2055356059066466304",
+          "start": 14,
+          "username": "TransCircleOrg"
+        },
+        {
+          "end": 40,
+          "id": "1608637128132685825",
+          "start": 30,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056253484866109759",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056207321274155353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxltanya1811 @TransCircleOrg @nyaepheia 好，谢谢您！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2056094834189045895",
+        "created_at": "2026-05-18T06:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056253484866109759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "lxltanya1811"
+            },
+            {
+              "end": 29,
+              "id": "2055356059066466304",
+              "start": 14,
+              "username": "TransCircleOrg"
+            },
+            {
+              "end": 40,
+              "id": "1608637128132685825",
+              "start": 30,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056253484866109759",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056207321274155353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxltanya1811 @TransCircleOrg @nyaepheia 好，谢谢您！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "2056094834189045895",
+        "created_at": "2026-05-18T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056207321274155353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055356059066466304",
+              "start": 0,
+              "username": "TransCircleOrg"
+            },
+            {
+              "end": 26,
+              "id": "1608637128132685825",
+              "start": 16,
+              "username": "nyaepheia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lxltanya1811/s…",
+              "end": 94,
+              "expanded_url": "https://x.com/lxltanya1811/status/2053400577934311658",
+              "start": 71,
+              "url": "https://t.co/dO0d0hIqig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207321274155353",
+        "in_reply_to_user_id": "2055356059066466304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053400577934311658",
+            "type": "quoted"
+          },
+          {
+            "id": "2056094834189045895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransCircleOrg @nyaepheia 提供一些最基础的，可直接当反歧视法使用的法律，如果对方不愿意听，那也不应该继续交流了\n\nhttps://t.co/dO0d0hIqig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 21,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者Tanya/女性-Female/@Sydney_Uni and @UNSW alumni. Birthday 2 July 1998 and 18 November 2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "SSF Syd",
+        "name": "绫小路梦欣🏳️‍⚧️",
+        "pinned_tweet_id": "2042265408103960911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 257,
+          "like_count": 483,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 5467
+        },
+        "username": "lxltanya1811",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j\nbluesky: https://t.co/pzuooxut0T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              },
+              {
+                "display_url": "bsky.app/profile/transc…",
+                "end": 112,
+                "expanded_url": "http://bsky.app/profile/transcircle.org",
+                "start": 89,
+                "url": "https://t.co/pzuooxut0T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 32,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2054612363001860533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 822,
+          "like_count": 21846,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

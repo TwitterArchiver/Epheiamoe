@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065807475107049472",
+        "3_2065807480043757568"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065699143255986609",
+    "created_at": "2026-06-13T14:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065807484829524046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/up4BHLByxG",
+          "end": 45,
+          "expanded_url": "https://x.com/Epheiamoe/status/2065807484829524046/photo/1",
+          "media_key": "3_2065807475107049472",
+          "start": 22,
+          "url": "https://t.co/up4BHLByxG"
+        },
+        {
+          "display_url": "pic.x.com/up4BHLByxG",
+          "end": 45,
+          "expanded_url": "https://x.com/Epheiamoe/status/2065807484829524046/photo/1",
+          "media_key": "3_2065807480043757568",
+          "start": 22,
+          "url": "https://t.co/up4BHLByxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065807484829524046",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065699143255986609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 请大家通过此社群附注 https://t.co/up4BHLByxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_2065807475107049472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs49BgaMAACUav.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1259,
+        "media_key": "3_2065807480043757568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs49T5aYAALk2c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022485225475",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUQAagAM9lpt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022422298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUPxaUAAEqTt.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022489456640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUQBbEAA5Ce7.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2065699022481014784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrWUP_aQAAutVb.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065807475107049472",
+            "3_2065807480043757568"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065699143255986609",
+        "created_at": "2026-06-13T14:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065807484829524046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/up4BHLByxG",
+              "end": 45,
+              "expanded_url": "https://x.com/Epheiamoe/status/2065807484829524046/photo/1",
+              "media_key": "3_2065807475107049472",
+              "start": 22,
+              "url": "https://t.co/up4BHLByxG"
+            },
+            {
+              "display_url": "pic.x.com/up4BHLByxG",
+              "end": 45,
+              "expanded_url": "https://x.com/Epheiamoe/status/2065807484829524046/photo/1",
+              "media_key": "3_2065807480043757568",
+              "start": 22,
+              "url": "https://t.co/up4BHLByxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065807484829524046",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065699143255986609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 请大家通过此社群附注 https://t.co/up4BHLByxG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065699022485225475",
+            "3_2065699022422298624",
+            "3_2065699022489456640",
+            "3_2065699022481014784"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065699143255986609",
+        "created_at": "2026-06-13T07:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065699143255986609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022485225475",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022422298624",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022489456640",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            },
+            {
+              "display_url": "pic.x.com/uPdYxvunP3",
+              "end": 77,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065699143255986609/photo/1",
+              "media_key": "3_2065699022481014784",
+              "start": 54,
+              "url": "https://t.co/uPdYxvunP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065699143255986609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3355,
+          "like_count": 25,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新消息 海月水母已同意我把它蒸馏成 A I\n并且已同意我注销他的账号\n所以那些反对的呢？ 继续出来叫啊！ https://t.co/uPdYxvunP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 17,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2065699143255986609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 10,
+          "like_count": 52,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 273
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

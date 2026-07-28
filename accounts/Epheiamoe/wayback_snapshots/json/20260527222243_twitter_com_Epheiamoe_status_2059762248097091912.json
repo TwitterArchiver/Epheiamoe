@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2058898824522063947",
+    "created_at": "2026-05-27T22:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T23:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059762248097091912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838824925970550784",
+          "start": 0,
+          "username": "janedo_theend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059762248097091912",
+    "in_reply_to_user_id": "1838824925970550784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058898824522063947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@janedo_theend 当我产生怀疑时，我看到了「翻译自日语」\nX 的自动翻译真的太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2058898821707595776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKtkeBaAAAx6Zu.jpg",
+        "width": 1347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2058898824522063947",
+        "created_at": "2026-05-27T22:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059762248097091912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838824925970550784",
+              "start": 0,
+              "username": "janedo_theend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059762248097091912",
+        "in_reply_to_user_id": "1838824925970550784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058898824522063947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@janedo_theend 当我产生怀疑时，我看到了「翻译自日语」\nX 的自动翻译真的太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058898821707595776"
+          ]
+        },
+        "author_id": "1838824925970550784",
+        "conversation_id": "2058898824522063947",
+        "created_at": "2026-05-25T13:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058898824522063947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xR3UByRYol",
+              "end": 146,
+              "expanded_url": "https://x.com/janedo_theend/status/2058898824522063947/photo/1",
+              "media_key": "3_2058898821707595776",
+              "start": 123,
+              "url": "https://t.co/xR3UByRYol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058898824522063947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2313,
+          "impression_count": 2681375,
+          "like_count": 11700,
+          "quote_count": 925,
+          "reply_count": 174,
+          "retweet_count": 645
+        },
+        "reply_settings": "everyone",
+        "text": "人外彼女(人形)と同棲7ヶ月目です。\n\n私は、レズビアンのタチとして女なのに頼り甲斐を求められデートでのエスコートや愚痴聞き係といった｢彼氏役｣を押し付けられる事に疲れた。\n\n彼女は私に何も期待しないしどんな私も受け入れてくれるから大好きちゅ。 https://t.co/xR3UByRYol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 21,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T06:16:52.000Z",
+        "description": "元自衛官レズ｜彼女に浮気されて現在は等身大ドールと同棲中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/janedo_th…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/janedo_theend",
+                "start": 0,
+                "url": "https://t.co/Y0R8FVCbIc"
+              }
+            ]
+          }
+        },
+        "id": "1838824925970550784",
+        "location": "お便りコーナー↓",
+        "name": "じぇんどぅ",
+        "pinned_tweet_id": "2006615261202493900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021982965975400448/jdhE0iPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14647,
+          "following_count": 37,
+          "like_count": 6527,
+          "listed_count": 45,
+          "media_count": 185,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/Y0R8FVCbIc",
+        "username": "janedo_theend",
+        "verified": true
+      }
+    ]
+  }
+}

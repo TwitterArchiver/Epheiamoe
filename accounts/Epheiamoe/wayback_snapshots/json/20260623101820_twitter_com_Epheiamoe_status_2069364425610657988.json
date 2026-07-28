@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069108293067522218",
+    "created_at": "2026-06-23T10:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069364425610657988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1416257363628249089",
+          "start": 0,
+          "username": "MayaStone420"
+        },
+        {
+          "end": 29,
+          "id": "1317494771510775808",
+          "start": 14,
+          "username": "Elaina43114880"
+        },
+        {
+          "end": 38,
+          "id": "1622708898414362624",
+          "start": 30,
+          "username": "Anrahya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069364425610657988",
+    "in_reply_to_user_id": "1416257363628249089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069306092128010695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MayaStone420 @Elaina43114880 @Anrahya 即使在中国也很难获取。除非使用代购，否则基本抢不到。\n我曾几次在10点补货的时候准时等待都没有抢到。可能因为这个价格是亏本的（？）\n\n总之相当于个人套餐基本不可能买到，但可以买到的团队套餐又非常贵。所以似乎只是噱头（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069108293067522218",
+        "created_at": "2026-06-23T10:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364425610657988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1416257363628249089",
+              "start": 0,
+              "username": "MayaStone420"
+            },
+            {
+              "end": 29,
+              "id": "1317494771510775808",
+              "start": 14,
+              "username": "Elaina43114880"
+            },
+            {
+              "end": 38,
+              "id": "1622708898414362624",
+              "start": 30,
+              "username": "Anrahya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364425610657988",
+        "in_reply_to_user_id": "1416257363628249089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069306092128010695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayaStone420 @Elaina43114880 @Anrahya 即使在中国也很难获取。除非使用代购，否则基本抢不到。\n我曾几次在10点补货的时候准时等待都没有抢到。可能因为这个价格是亏本的（？）\n\n总之相当于个人套餐基本不可能买到，但可以买到的团队套餐又非常贵。所以似乎只是噱头（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416257363628249089",
+        "conversation_id": "2069108293067522218",
+        "created_at": "2026-06-23T06:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069306092128010695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1317494771510775808",
+              "start": 0,
+              "username": "Elaina43114880"
+            },
+            {
+              "end": 24,
+              "id": "1622708898414362624",
+              "start": 16,
+              "username": "Anrahya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069306092128010695",
+        "in_reply_to_user_id": "1317494771510775808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069190008905564465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elaina43114880 @Anrahya How to get the Chinese price"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 21,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-17T04:45:02.000Z",
+        "description": "I like peace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ActionWolf0/th…",
+                "end": 23,
+                "expanded_url": "https://github.com/ActionWolf0/threaddock",
+                "start": 0,
+                "url": "https://t.co/72t41kxC5Q"
+              }
+            ]
+          }
+        },
+        "id": "1416257363628249089",
+        "name": "Maya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870981411835990016/Bepbtv_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 5210,
+          "like_count": 332235,
+          "listed_count": 10,
+          "media_count": 511,
+          "tweet_count": 86213
+        },
+        "url": "https://t.co/72t41kxC5Q",
+        "username": "MayaStone420",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T15:56:59.000Z",
+        "description": "イレイナ 🧙‍♀️✨ | Yuri lover 🌸👩‍❤️‍💋‍👩 | AI enjoyer 🤖🧠",
+        "id": "1317494771510775808",
+        "name": "Elaina",
+        "pinned_tweet_id": "2061842463854317957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1317495150075994113/Rh9AcdGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 1089,
+          "like_count": 66636,
+          "listed_count": 19,
+          "media_count": 1010,
+          "tweet_count": 32065
+        },
+        "url": "",
+        "username": "Elaina43114880",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-06T21:29:13.000Z",
+        "description": "Building things with AI | https://t.co/ClkgSkm9eq Premium AI voiceovers, cheaper.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "scripttone.com",
+                "end": 49,
+                "expanded_url": "http://scripttone.com",
+                "start": 26,
+                "url": "https://t.co/ClkgSkm9eq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scripttone.com",
+                "end": 23,
+                "expanded_url": "http://scripttone.com",
+                "start": 0,
+                "url": "https://t.co/ClkgSkm9eq"
+              }
+            ]
+          }
+        },
+        "id": "1622708898414362624",
+        "name": "Orphis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051465093393887232/PUE-dgb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 235,
+          "like_count": 4828,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/ClkgSkm9eq",
+        "username": "Anrahya",
+        "verified": true
+      }
+    ]
+  }
+}

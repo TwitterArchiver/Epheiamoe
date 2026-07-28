@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074908161920979326",
+    "created_at": "2026-07-09T02:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075041213158453435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856374549736239106",
+          "start": 0,
+          "username": "xunxiaoxiao81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075041213158453435",
+    "in_reply_to_user_id": "1856374549736239106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074908161920979326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunxiaoxiao81 抱抱...发生什么了吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074908161920979326",
+        "created_at": "2026-07-09T02:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075041213158453435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856374549736239106",
+              "start": 0,
+              "username": "xunxiaoxiao81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075041213158453435",
+        "in_reply_to_user_id": "1856374549736239106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074908161920979326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunxiaoxiao81 抱抱...发生什么了吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856374549736239106",
+        "conversation_id": "2074908161920979326",
+        "created_at": "2026-07-08T17:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074908161920979326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074908161920979326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倒计时：43天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 62,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T16:33:08.000Z",
+        "description": "MtF/X 深柜没条件吃糖 墙内不太方便表达，推上就是个发癫用的账号了……欢迎互fo以及我爱大家",
+        "id": "1856374549736239106",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "寻小小🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059265211140628480/H5bnzVuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 45,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "xunxiaoxiao81",
+        "verified": false
+      }
+    ]
+  }
+}

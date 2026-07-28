@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066976793631014912"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066976805928804692",
+    "created_at": "2026-06-16T20:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066976805928804692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYlXkAHfNd",
+          "end": 57,
+          "expanded_url": "https://x.com/Epheiamoe/status/2066976805928804692/photo/1",
+          "media_key": "3_2066976793631014912",
+          "start": 34,
+          "url": "https://t.co/mYlXkAHfNd"
+        },
+        {
+          "display_url": "x.com/skyseafor/stat…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/skyseafor/status/2066960075844096373",
+          "start": 58,
+          "url": "https://t.co/ix2LgZuq1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066976805928804692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066960075844096373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "。\n来人给我重复一遍我最爱听的那句「精卫是用来帮助人的」\n\nRt. https://t.co/mYlXkAHfNd https://t.co/ix2LgZuq1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2066976793631014912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9gcUdaQAAfJao.jpg",
+        "width": 1080
+      },
+      {
+        "height": 290,
+        "media_key": "3_2066959341895512064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9QkfrbcAAKogb.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066976793631014912"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066976805928804692",
+        "created_at": "2026-06-16T20:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066976805928804692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYlXkAHfNd",
+              "end": 57,
+              "expanded_url": "https://x.com/Epheiamoe/status/2066976805928804692/photo/1",
+              "media_key": "3_2066976793631014912",
+              "start": 34,
+              "url": "https://t.co/mYlXkAHfNd"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/skyseafor/status/2066960075844096373",
+              "start": 58,
+              "url": "https://t.co/ix2LgZuq1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066976805928804692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066960075844096373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "。\n来人给我重复一遍我最爱听的那句「精卫是用来帮助人的」\n\nRt. https://t.co/mYlXkAHfNd https://t.co/ix2LgZuq1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066959341895512064"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066960075844096373",
+        "created_at": "2026-06-16T19:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066960075844096373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1512976991976402949",
+              "start": 18,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Heu6tgIuD0",
+              "end": 117,
+              "expanded_url": "https://x.com/skyseafor/status/2066960075844096373/photo/1",
+              "media_key": "3_2066959341895512064",
+              "start": 94,
+              "url": "https://t.co/Heu6tgIuD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066960075844096373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "据我最新了解到的消息 跨圈大v冰棍 @bghtnya 因涉嫌zz敏感被有关部门控制  大概率精卫住院了  \n\n是被上门带走的  可能是行为比较恶劣\n\n在此提醒互联网不是法外之地 谨言慎行 https://t.co/Heu6tgIuD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 20,
+          "like_count": 364,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2064915954992402941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 177,
+          "like_count": 507,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 382
+        },
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057734120017731584"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2057734229132497132",
+    "created_at": "2026-05-22T08:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057734229132497132"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 0,
+          "tag": "FindPeopleWhoBlockedMeProject"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 55,
+          "id": "1665552580796366848",
+          "start": 39,
+          "username": "YukiNek54626688"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 119,
+          "expanded_url": "https://x.com/nyaepheia/status/2054419350376034725",
+          "start": 96,
+          "url": "https://t.co/nuky1iIIsK"
+        },
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 150,
+          "expanded_url": "https://x.com/Epheiamoe/status/2056435364756341064",
+          "start": 127,
+          "url": "https://t.co/k93JMi1PMQ"
+        },
+        {
+          "display_url": "pic.x.com/CYxkxfXESq",
+          "end": 174,
+          "expanded_url": "https://x.com/Epheiamoe/status/2057734229132497132/photo/1",
+          "media_key": "3_2057734120017731584",
+          "start": 151,
+          "url": "https://t.co/CYxkxfXESq"
+        },
+        {
+          "display_url": "x.com/YukiNek5462668…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/YukiNek54626688/status/2057531693540806917",
+          "start": 175,
+          "url": "https://t.co/jCeyNLKgxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057734229132497132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057531693540806917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "#FindPeopleWhoBlockedMeProject\n\nNo.005\n@YukiNek54626688 \n\nEpheia 批注：这个没看懂，屏蔽我是何意味？\n\nlearn more: https://t.co/nuky1iIIsK\n\n上一个条目：https://t.co/k93JMi1PMQ https://t.co/CYxkxfXESq https://t.co/jCeyNLKgxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2306,
+        "media_key": "3_2057734120017731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6KR6HboAAjVTF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057734120017731584"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2057734229132497132",
+        "created_at": "2026-05-22T08:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057734229132497132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 0,
+              "tag": "FindPeopleWhoBlockedMeProject"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1665552580796366848",
+              "start": 39,
+              "username": "YukiNek54626688"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 119,
+              "expanded_url": "https://x.com/nyaepheia/status/2054419350376034725",
+              "start": 96,
+              "url": "https://t.co/nuky1iIIsK"
+            },
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 150,
+              "expanded_url": "https://x.com/Epheiamoe/status/2056435364756341064",
+              "start": 127,
+              "url": "https://t.co/k93JMi1PMQ"
+            },
+            {
+              "display_url": "pic.x.com/CYxkxfXESq",
+              "end": 174,
+              "expanded_url": "https://x.com/Epheiamoe/status/2057734229132497132/photo/1",
+              "media_key": "3_2057734120017731584",
+              "start": 151,
+              "url": "https://t.co/CYxkxfXESq"
+            },
+            {
+              "display_url": "x.com/YukiNek5462668…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/YukiNek54626688/status/2057531693540806917",
+              "start": 175,
+              "url": "https://t.co/jCeyNLKgxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057734229132497132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057531693540806917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "#FindPeopleWhoBlockedMeProject\n\nNo.005\n@YukiNek54626688 \n\nEpheia 批注：这个没看懂，屏蔽我是何意味？\n\nlearn more: https://t.co/nuky1iIIsK\n\n上一个条目：https://t.co/k93JMi1PMQ https://t.co/CYxkxfXESq https://t.co/jCeyNLKgxY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665552580796366848",
+        "conversation_id": "2057470612684292577",
+        "created_at": "2026-05-21T18:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057531693540806917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1649366440808681474",
+              "start": 0,
+              "username": "is_llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057531693540806917",
+        "in_reply_to_user_id": "1649366440808681474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057470612684292577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_llll “无法共情有钱人抑郁”可能指的是，即使抑郁了，有钱人也有更多的资源去应对和缓解抑郁，而穷人的收入需要维持基本生存，很难为昂贵的精神问题解决方案付费（无论是通过心理咨询或精神科寻求帮助，还是花天酒地享乐消费转移注意力）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 21,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T02:54:55.000Z",
+        "description": "SAD FAG",
+        "id": "1665552580796366848",
+        "name": "Yuki Neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885149368451555328/GkRBay8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 2121,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1025
+        },
+        "username": "YukiNek54626688",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994618193214935043"
+      ],
+      "media_source_tweet_id": [
+        "1994618419707314236"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "1997240663474422042",
+    "created_at": "2025-12-06T09:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997240663474422042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1229406016246206464",
+          "start": 3,
+          "username": "Nolforever8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9ZaTgM8yg",
+          "end": 128,
+          "expanded_url": "https://x.com/Nolforever8964/status/1994618419707314236/photo/1",
+          "media_key": "3_1994618193214935043",
+          "start": 105,
+          "url": "https://t.co/c9ZaTgM8yg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997240663474422042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994618419707314236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nolforever8964: 《星穹铁道》4.0的测试服从3周后延期到8周后，据说是为了修改剧情——\n原先的剧情有大量日本风元素，因“不可抗力”必须大段删减。\n玩中共国的厂商做的游戏，这辈子真有了。 https://t.co/c9ZaTgM8yg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_1994618193214935043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65OrcUbkAMmHrl.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994618193214935043"
+          ],
+          "media_source_tweet_id": [
+            "1994618419707314236"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "1997240663474422042",
+        "created_at": "2025-12-06T09:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997240663474422042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1229406016246206464",
+              "start": 3,
+              "username": "Nolforever8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9ZaTgM8yg",
+              "end": 128,
+              "expanded_url": "https://x.com/Nolforever8964/status/1994618419707314236/photo/1",
+              "media_key": "3_1994618193214935043",
+              "start": 105,
+              "url": "https://t.co/c9ZaTgM8yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997240663474422042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994618419707314236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nolforever8964: 《星穹铁道》4.0的测试服从3周后延期到8周后，据说是为了修改剧情——\n原先的剧情有大量日本风元素，因“不可抗力”必须大段删减。\n玩中共国的厂商做的游戏，这辈子真有了。 https://t.co/c9ZaTgM8yg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994618193214935043"
+          ]
+        },
+        "author_id": "1229406016246206464",
+        "conversation_id": "1994618419707314236",
+        "created_at": "2025-11-29T04:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994618419707314236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9ZaTgM8yg",
+              "end": 108,
+              "expanded_url": "https://x.com/Nolforever8964/status/1994618419707314236/photo/1",
+              "media_key": "3_1994618193214935043",
+              "start": 85,
+              "url": "https://t.co/c9ZaTgM8yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994618419707314236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 158800,
+          "like_count": 764,
+          "quote_count": 27,
+          "reply_count": 68,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "《星穹铁道》4.0的测试服从3周后延期到8周后，据说是为了修改剧情——\n原先的剧情有大量日本风元素，因“不可抗力”必须大段删减。\n玩中共国的厂商做的游戏，这辈子真有了。 https://t.co/c9ZaTgM8yg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "今天似乎也会有好事发生呢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "epheia.moe",
+                "end": 23,
+                "expanded_url": "https://epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/tbgKQ60pYv"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984322733044559872/QsVHUVbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/tbgKQ60pYv",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T14:03:37.000Z",
+        "description": "已出道实名制反共人士，2022年9月28日寻衅滋事行政拘留12天…… 大梦谁先觉，平生我自知，一朝得省悟，何复假寐时？ 实用主义、左右不分，主业反共，副业很多，欢迎互Fo，创业叫我。 English OK/日本語勉強中",
+        "id": "1229406016246206464",
+        "name": "無人永生/NoOneLivesForever💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638472606381907969/Zg6Kg7m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4730,
+          "following_count": 2947,
+          "like_count": 38058,
+          "listed_count": 30,
+          "media_count": 1441,
+          "tweet_count": 37344
+        },
+        "username": "Nolforever8964",
+        "verified": true
+      }
+    ]
+  }
+}

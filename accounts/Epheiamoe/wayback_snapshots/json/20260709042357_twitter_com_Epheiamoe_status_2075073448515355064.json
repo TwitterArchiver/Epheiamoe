@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074918394126884952",
+    "created_at": "2026-07-09T04:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075073448515355064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3019206799",
+          "start": 0,
+          "username": "realAbelLau"
+        },
+        {
+          "end": 22,
+          "id": "1165337479",
+          "start": 13,
+          "username": "wesky820"
+        },
+        {
+          "end": 30,
+          "id": "1547028630521274370",
+          "start": 23,
+          "username": "ObbBak"
+        },
+        {
+          "end": 40,
+          "id": "1911628907842818049",
+          "start": 31,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075073448515355064",
+    "in_reply_to_user_id": "3019206799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075061373244170704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realAbelLau @wesky820 @ObbBak @codyhunk AI...\n图中的例子显然就是AI 啊... 它检测异常频率的啊，这成本真的很低\n但会不会转文字然后审查聊天内容就不好说了，成本有点高，就算真审查可能也只用于「特定用户」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074918394126884952",
+        "created_at": "2026-07-09T04:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075073448515355064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3019206799",
+              "start": 0,
+              "username": "realAbelLau"
+            },
+            {
+              "end": 22,
+              "id": "1165337479",
+              "start": 13,
+              "username": "wesky820"
+            },
+            {
+              "end": 30,
+              "id": "1547028630521274370",
+              "start": 23,
+              "username": "ObbBak"
+            },
+            {
+              "end": 40,
+              "id": "1911628907842818049",
+              "start": 31,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075073448515355064",
+        "in_reply_to_user_id": "3019206799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075061373244170704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realAbelLau @wesky820 @ObbBak @codyhunk AI...\n图中的例子显然就是AI 啊... 它检测异常频率的啊，这成本真的很低\n但会不会转文字然后审查聊天内容就不好说了，成本有点高，就算真审查可能也只用于「特定用户」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3019206799",
+        "conversation_id": "2074918394126884952",
+        "created_at": "2026-07-09T03:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075061373244170704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1165337479",
+              "start": 0,
+              "username": "wesky820"
+            },
+            {
+              "end": 20,
+              "id": "1984321775333937152",
+              "start": 10,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 28,
+              "id": "1547028630521274370",
+              "start": 21,
+              "username": "ObbBak"
+            },
+            {
+              "end": 38,
+              "id": "1911628907842818049",
+              "start": 29,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075061373244170704",
+        "in_reply_to_user_id": "1165337479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075057258829123986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wesky820 @Epheiamoe @ObbBak @codyhunk 你真是个杠杠，微信用户快10亿了，请问地球上哪个公司能做到实时监听？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 62,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-14T05:23:11.000Z",
+        "description": "",
+        "id": "3019206799",
+        "location": "挪威",
+        "name": "see you again",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761711833361346560/U-ScGvIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 127,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "realAbelLau",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-10T08:36:59.000Z",
+        "description": "一有问题，找上海刑事律师asuka",
+        "id": "1165337479",
+        "name": "上海刑事律师asuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/881451007422509056/OG8zRcBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1041,
+          "like_count": 1079,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "wesky820",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-13T01:22:31.000Z",
+        "description": "",
+        "id": "1547028630521274370",
+        "location": "翻斗大街翻斗花园二号楼1001",
+        "name": "JaneFans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786813573706190848/j82F9ydP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "ObbBak",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14583,
+          "following_count": 1132,
+          "like_count": 24891,
+          "listed_count": 42,
+          "media_count": 6830,
+          "tweet_count": 10182
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

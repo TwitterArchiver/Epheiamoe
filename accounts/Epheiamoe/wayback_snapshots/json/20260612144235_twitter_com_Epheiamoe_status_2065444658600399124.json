@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2065010095856197710",
+    "created_at": "2026-06-12T14:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065444658600399124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        },
+        {
+          "end": 25,
+          "id": "1980140172726673408",
+          "start": 13,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065444658600399124",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065334498615848979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth @RenChan_VmV 何意味？直接问「你的性取向是什么」有任何问题吗？而且完全不会冒犯人\n说白了就是自己观念陈旧或者故意用冒犯人的观念\n明明有等价的不麻烦的更尊重的说法不用，然后指责客观反馈了，你改用「性取向是什么」或者哪怕「直的弯的」就会死吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2065010095856197710",
+        "created_at": "2026-06-12T14:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065444658600399124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            },
+            {
+              "end": 25,
+              "id": "1980140172726673408",
+              "start": 13,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444658600399124",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065334498615848979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth @RenChan_VmV 何意味？直接问「你的性取向是什么」有任何问题吗？而且完全不会冒犯人\n说白了就是自己观念陈旧或者故意用冒犯人的观念\n明明有等价的不麻烦的更尊重的说法不用，然后指责客观反馈了，你改用「性取向是什么」或者哪怕「直的弯的」就会死吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048745058804105216",
+        "conversation_id": "2065010095856197710",
+        "created_at": "2026-06-12T07:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065334498615848979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 23,
+              "id": "1980140172726673408",
+              "start": 11,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065334498615848979",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065067765778743583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @RenChan_VmV 算命算的是客观因果，不是心理按摩。道长开直播是来解卦的不是来当海底捞服务员的。客户自己把条件给错了，算命的顺着错误条件推出矛盾，这叫实事求是。按你的逻辑，医生发现病人指标不正常，也得为了“尊重客户、不让客户舒服”而瞒报吗？分不清客观反馈和情绪服务的区别，就别来指导别人怎么做服务业了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 16,
+          "like_count": 288,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "一入玄门终不悔，永做三清不二臣。\n新疆乌鲁木齐人，现居日本，是留学生，道教善信。\n永远铭记六四。\n小粉红行为病理特征如下：\n1. 行为割裂：肉体翻墙享受言论自由，精神筑墙赞美信息禁锢。\n2.认知防卫：逻辑无法自洽时，迅速启动“宏大叙事”与自我感动催眠。\n3.去智识化：无法进行逻辑辩论，只会扣帽、比烂、人身攻击与举报。",
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "Taoist Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2062141364662636669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 74,
+          "like_count": 2577,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 679
+        },
+        "username": "TaoistYouth",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/They|02/21/12究极小登|gay🏳️‍🌈🏳️‍⚧️激进挺跨|中间偏左社民入🌹日常发些碎碎念呀|爱听术曲 可能是东方众（？）\n不OD不自残但是缺爱逼阴暗网区qwq\n想一下把这么温良这么友善的我block了是谁的问题╮(╯_╰)╭",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 775,
+          "like_count": 60714,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 11727
+        },
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

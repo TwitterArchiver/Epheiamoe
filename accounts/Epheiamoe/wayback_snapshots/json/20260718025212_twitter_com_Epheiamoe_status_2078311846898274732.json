@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078061056547803452",
+    "created_at": "2026-07-18T02:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078311846898274732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642189672972693504",
+          "start": 0,
+          "username": "popomunpoco"
+        },
+        {
+          "end": 20,
+          "id": "14328771",
+          "start": 13,
+          "username": "paji_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078311846898274732",
+    "in_reply_to_user_id": "1642189672972693504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078234639832158466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popomunpoco @paji_a Why not host it in Japan?\nTo be honest, I’m really looking forward to a Kimi K3 with less censorship, or even no censorship at all."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078061056547803452",
+        "created_at": "2026-07-18T02:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078311846898274732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642189672972693504",
+              "start": 0,
+              "username": "popomunpoco"
+            },
+            {
+              "end": 20,
+              "id": "14328771",
+              "start": 13,
+              "username": "paji_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078311846898274732",
+        "in_reply_to_user_id": "1642189672972693504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078234639832158466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popomunpoco @paji_a Why not host it in Japan?\nTo be honest, I’m really looking forward to a Kimi K3 with less censorship, or even no censorship at all."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642189672972693504",
+        "conversation_id": "2078061056547803452",
+        "created_at": "2026-07-17T21:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T22:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078234639832158466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "14328771",
+              "start": 0,
+              "username": "paji_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078234639832158466",
+        "in_reply_to_user_id": "14328771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3199,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078061056547803452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paji_a 相変わらず尖閣諸島や天安門には答えませーん。ってなってる時点でバリバリ共産党の監視下だから、絶対信用できんわな。\n\nまあ遊ぶ分にはいいけど、情報ぶち込むのは危険すぎる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 76,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T15:38:30.000Z",
+        "description": "節約、資産形成",
+        "id": "1642189672972693504",
+        "name": "トン",
+        "pinned_tweet_id": "1763811374713667650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972291366031110144/eCHOfvdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 21,
+          "like_count": 1169,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 1934
+        },
+        "url": "",
+        "username": "popomunpoco",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-08T02:17:59.000Z",
+        "description": "Spotify——¬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/episode/4J4rMj…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/episode/4J4rMjurBj3qYVl2xB0EiR",
+                "start": 0,
+                "url": "https://t.co/D3Qszaha14"
+              }
+            ]
+          }
+        },
+        "id": "14328771",
+        "name": "paji.eth",
+        "pinned_tweet_id": "2075232640685502832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616257394815954945/2W90KByr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53429,
+          "following_count": 145,
+          "like_count": 53757,
+          "listed_count": 962,
+          "media_count": 1885,
+          "tweet_count": 26739
+        },
+        "url": "https://t.co/D3Qszaha14",
+        "username": "paji_a",
+        "verified": true
+      }
+    ]
+  }
+}

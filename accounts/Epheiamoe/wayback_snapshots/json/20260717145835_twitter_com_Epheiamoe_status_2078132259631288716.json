@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078094951678930952",
+    "created_at": "2026-07-17T14:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078132259631288716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777773509332393984",
+          "start": 0,
+          "username": "luo_bei96733"
+        },
+        {
+          "end": 27,
+          "id": "1844926832967286785",
+          "start": 14,
+          "username": "ZX65535plus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zh.wikipedia.org/wiki/%E4%BA%9A…",
+          "end": 51,
+          "expanded_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+          "images": [
+            {
+              "height": 667,
+              "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=orig",
+              "width": 500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "亚硝酸钠 - 维基百科，自由的百科全书",
+          "unwound_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+          "url": "https://t.co/eW8jX8C9Tj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078132259631288716",
+    "in_reply_to_user_id": "1777773509332393984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078111963020992526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_bei96733 @ZX65535plus1 https://t.co/eW8jX8C9Tj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078094951678930952",
+        "created_at": "2026-07-17T14:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078132259631288716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777773509332393984",
+              "start": 0,
+              "username": "luo_bei96733"
+            },
+            {
+              "end": 27,
+              "id": "1844926832967286785",
+              "start": 14,
+              "username": "ZX65535plus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/wiki/%E4%BA%9A…",
+              "end": 51,
+              "expanded_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+              "images": [
+                {
+                  "height": 667,
+                  "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078084580934885376/4r2kY3b0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "亚硝酸钠 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%92%A0",
+              "url": "https://t.co/eW8jX8C9Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078132259631288716",
+        "in_reply_to_user_id": "1777773509332393984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078111963020992526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_bei96733 @ZX65535plus1 https://t.co/eW8jX8C9Tj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777773509332393984",
+        "conversation_id": "2078094951678930952",
+        "created_at": "2026-07-17T13:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078111963020992526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078111963020992526",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078094951678930952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 盐水是啥？感觉不像是生理盐水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 76,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-09T19:00:18.000Z",
+        "description": "是男的，上推是为了看黄的，但是啥都爱凑热闹，所以可能各种地方都会评论，如果是因为我的评论觉得我挺有意思，建议只收藏评论，因为我过来就是看黄的，关注我可能会刷到一堆黄推",
+        "id": "1777773509332393984",
+        "name": "洛北川",
+        "pinned_tweet_id": "1873608514519924906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846613288219824129/v9I--AA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 349,
+          "like_count": 71447,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 5978
+        },
+        "url": "",
+        "username": "luo_bei96733",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2077724237884965120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 1447,
+          "like_count": 82104,
+          "listed_count": 11,
+          "media_count": 1192,
+          "tweet_count": 24005
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

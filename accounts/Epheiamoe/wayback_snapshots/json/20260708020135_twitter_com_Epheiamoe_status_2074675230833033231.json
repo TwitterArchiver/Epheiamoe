@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074675230833033231",
+    "created_at": "2026-07-08T02:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074675230833033231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momoya051115/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/momoya051115/status/2074289434116456475",
+          "start": 22,
+          "url": "https://t.co/pFmutAwQBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074675230833033231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074289434116456475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个提议：\n把这个社群改名HRT only https://t.co/pFmutAwQBB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_2074289428596658176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlbPsjaEAACyfQ.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074675230833033231",
+        "created_at": "2026-07-08T02:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074675230833033231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoya051115/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/momoya051115/status/2074289434116456475",
+              "start": 22,
+              "url": "https://t.co/pFmutAwQBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074675230833033231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074289434116456475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个提议：\n把这个社群改名HRT only https://t.co/pFmutAwQBB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074289428596658176"
+          ]
+        },
+        "author_id": "1784636606659383296",
+        "conversation_id": "2074289434116456475",
+        "created_at": "2026-07-07T00:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074289434116456475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 129,
+              "expanded_url": "https://x.com/i/chat/group_join/g2057169293935001854/rSFxLVilP2",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2072311352023261184/HDG8OODW?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072311352023261184/HDG8OODW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/dAncQL8lEc"
+            },
+            {
+              "display_url": "pic.x.com/qflJ2MPXhp",
+              "end": 201,
+              "expanded_url": "https://x.com/momoya051115/status/2074289434116456475/photo/1",
+              "media_key": "3_2074289428596658176",
+              "start": 178,
+              "url": "https://t.co/qflJ2MPXhp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074289434116456475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 775,
+                "id": "2054589822401175552",
+                "start": 763,
+                "username": "Dongguacute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 129,
+                "expanded_url": "https://x.com/i/chat/group_join/g2057169293935001854/rSFxLVilP2",
+                "start": 106,
+                "url": "https://t.co/KJ6Ko4KezN"
+              },
+              {
+                "display_url": "mtf.wiki/zh-cn",
+                "end": 628,
+                "expanded_url": "http://mtf.wiki/zh-cn",
+                "start": 605,
+                "url": "https://t.co/N78b4BaCVl"
+              },
+              {
+                "display_url": "genderdysphoria.fyi/zh/",
+                "end": 680,
+                "expanded_url": "http://genderdysphoria.fyi/zh/",
+                "start": 657,
+                "url": "https://t.co/dIAwnunaoe"
+              },
+              {
+                "display_url": "trans-parents.dgct.cc",
+                "end": 855,
+                "expanded_url": "http://trans-parents.dgct.cc",
+                "start": 832,
+                "url": "https://t.co/nufdVtBL4n"
+              },
+              {
+                "display_url": "tp.dgct.cc",
+                "end": 879,
+                "expanded_url": "http://tp.dgct.cc",
+                "start": 856,
+                "url": "https://t.co/amLYXF1gQA"
+              },
+              {
+                "display_url": "trans-parents.transsoul.top",
+                "end": 908,
+                "expanded_url": "http://trans-parents.transsoul.top",
+                "start": 885,
+                "url": "https://t.co/BvWyZeG97y"
+              }
+            ]
+          },
+          "text": "【MTF Only 社群注意事项】\n\n⚠️此社群为MTF专属 仅限MTF进入⚠️\n⚠️请认真阅读以下注意事项（非常重要）⚠️\n\n亲爱的 MTF Only 成员们：\n请点此链接加入群聊（您必须是成员才可加入）：\n\nhttps://t.co/KJ6Ko4KezN\n\n1.申请\n·如果想加入社群请认真回答每一个问题没有特例 \n·请不要使用搜索ai之类的作弊方法 不知道可答不知道\n·如遇未显示答题等bug请私信我答题我会把题目附在此帖子下方\n·私信我之前请关注我一下（之后可以取消关注）否则可能进入过滤\n·‼️未通过审核时申请按钮会一直显示待审核/审核中/等待处理等 如果2天还没有进入社群 ——则已被拒绝  请私信我重新答题我也会亲自确认 亲自决定\n\n2.社群内规则\n·禁止出售/购买药物\n·政治类话题\n·伤害自己/他人\n·od类话题\n\n3.本社群倡导合理用药 正确用药 请勿用奇奇怪怪的方式给药 也不要诱导他人 （如日磁皮下注射 、卤蛋、凝胶服用、日雌涂抹等）\n\n4社群内问题\n·如果在社群内遇到任何问题都随时欢迎来私信我我会尽力为你解决问题\n\n如果您已经是成员：\n那欢迎来到我们的小天地！\n在这里，大胆发言，畅所欲言——无论是深奥的知识探讨、日常生活的琐碎分享，还是开心玩乐的点子，都欢迎你来分享哦～\n让我们一起打造一个温暖有趣又充满活力的社群吧～（答题辛苦了！！）\n\n附上几个实用网站\n1.各类知识大汇总：\nhttps://t.co/N78b4BaCVl\n\n2.给那些想吃糖或者不确定自己是不是跨儿的自确定网站：https://t.co/dIAwnunaoe 性别烦躁指南，建议所有跨性别者和不确定的人观看\n\n3.一个给家长了解我们的网站（我个人永远建议大家深柜以免引起不必要的麻烦 但是大家可以保存以备不时之需）\n\n作者：@Dongguacute 作者原话：本次更新了新文档框架，以及对部分文章的内容做了修改，本版本为长期维护版本，希望能帮到大家\n\n链接1 ：https://t.co/nufdVtBL4n\nhttps://t.co/amLYXF1gQA\n链接2 ：https://t.co/BvWyZeG97y"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13628,
+          "like_count": 17,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【MTF Only 社群注意事项】\n\n⚠️此社群为MTF专属 仅限MTF进入⚠️\n⚠️请认真阅读以下注意事项（非常重要）⚠️\n\n亲爱的 MTF Only 成员们：\n请点此链接加入群聊（您必须是成员才可加入）：\n\nhttps://t.co/dAncQL8lEc\n\n1.申请\n·如果想加入社群请认真回答每一个问题没有特例 \n·请不要使用搜索ai之类的作弊方法 https://t.co/qflJ2MPXhp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 26,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T17:31:46.000Z",
+        "description": "这里是沫沫 2005/11/15  是一个尽力为MTF提供帮助的妹妹",
+        "id": "1784636606659383296",
+        "location": "沫沫的快乐空间",
+        "name": "沫沫酱 winika",
+        "pinned_tweet_id": "2016091815460458588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11773,
+          "following_count": 355,
+          "like_count": 2058,
+          "listed_count": 38,
+          "media_count": 431,
+          "tweet_count": 3195
+        },
+        "url": "",
+        "username": "momoya051115",
+        "verified": true
+      }
+    ]
+  }
+}

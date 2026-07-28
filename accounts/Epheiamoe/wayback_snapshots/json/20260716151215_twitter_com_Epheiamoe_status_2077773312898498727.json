@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077773301280366592"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077773312898498727",
+    "created_at": "2026-07-16T15:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077773312898498727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHnYmRfghk",
+          "end": 167,
+          "expanded_url": "https://x.com/Epheiamoe/status/2077773312898498727/photo/1",
+          "media_key": "3_2077773301280366592",
+          "start": 144,
+          "url": "https://t.co/wHnYmRfghk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077773312898498727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "yi.fo/GO",
+            "end": 293,
+            "expanded_url": "https://yi.fo/GO",
+            "start": 270,
+            "url": "https://t.co/vokQnbaJbL"
+          },
+          {
+            "display_url": "opencode.ai/go?ref=KZWJDC8…",
+            "end": 321,
+            "expanded_url": "https://opencode.ai/go?ref=KZWJDC8278",
+            "start": 298,
+            "url": "https://t.co/AqtHGVNeea"
+          }
+        ]
+      },
+      "text": "【内容标注：包含广告内容和推广，但希望您能查看这个推文】\nKimi k3 刚刚推出了。\n呃... 但这个条款...\n必须199CNY 会员才能调用满血kimi k3...\n我个人不太满意，虽然我确实是kimi  199 CNY 会员，但我感觉这样会被骂啊...就像几个月前GLM 那样。\n但虽然不满意但也能理解，似乎确实是算力不够。不过可以试试OpenCode GO，应该马上就会支持kimi  k3（但它现在确实还不支持），可以试用一下，首月才5$，可用60$ 额度。而且用下面的链接订阅，咱们双方都能获得等价5$ 的额外额度。\n试试： https://t.co/vokQnbaJbL\n备用： https://t.co/AqtHGVNeea"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "【内容标注：包含广告内容和推广，但希望您能查看这个推文】\nKimi k3 刚刚推出了。\n呃... 但这个条款...\n必须199CNY 会员才能调用满血kimi k3...\n我个人不太满意，虽然我确实是kimi  199 CNY 会员，但我感觉这样会被骂啊...就像几个月前GLM 那样。 https://t.co/wHnYmRfghk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2077773301280366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW7zxqbYAA8Z25.png",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077773301280366592"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077773312898498727",
+        "created_at": "2026-07-16T15:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077773312898498727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHnYmRfghk",
+              "end": 167,
+              "expanded_url": "https://x.com/Epheiamoe/status/2077773312898498727/photo/1",
+              "media_key": "3_2077773301280366592",
+              "start": 144,
+              "url": "https://t.co/wHnYmRfghk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077773312898498727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "yi.fo/GO",
+                "end": 293,
+                "expanded_url": "https://yi.fo/GO",
+                "start": 270,
+                "url": "https://t.co/vokQnbaJbL"
+              },
+              {
+                "display_url": "opencode.ai/go?ref=KZWJDC8…",
+                "end": 321,
+                "expanded_url": "https://opencode.ai/go?ref=KZWJDC8278",
+                "start": 298,
+                "url": "https://t.co/AqtHGVNeea"
+              }
+            ]
+          },
+          "text": "【内容标注：包含广告内容和推广，但希望您能查看这个推文】\nKimi k3 刚刚推出了。\n呃... 但这个条款...\n必须199CNY 会员才能调用满血kimi k3...\n我个人不太满意，虽然我确实是kimi  199 CNY 会员，但我感觉这样会被骂啊...就像几个月前GLM 那样。\n但虽然不满意但也能理解，似乎确实是算力不够。不过可以试试OpenCode GO，应该马上就会支持kimi  k3（但它现在确实还不支持），可以试用一下，首月才5$，可用60$ 额度。而且用下面的链接订阅，咱们双方都能获得等价5$ 的额外额度。\n试试： https://t.co/vokQnbaJbL\n备用： https://t.co/AqtHGVNeea"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "【内容标注：包含广告内容和推广，但希望您能查看这个推文】\nKimi k3 刚刚推出了。\n呃... 但这个条款...\n必须199CNY 会员才能调用满血kimi k3...\n我个人不太满意，虽然我确实是kimi  199 CNY 会员，但我感觉这样会被骂啊...就像几个月前GLM 那样。 https://t.co/wHnYmRfghk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 74,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030210821025148929"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2030210825236131882",
+    "created_at": "2026-03-07T09:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T10:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030210825236131882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFMDmAW2xh",
+          "end": 88,
+          "expanded_url": "https://x.com/Epheiamoe/status/2030210825236131882/photo/1",
+          "media_key": "3_2030210821025148929",
+          "start": 65,
+          "url": "https://t.co/dFMDmAW2xh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030210825236131882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我通常只玩百合游戏，但我决定换换口味\n（其实几年前就玩过，现在来重温一下）\n这真的是一部很好的作品，是我唯一喜欢的galgame https://t.co/dFMDmAW2xh"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "一个邮件界面截图，图中的内容是：\n\n《恋爱绮谭 不存在的夏天》电子豪华版\n该捆绑包内含有：\n\n恋爱绮谭\n¥ 28.00\n\n恋爱绮谭 不存在的夏天 Soundtrack\n¥ 17.60\n\n恋爱绮谭 不存在的夏天 电子版设定集\n¥ 14.40",
+        "height": 1024,
+        "media_key": "3_2030210821025148929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzB_DZbsAEBR11.jpg",
+        "width": 203
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030210821025148929"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2030210825236131882",
+        "created_at": "2026-03-07T09:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030210825236131882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFMDmAW2xh",
+              "end": 88,
+              "expanded_url": "https://x.com/Epheiamoe/status/2030210825236131882/photo/1",
+              "media_key": "3_2030210821025148929",
+              "start": 65,
+              "url": "https://t.co/dFMDmAW2xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030210825236131882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我通常只玩百合游戏，但我决定换换口味\n（其实几年前就玩过，现在来重温一下）\n这真的是一部很好的作品，是我唯一喜欢的galgame https://t.co/dFMDmAW2xh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "二次元百合厨 | 假装自己在学编程(x) |\n用分隔符填充简介但实际上自己根本没有什么特色 | 就这样",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

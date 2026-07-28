@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075875728202375352",
+    "created_at": "2026-07-12T04:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076160496064159800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947287158148288513",
+          "start": 0,
+          "username": "hanhanmi_"
+        },
+        {
+          "end": 21,
+          "id": "1973058042561536000",
+          "start": 11,
+          "username": "lalag6498"
+        },
+        {
+          "end": 35,
+          "id": "1992612136456167424",
+          "start": 22,
+          "username": "xiaowenmi925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076160496064159800",
+    "in_reply_to_user_id": "1947287158148288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076157411828875681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanmi_ @lalag6498 @xiaowenmi925 你急死了，你有权利去改变别人的性取向吗？你弟做其它事情你不说就逮着同性恋这件事急死你炒作死你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075875728202375352",
+        "created_at": "2026-07-12T04:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076160496064159800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947287158148288513",
+              "start": 0,
+              "username": "hanhanmi_"
+            },
+            {
+              "end": 21,
+              "id": "1973058042561536000",
+              "start": 11,
+              "username": "lalag6498"
+            },
+            {
+              "end": 35,
+              "id": "1992612136456167424",
+              "start": 22,
+              "username": "xiaowenmi925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076160496064159800",
+        "in_reply_to_user_id": "1947287158148288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076157411828875681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanmi_ @lalag6498 @xiaowenmi925 你急死了，你有权利去改变别人的性取向吗？你弟做其它事情你不说就逮着同性恋这件事急死你炒作死你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947287158148288513",
+        "conversation_id": "2075875728202375352",
+        "created_at": "2026-07-12T04:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076157411828875681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973058042561536000",
+              "start": 0,
+              "username": "lalag6498"
+            },
+            {
+              "end": 24,
+              "id": "1992612136456167424",
+              "start": 11,
+              "username": "xiaowenmi925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076157411828875681",
+        "in_reply_to_user_id": "1973058042561536000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076139173241864196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lalag6498 @xiaowenmi925 你急死了，这是你弟啊，我说非要他变成异性恋了吗？我说的别的一个不看逮着这句话急死你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 66,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-21T13:27:00.000Z",
+        "description": "有时候很想辩驳什么 但又觉得这样会让一切绵延不断 算了吧 只看到我坏的一面也行",
+        "id": "1947287158148288513",
+        "location": "我的心已经等你好多年",
+        "name": "恋虐",
+        "pinned_tweet_id": "2001622577190707499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031214284517289986/QTd9tE8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 116,
+          "like_count": 16503,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "hanhanmi_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T16:11:25.000Z",
+        "description": "｜也许是男娘｜偏非二元｜非跨友跨｜双｜大号@lanbannono8964｜纯美颜滤镜🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "lanbannono8964"
+              }
+            ]
+          }
+        },
+        "id": "1973058042561536000",
+        "name": "瓣澜糕糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055631579834355712/MUCgkqWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1679,
+          "like_count": 2853,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "lalag6498",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T15:12:23.000Z",
+        "description": "希望能拥有一个深睡眠比浅睡眠长的觉",
+        "id": "1992612136456167424",
+        "location": "没事做就睡觉吧",
+        "name": "雪梨酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075811166870540288/rrGKNAzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 66,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1009
+        },
+        "url": "",
+        "username": "xiaowenmi925",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074269714608689584",
+    "created_at": "2026-07-08T10:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074795872119034294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2046781355753664512",
+          "start": 0,
+          "username": "Luminimk7"
+        },
+        {
+          "end": 25,
+          "id": "1069931275698335744",
+          "start": 11,
+          "username": "TponyS_xiaoma"
+        },
+        {
+          "end": 42,
+          "id": "1557846379736666113",
+          "start": 26,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074795872119034294",
+    "in_reply_to_user_id": "2046781355753664512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "mtf.wiki",
+            "end": 340,
+            "expanded_url": "http://mtf.wiki",
+            "start": 317,
+            "url": "https://t.co/hdz1TBFeVZ"
+          }
+        ]
+      },
+      "text": "你猜呢？\n为什么那么多自制HRT \n\n啊对了，就连这种正规治疗都完全看家长脸色\n反正我个人比较顺利，但这完全只是因为我妈比较支持我，仅此而已。\n如果不是家长党就很惨了，就算外表非常pass，已经RLE 很久医院也经常不给开证明\n（啊对了，作为科普\n作为跨性别者：\n你需要先在心理科开「小证」（诊断病历，通常是易性症或性别焦虑、最新的说法是性别不一致）\n啊，虽然世卫组织已经将跨性别去病化，但中国你敢信不同医院使用的标准竟然是不同的！表述也不同，反正我去的几个医院表述基本都不太一样，就是标准很乱\n啊，其实95%的医生是不能开小证的，要么不懂要么自己反跨要么没有权限哈哈，所以什么医生能开基本上完全依靠社群智慧（跨性别的社群wiki 如https://t.co/hdz1TBFeVZ）\n开小证之后还不能直接开药，你如果直接去内分泌科开药会被拒，不是医生不给开，是医院系统根本不允许开「性别和身份性别不符的激素药物」\n\n那就要去专门的医院启动HRT 治疗。反正我是花了不下1000元（？ 的检查费用，什么抽血尿检甚至有核磁共振啊还有心理量表，总之就是医院为了推卸责任确保你适合HRT \n开启之后，HRT 的方案也有很多，你还要自己去定期监测激素水平、血栓风险等，需要说明的是HRT 在依照医嘱的情况下确实不会造成什么寿命上的影响，但多复杂我想你应该能想到，而且这种复杂还是医疗不友好导致的\n然后你如果要SRS 还要开大证，就是正式诊断，这个要求也一堆还没几个医生能开，啊对，甚至还有医生的职称要求\n然后SRS 也不是一下就好，我还没做过不了解，反正就也很麻烦，而且更麻烦，可以自己去查\n\n所以我认为很多人反跨仅仅是不了解跨性别到底有多麻烦"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074789861287178617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luminimk7 @TponyS_xiaoma @Meguminsama2009 你猜呢？\n为什么那么多自制HRT \n\n啊对了，就连这种正规治疗都完全看家长脸色\n反正我个人比较顺利，但这完全只是因为我妈比较支持我，仅此而已。\n如果不是家长党就很惨了，就算外表非常pass，已经RLE 很久医院也经常不给开证明\n（啊对了，作为科普\n作为跨性别者："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T10:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074795872119034294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2046781355753664512",
+              "start": 0,
+              "username": "Luminimk7"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 42,
+              "id": "1557846379736666113",
+              "start": 26,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074795872119034294",
+        "in_reply_to_user_id": "2046781355753664512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 340,
+                "expanded_url": "http://mtf.wiki",
+                "start": 317,
+                "url": "https://t.co/hdz1TBFeVZ"
+              }
+            ]
+          },
+          "text": "你猜呢？\n为什么那么多自制HRT \n\n啊对了，就连这种正规治疗都完全看家长脸色\n反正我个人比较顺利，但这完全只是因为我妈比较支持我，仅此而已。\n如果不是家长党就很惨了，就算外表非常pass，已经RLE 很久医院也经常不给开证明\n（啊对了，作为科普\n作为跨性别者：\n你需要先在心理科开「小证」（诊断病历，通常是易性症或性别焦虑、最新的说法是性别不一致）\n啊，虽然世卫组织已经将跨性别去病化，但中国你敢信不同医院使用的标准竟然是不同的！表述也不同，反正我去的几个医院表述基本都不太一样，就是标准很乱\n啊，其实95%的医生是不能开小证的，要么不懂要么自己反跨要么没有权限哈哈，所以什么医生能开基本上完全依靠社群智慧（跨性别的社群wiki 如https://t.co/hdz1TBFeVZ）\n开小证之后还不能直接开药，你如果直接去内分泌科开药会被拒，不是医生不给开，是医院系统根本不允许开「性别和身份性别不符的激素药物」\n\n那就要去专门的医院启动HRT 治疗。反正我是花了不下1000元（？ 的检查费用，什么抽血尿检甚至有核磁共振啊还有心理量表，总之就是医院为了推卸责任确保你适合HRT \n开启之后，HRT 的方案也有很多，你还要自己去定期监测激素水平、血栓风险等，需要说明的是HRT 在依照医嘱的情况下确实不会造成什么寿命上的影响，但多复杂我想你应该能想到，而且这种复杂还是医疗不友好导致的\n然后你如果要SRS 还要开大证，就是正式诊断，这个要求也一堆还没几个医生能开，啊对，甚至还有医生的职称要求\n然后SRS 也不是一下就好，我还没做过不了解，反正就也很麻烦，而且更麻烦，可以自己去查\n\n所以我认为很多人反跨仅仅是不了解跨性别到底有多麻烦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074789861287178617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luminimk7 @TponyS_xiaoma @Meguminsama2009 你猜呢？\n为什么那么多自制HRT \n\n啊对了，就连这种正规治疗都完全看家长脸色\n反正我个人比较顺利，但这完全只是因为我妈比较支持我，仅此而已。\n如果不是家长党就很惨了，就算外表非常pass，已经RLE 很久医院也经常不给开证明\n（啊对了，作为科普\n作为跨性别者："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046781355753664512",
+        "conversation_id": "2074269714608689584",
+        "created_at": "2026-07-08T09:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074789861287178617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 42,
+              "id": "1557846379736666113",
+              "start": 26,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074789861287178617",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074781306756686053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @TponyS_xiaoma @Meguminsama2009 ？原来提供这方面药物的医院比能做变性手术的医院少吗，有点抽象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 49,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T02:45:20.000Z",
+        "description": "",
+        "id": "2046781355753664512",
+        "name": "Lumini",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "Luminimk7",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2072316487369445686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21535,
+          "following_count": 360,
+          "like_count": 5717,
+          "listed_count": 131,
+          "media_count": 744,
+          "tweet_count": 6954
+        },
+        "url": "",
+        "username": "TponyS_xiaoma",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@meguminsuki2009",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1960,
+          "like_count": 3364,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 7670
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

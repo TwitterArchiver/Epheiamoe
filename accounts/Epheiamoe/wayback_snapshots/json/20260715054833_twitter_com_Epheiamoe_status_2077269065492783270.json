@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077211550104866998",
+    "created_at": "2026-07-15T05:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077269065492783270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495727990202056708",
+          "start": 0,
+          "username": "pascal92110050"
+        },
+        {
+          "end": 32,
+          "id": "1920665768750182401",
+          "start": 16,
+          "username": "Restorelife0771"
+        },
+        {
+          "end": 48,
+          "id": "1260553941714186241",
+          "start": 33,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077269065492783270",
+    "in_reply_to_user_id": "1495727990202056708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077238224385409077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pascal92110050 @Restorelife0771 @whyyoutouzhele ？Claude code 下载不需要翻墙啊\n用Claude 模型要翻墙而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077211550104866998",
+        "created_at": "2026-07-15T05:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077269065492783270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495727990202056708",
+              "start": 0,
+              "username": "pascal92110050"
+            },
+            {
+              "end": 32,
+              "id": "1920665768750182401",
+              "start": 16,
+              "username": "Restorelife0771"
+            },
+            {
+              "end": 48,
+              "id": "1260553941714186241",
+              "start": 33,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077269065492783270",
+        "in_reply_to_user_id": "1495727990202056708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077238224385409077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pascal92110050 @Restorelife0771 @whyyoutouzhele ？Claude code 下载不需要翻墙啊\n用Claude 模型要翻墙而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495727990202056708",
+        "conversation_id": "2077211550104866998",
+        "created_at": "2026-07-15T03:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077238224385409077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077238224385409077",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077227775149412634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 @whyyoutouzhele 那为啥无法访问了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 72,
+          "like_count": 664,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T11:52:10.000Z",
+        "description": "1",
+        "id": "1495727990202056708",
+        "name": "pluto",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 8,
+          "like_count": 12820,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1005
+        },
+        "url": "",
+        "username": "pascal92110050",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。；\n顺男友跨 ；*非* MtF/顺女 请注意；\n喜欢玩音游 喜欢听电音 在学习日语 成绩很差\n是个胖子 属于 98% 健全人(可能无攻击性)；\nにほんの友達が欲しい\n；有的时候回一些豆包语录是在反串，请知悉",
+        "id": "1920665768750182401",
+        "name": "Restorelife0771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 324,
+          "like_count": 6813,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "Restorelife0771",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247301,
+          "following_count": 1078,
+          "like_count": 9796,
+          "listed_count": 8823,
+          "media_count": 50413,
+          "tweet_count": 57625
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

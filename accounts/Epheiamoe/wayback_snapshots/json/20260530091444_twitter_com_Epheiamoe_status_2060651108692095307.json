@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2060551408932516311",
+    "created_at": "2026-05-30T09:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060651108692095307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20603…",
+          "end": 45,
+          "expanded_url": "https://x.com/i/status/2060324896744546427",
+          "start": 22,
+          "url": "https://t.co/6s8Hmt9ul6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060651108692095307",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060324896744546427",
+        "type": "quoted"
+      },
+      {
+        "id": "2060551408932516311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 还是这句话\nhttps://t.co/6s8Hmt9ul6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2060324884539179009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe-kQDbAAEfXLd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060551400057368576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiMlMHacAAOdH7.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060551408932516311",
+        "created_at": "2026-05-30T09:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060651108692095307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20603…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/status/2060324896744546427",
+              "start": 22,
+              "url": "https://t.co/6s8Hmt9ul6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060651108692095307",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060324896744546427",
+            "type": "quoted"
+          },
+          {
+            "id": "2060551408932516311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 还是这句话\nhttps://t.co/6s8Hmt9ul6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324884539179009"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060323836453933352",
+        "created_at": "2026-05-29T11:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324896744546427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwKehxhsXU",
+              "end": 43,
+              "expanded_url": "https://x.com/Epheiamoe/status/2060324896744546427/photo/1",
+              "media_key": "3_2060324884539179009",
+              "start": 20,
+              "url": "https://t.co/BwKehxhsXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324896744546427",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323836453933352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 如图。 https://t.co/BwKehxhsXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060551400057368576"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060551408932516311",
+        "created_at": "2026-05-30T02:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060551408932516311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuGShGfdI7",
+              "end": 105,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060551408932516311/photo/1",
+              "media_key": "3_2060551400057368576",
+              "start": 82,
+              "url": "https://t.co/JuGShGfdI7"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2060323836453933352",
+              "start": 106,
+              "url": "https://t.co/D2qZ8WDxRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060551408932516311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2037,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323836453933352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TapTap 官方账号也参与谣言的传播……\n\n你们官方账号的运营者就不能查一下信息的真实性（美国人自己知道吗？），或者稍微动动脑子想一想：喝洗脚水会导致肺部感染？ https://t.co/JuGShGfdI7 https://t.co/D2qZ8WDxRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n酷儿，女性倾向跨性别者。\n主要账号@nyaepheia\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 73,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 50,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 14,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4437,
+          "following_count": 867,
+          "like_count": 23282,
+          "listed_count": 11,
+          "media_count": 1238,
+          "tweet_count": 6932
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

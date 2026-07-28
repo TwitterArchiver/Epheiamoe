@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2064227645244776726",
+    "created_at": "2026-06-09T06:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064227645244776726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jessica3187519…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Jessica31875193/status/2063696844006498547",
+          "start": 15,
+          "url": "https://t.co/fg76pRBoyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064227645244776726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063696844006498547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这集神了\n\n还有教唆自杀环节 https://t.co/fg76pRBoyj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2064227645244776726",
+        "created_at": "2026-06-09T06:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064227645244776726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jessica3187519…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Jessica31875193/status/2063696844006498547",
+              "start": 15,
+              "url": "https://t.co/fg76pRBoyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064227645244776726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063696844006498547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这集神了\n\n还有教唆自杀环节 https://t.co/fg76pRBoyj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568495582762926082",
+        "conversation_id": "2063585000902304026",
+        "created_at": "2026-06-07T18:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063696844006498547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063696844006498547",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46415,
+          "like_count": 122,
+          "quote_count": 7,
+          "reply_count": 152,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063585000902304026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 父母不欠你的\n这个世界上没有人欠你的\n你在这个世界上受的任何委屈\n都可以这样结尾：\n要么忍，要么滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 15,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T07:04:39.000Z",
+        "description": "看人多的地方\n那里有流动性\n去人少的地方\n那里是盈利点",
+        "id": "1568495582762926082",
+        "location": "杭州",
+        "name": "贪狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062557730624450560/OYDlu0bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 128,
+          "like_count": 5521,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 901
+        },
+        "username": "Jessica31875193",
+        "verified": false
+      }
+    ]
+  }
+}

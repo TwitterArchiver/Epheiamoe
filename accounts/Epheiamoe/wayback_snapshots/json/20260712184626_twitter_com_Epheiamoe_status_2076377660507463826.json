@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075839160557126118",
+    "created_at": "2026-07-12T18:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076377660507463826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "881000299359387649",
+          "start": 0,
+          "username": "stonebuilds"
+        },
+        {
+          "end": 24,
+          "id": "1671111271612293120",
+          "start": 13,
+          "username": "st7evechou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076377660507463826",
+    "in_reply_to_user_id": "881000299359387649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075938108043108787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stonebuilds @st7evechou 因为想这么做的公司的模型质量不行\n而模型质量好的厂商又不是那么商业，比如glm,kimi这种本质上都来自大学实验室（？\nDeepSeek 就更不商业了，现在甚至都没有coding plan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075839160557126118",
+        "created_at": "2026-07-12T18:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076377660507463826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "881000299359387649",
+              "start": 0,
+              "username": "stonebuilds"
+            },
+            {
+              "end": 24,
+              "id": "1671111271612293120",
+              "start": 13,
+              "username": "st7evechou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076377660507463826",
+        "in_reply_to_user_id": "881000299359387649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075938108043108787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stonebuilds @st7evechou 因为想这么做的公司的模型质量不行\n而模型质量好的厂商又不是那么商业，比如glm,kimi这种本质上都来自大学实验室（？\nDeepSeek 就更不商业了，现在甚至都没有coding plan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881000299359387649",
+        "conversation_id": "2075839160557126118",
+        "created_at": "2026-07-11T13:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075938108043108787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671111271612293120",
+              "start": 0,
+              "username": "st7evechou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075938108043108787",
+        "in_reply_to_user_id": "1671111271612293120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2355,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075839160557126118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@st7evechou 中国人不是最擅长勾客户吗？怎么没有人先发明这些，是因为重置需要贴更多钱舍不得吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 68,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-01T04:03:34.000Z",
+        "description": "正在努力vibe coding，不定时分享踩坑经验\n关注我，让我们一起迈向月入万刀（目前月入百刀）\nDirectory: https://t.co/ctc7K5HCk5\nGame: https://t.co/piDOc3ECwf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aiindex.tools",
+                "end": 84,
+                "expanded_url": "http://aiindex.tools",
+                "start": 61,
+                "url": "https://t.co/ctc7K5HCk5"
+              },
+              {
+                "display_url": "watermelongame.vip",
+                "end": 114,
+                "expanded_url": "https://watermelongame.vip",
+                "start": 91,
+                "url": "https://t.co/piDOc3ECwf"
+              }
+            ]
+          }
+        },
+        "id": "881000299359387649",
+        "name": "小石头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861396794779017218/oCSA4wLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1125,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 2119
+        },
+        "url": "",
+        "username": "stonebuilds",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T11:02:37.000Z",
+        "description": "我是 Steve 。曾经的 Apple 开发者 / YouTuber / 数码爱好者 / Tesla 车主 / Apple Fans / APP 安利推广者/🈲政治。\n合作联系: zxfccmm@gmail.com",
+        "id": "1671111271612293120",
+        "name": "𝗦𝘁𝗲𝘃𝗲 𝕏",
+        "pinned_tweet_id": "1817727456461386036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941409364998524928/OBsW1axO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16131,
+          "following_count": 571,
+          "like_count": 6366,
+          "listed_count": 113,
+          "media_count": 3226,
+          "tweet_count": 10613
+        },
+        "url": "",
+        "username": "st7evechou",
+        "verified": false
+      }
+    ]
+  }
+}

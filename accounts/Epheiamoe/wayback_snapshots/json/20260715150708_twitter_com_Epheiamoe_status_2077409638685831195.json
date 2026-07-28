@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077409638685831195",
+    "created_at": "2026-07-15T15:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077409638685831195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure07288/s…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/shigure07288/status/2077300293596053754",
+          "start": 101,
+          "url": "https://t.co/INxp4gjQd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077409638685831195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077300293596053754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分顺直显然是对跨性别无感的，因为这和他们根本没关系。而就是有那么一部分人明明自己不是跨但对跨性别议题非常关心，而且还带有对跨性别的「恐惧」。\n那显然答案就是因为他们内心里也是跨，只不过黑化了而已。 https://t.co/INxp4gjQd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 159,
+        "media_key": "3_2077300173550866432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQNgHhbUAAI3SF.jpg",
+        "width": 413
+      },
+      {
+        "height": 142,
+        "media_key": "3_2077300280862072832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQNmXSaYAAwy9K.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077409638685831195",
+        "created_at": "2026-07-15T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077409638685831195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/shigure07288/status/2077300293596053754",
+              "start": 101,
+              "url": "https://t.co/INxp4gjQd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077409638685831195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077300293596053754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分顺直显然是对跨性别无感的，因为这和他们根本没关系。而就是有那么一部分人明明自己不是跨但对跨性别议题非常关心，而且还带有对跨性别的「恐惧」。\n那显然答案就是因为他们内心里也是跨，只不过黑化了而已。 https://t.co/INxp4gjQd5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077300173550866432",
+            "3_2077300280862072832"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077300293596053754",
+        "created_at": "2026-07-15T07:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077300293596053754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg6rQBUlX4",
+              "end": 33,
+              "expanded_url": "https://x.com/shigure07288/status/2077300293596053754/photo/1",
+              "media_key": "3_2077300173550866432",
+              "start": 10,
+              "url": "https://t.co/rg6rQBUlX4"
+            },
+            {
+              "display_url": "pic.x.com/rg6rQBUlX4",
+              "end": 33,
+              "expanded_url": "https://x.com/shigure07288/status/2077300293596053754/photo/1",
+              "media_key": "3_2077300280862072832",
+              "start": 10,
+              "url": "https://t.co/rg6rQBUlX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077300293596053754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1140,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫反跨即深柜？ https://t.co/rg6rQBUlX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 72,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 671,
+          "like_count": 7225,
+          "listed_count": 8,
+          "media_count": 623,
+          "tweet_count": 8281
+        },
+        "url": "",
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

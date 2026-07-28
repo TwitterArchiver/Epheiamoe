@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060289856123924480"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2060047401985966420",
+    "created_at": "2026-05-29T09:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060289864118247883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489708074717925382",
+          "start": 0,
+          "username": "arthurcoins"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Confused about cryptocurrencies, like bitcoin or Ether (associated with Ethereum)? You’re not alone.",
+          "display_url": "consumer.ftc.gov/articles/what-…",
+          "end": 160,
+          "expanded_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2058558450209038336/hsiDm4RQ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058558450209038336/hsiDm4RQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 137,
+          "status": 200,
+          "title": "What To Know About Cryptocurrency and Scams",
+          "unwound_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
+          "url": "https://t.co/biRL0dZvUe"
+        },
+        {
+          "display_url": "pic.x.com/i6rjr4gv3r",
+          "end": 184,
+          "expanded_url": "https://x.com/Epheiamoe/status/2060289864118247883/photo/1",
+          "media_key": "3_2060289856123924480",
+          "start": 161,
+          "url": "https://t.co/i6rjr4gv3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060289864118247883",
+    "in_reply_to_user_id": "1489708074717925382",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060047401985966420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arthurcoins This is a common scam tactic where users are lured into fraudulent cryptocurrency investment offers via DMs after replying. https://t.co/biRL0dZvUe https://t.co/i6rjr4gv3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2267,
+        "media_key": "3_2060289856123924480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeetVCbcAAhexR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 275,
+        "media_key": "3_2060047397103734788",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbCMWzWEAQ2Flw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060289856123924480"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2060047401985966420",
+        "created_at": "2026-05-29T09:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060289864118247883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489708074717925382",
+              "start": 0,
+              "username": "arthurcoins"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Confused about cryptocurrencies, like bitcoin or Ether (associated with Ethereum)? You’re not alone.",
+              "display_url": "consumer.ftc.gov/articles/what-…",
+              "end": 160,
+              "expanded_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2058558450209038336/hsiDm4RQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058558450209038336/hsiDm4RQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "What To Know About Cryptocurrency and Scams",
+              "unwound_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
+              "url": "https://t.co/biRL0dZvUe"
+            },
+            {
+              "display_url": "pic.x.com/i6rjr4gv3r",
+              "end": 184,
+              "expanded_url": "https://x.com/Epheiamoe/status/2060289864118247883/photo/1",
+              "media_key": "3_2060289856123924480",
+              "start": 161,
+              "url": "https://t.co/i6rjr4gv3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060289864118247883",
+        "in_reply_to_user_id": "1489708074717925382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060047401985966420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arthurcoins This is a common scam tactic where users are lured into fraudulent cryptocurrency investment offers via DMs after replying. https://t.co/biRL0dZvUe https://t.co/i6rjr4gv3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060047397103734788"
+          ]
+        },
+        "author_id": "1489708074717925382",
+        "conversation_id": "2060047401985966420",
+        "created_at": "2026-05-28T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060047401985966420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiFw0qjuE6",
+              "end": 112,
+              "expanded_url": "https://x.com/arthurcoins/status/2060047401985966420/photo/1",
+              "media_key": "3_2060047397103734788",
+              "start": 89,
+              "url": "https://t.co/DiFw0qjuE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060047401985966420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 390858,
+          "like_count": 1710,
+          "quote_count": 16,
+          "reply_count": 4075,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "If $6k is alot of money to you, reply with \"yes\" and check your DMs.\n\nYou have 24 hours. https://t.co/DiFw0qjuE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 21,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T21:11:07.000Z",
+        "description": "Full-Time Meme Gambler 🎲 | Web3 Marketing and Kol's Manager | DM for Collabs/Promo 📥 | All NFA / DYOR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "solpump.io/a/ARTHUR",
+                "end": 23,
+                "expanded_url": "http://solpump.io/a/ARTHUR",
+                "start": 0,
+                "url": "https://t.co/fNPSkojuOj"
+              }
+            ]
+          }
+        },
+        "id": "1489708074717925382",
+        "location": "DM For Inquires",
+        "name": "Arthur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761195574253047810/chDSdOrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79914,
+          "following_count": 1615,
+          "like_count": 122941,
+          "listed_count": 59,
+          "media_count": 1254,
+          "tweet_count": 16721
+        },
+        "url": "https://t.co/fNPSkojuOj",
+        "username": "arthurcoins",
+        "verified": true
+      }
+    ]
+  }
+}

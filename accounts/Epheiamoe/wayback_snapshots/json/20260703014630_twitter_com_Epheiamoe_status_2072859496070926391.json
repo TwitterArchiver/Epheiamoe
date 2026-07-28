@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2072766761355919805",
+    "created_at": "2026-07-03T01:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072859496070926391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058152524918755328",
+          "start": 0,
+          "username": "Yu_Xin1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072859496070926391",
+    "in_reply_to_user_id": "2058152524918755328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072766761355919805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_Xin1225 方舟建客（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2072766761355919805",
+        "created_at": "2026-07-03T01:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072859496070926391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058152524918755328",
+              "start": 0,
+              "username": "Yu_Xin1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072859496070926391",
+        "in_reply_to_user_id": "2058152524918755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072766761355919805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_Xin1225 方舟建客（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058152524918755328",
+        "conversation_id": "2072766761355919805",
+        "created_at": "2026-07-02T19:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072766761355919805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072766761355919805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢去医院 怎么买到🍥喵🤚😭🤚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 25,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T11:46:49.000Z",
+        "description": "10.12.25\n今年16刚中考完喵\nMtF🍥🏳️‍⚧️\nISFJ-T\n无证含糖喵\n略微喜欢涩涩 \n同类🏳️‍⚧️互fo喵~❤️",
+        "id": "2058152524918755328",
+        "location": "浙江省 温州市 ",
+        "name": "楠楠.🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071244524043845768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072769762124566528/wLOvtYu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 221,
+          "like_count": 855,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Yu_Xin1225",
+        "verified": false
+      }
+    ]
+  }
+}

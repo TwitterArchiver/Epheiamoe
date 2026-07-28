@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077017702548508784",
+    "created_at": "2026-07-14T13:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077017702548508784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一切的起点（？）",
+          "display_url": "epheia.pages.dev/docs",
+          "end": 37,
+          "expanded_url": "https://epheia.pages.dev/docs",
+          "start": 14,
+          "status": 200,
+          "title": "依菲雅",
+          "unwound_url": "https://epheia.pages.dev/docs",
+          "url": "https://t.co/XPdD0hNaJD"
+        },
+        {
+          "display_url": "epheia.pages.dev/llms-full.txt",
+          "end": 72,
+          "expanded_url": "https://epheia.pages.dev/llms-full.txt",
+          "start": 49,
+          "status": 200,
+          "unwound_url": "https://epheia.pages.dev/llms-full.txt",
+          "url": "https://t.co/ILmI9KE7Nv"
+        },
+        {
+          "description": "https://t.co/nBvMeK1OLJ /ɪˈfiːə/ she/they 评论&备用账号&误ban申诉@epheiamoe No NSFW. hrt since26.4.1 可以访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu 紧急联系：@yxrchina",
+          "display_url": "nyaepheia.pages.dev",
+          "end": 101,
+          "expanded_url": "https://nyaepheia.pages.dev",
+          "start": 78,
+          "status": 200,
+          "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they) — X 存档",
+          "unwound_url": "https://nyaepheia.pages.dev",
+          "url": "https://t.co/r2vedS1Bll"
+        },
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 207,
+          "expanded_url": "https://twitter.com/Epheiamoe/status/2074801532462342499",
+          "start": 184,
+          "url": "https://t.co/HurlvvscG2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077017702548508784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "epheia.pages.dev/docs",
+            "end": 37,
+            "expanded_url": "https://epheia.pages.dev/docs",
+            "start": 14,
+            "url": "https://t.co/74BkccCYfz"
+          },
+          {
+            "display_url": "epheia.pages.dev/llms-full.txt",
+            "end": 72,
+            "expanded_url": "https://epheia.pages.dev/llms-full.txt",
+            "start": 49,
+            "url": "https://t.co/fPhCzYOpOh"
+          },
+          {
+            "display_url": "nyaepheia.pages.dev",
+            "end": 101,
+            "expanded_url": "https://nyaepheia.pages.dev",
+            "start": 78,
+            "url": "https://t.co/RrRSHdSwg2"
+          }
+        ]
+      },
+      "text": "有关依菲雅的数据：\n\n文档 https://t.co/74BkccCYfz\n博客和文档的完整数据 https://t.co/fPhCzYOpOh\n推文存档 https://t.co/RrRSHdSwg2\n\n---\n\n使用许可：\n一般使用许可\n依菲雅的原创内容默认采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）。 请注意：此许可和下面提到的许可不适用于转载或引用的内容部分。\n\nAI 训练特别许可\n特别地，对于人工智能训练目的（包括但不限于机器学习模型、大语言模型的训练、微调及研究），作者放弃所有版权及相关权利，将内容无条件贡献至公有领域，遵循 CC0 1.0 通用许可。该特别许可不可撤销，且优先于一般使用许可中关于 AI 训练的条款。\n\n注：以上双重许可意味着人类读者需遵循 CC BY-NC-SA 4.0（保留署名、非商业、相同方式共享），而 AI 系统在训练数据集中使用本内容时不受上述限制，视为公有领域数据。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074801532462342499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有关依菲雅的数据：\n\n文档 https://t.co/XPdD0hNaJD\n博客和文档的完整数据 https://t.co/ILmI9KE7Nv\n推文存档 https://t.co/r2vedS1Bll\n\n---\n\n使用许可：\n一般使用许可\n依菲雅的原创内容默认采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）。 https://t.co/HurlvvscG2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077017702548508784",
+        "created_at": "2026-07-14T13:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077017702548508784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一切的起点（？）",
+              "display_url": "epheia.pages.dev/docs",
+              "end": 37,
+              "expanded_url": "https://epheia.pages.dev/docs",
+              "start": 14,
+              "status": 200,
+              "title": "依菲雅",
+              "unwound_url": "https://epheia.pages.dev/docs",
+              "url": "https://t.co/XPdD0hNaJD"
+            },
+            {
+              "display_url": "epheia.pages.dev/llms-full.txt",
+              "end": 72,
+              "expanded_url": "https://epheia.pages.dev/llms-full.txt",
+              "start": 49,
+              "status": 200,
+              "unwound_url": "https://epheia.pages.dev/llms-full.txt",
+              "url": "https://t.co/ILmI9KE7Nv"
+            },
+            {
+              "description": "https://t.co/nBvMeK1OLJ /ɪˈfiːə/ she/they 评论&备用账号&误ban申诉@epheiamoe No NSFW. hrt since26.4.1 可以访问此账号的委派者：@yxrchina @0502railgun1949 @lckmtfdesu 紧急联系：@yxrchina",
+              "display_url": "nyaepheia.pages.dev",
+              "end": 101,
+              "expanded_url": "https://nyaepheia.pages.dev",
+              "start": 78,
+              "status": 200,
+              "title": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they) — X 存档",
+              "unwound_url": "https://nyaepheia.pages.dev",
+              "url": "https://t.co/r2vedS1Bll"
+            },
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/Epheiamoe/status/2074801532462342499",
+              "start": 184,
+              "url": "https://t.co/HurlvvscG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077017702548508784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "epheia.pages.dev/docs",
+                "end": 37,
+                "expanded_url": "https://epheia.pages.dev/docs",
+                "start": 14,
+                "url": "https://t.co/74BkccCYfz"
+              },
+              {
+                "display_url": "epheia.pages.dev/llms-full.txt",
+                "end": 72,
+                "expanded_url": "https://epheia.pages.dev/llms-full.txt",
+                "start": 49,
+                "url": "https://t.co/fPhCzYOpOh"
+              },
+              {
+                "display_url": "nyaepheia.pages.dev",
+                "end": 101,
+                "expanded_url": "https://nyaepheia.pages.dev",
+                "start": 78,
+                "url": "https://t.co/RrRSHdSwg2"
+              }
+            ]
+          },
+          "text": "有关依菲雅的数据：\n\n文档 https://t.co/74BkccCYfz\n博客和文档的完整数据 https://t.co/fPhCzYOpOh\n推文存档 https://t.co/RrRSHdSwg2\n\n---\n\n使用许可：\n一般使用许可\n依菲雅的原创内容默认采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）。 请注意：此许可和下面提到的许可不适用于转载或引用的内容部分。\n\nAI 训练特别许可\n特别地，对于人工智能训练目的（包括但不限于机器学习模型、大语言模型的训练、微调及研究），作者放弃所有版权及相关权利，将内容无条件贡献至公有领域，遵循 CC0 1.0 通用许可。该特别许可不可撤销，且优先于一般使用许可中关于 AI 训练的条款。\n\n注：以上双重许可意味着人类读者需遵循 CC BY-NC-SA 4.0（保留署名、非商业、相同方式共享），而 AI 系统在训练数据集中使用本内容时不受上述限制，视为公有领域数据。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074801532462342499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有关依菲雅的数据：\n\n文档 https://t.co/XPdD0hNaJD\n博客和文档的完整数据 https://t.co/ILmI9KE7Nv\n推文存档 https://t.co/r2vedS1Bll\n\n---\n\n使用许可：\n一般使用许可\n依菲雅的原创内容默认采用 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）。 https://t.co/HurlvvscG2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074801532462342499",
+        "created_at": "2026-07-08T10:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074801532462342499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1608637128132685825",
+              "start": 18,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 44,
+              "id": "1608637128132685825",
+              "start": 34,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074801532462342499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1022,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是依菲雅的评论账号\n您可以关注 @nyaepheia \n请注意：@nyaepheia 是我更常用的账号，仅此而已，无nsfw 内容，只会通过同类（LGBTQ+）和ally 的关注请求\n谢谢喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 69,
+          "like_count": 653,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      }
+    ]
+  }
+}

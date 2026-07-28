@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064216612266450944"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2064216835684520170",
+    "created_at": "2026-06-09T05:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064216835684520170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k4Q5o2iIUv",
+          "end": 54,
+          "expanded_url": "https://x.com/Epheiamoe/status/2064216835684520170/photo/1",
+          "media_key": "3_2064216612266450944",
+          "start": 31,
+          "url": "https://t.co/k4Q5o2iIUv"
+        },
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Epheiamoe/status/2063105621852049428",
+          "start": 55,
+          "url": "https://t.co/EcY9qd7hr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064216835684520170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063105621852049428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "截至目前，ARG 的起始短链接被点击了1502次！谢谢大家！ https://t.co/k4Q5o2iIUv https://t.co/EcY9qd7hr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2064216612266450944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWSEnmaIAANUxv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 449,
+        "media_key": "3_2063105604852547584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGfnedagAAAcDu.png",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064216612266450944"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2064216835684520170",
+        "created_at": "2026-06-09T05:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064216835684520170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4Q5o2iIUv",
+              "end": 54,
+              "expanded_url": "https://x.com/Epheiamoe/status/2064216835684520170/photo/1",
+              "media_key": "3_2064216612266450944",
+              "start": 31,
+              "url": "https://t.co/k4Q5o2iIUv"
+            },
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Epheiamoe/status/2063105621852049428",
+              "start": 55,
+              "url": "https://t.co/EcY9qd7hr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216835684520170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063105621852049428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "截至目前，ARG 的起始短链接被点击了1502次！谢谢大家！ https://t.co/k4Q5o2iIUv https://t.co/EcY9qd7hr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063105604852547584"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063105621852049428",
+        "created_at": "2026-06-06T03:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063105621852049428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "yi.fo/ARG-58",
+              "end": 63,
+              "expanded_url": "https://yi.fo/ARG-58",
+              "start": 40,
+              "status": 200,
+              "title": "ECHO 回声站 - 系统恢复",
+              "unwound_url": "https://bbs.desuwa.org/",
+              "url": "https://t.co/1uAoAwP1Pf"
+            },
+            {
+              "display_url": "pic.x.com/cGWu9LOobz",
+              "end": 87,
+              "expanded_url": "https://x.com/Epheiamoe/status/2063105621852049428/photo/1",
+              "media_key": "3_2063105604852547584",
+              "start": 64,
+              "url": "https://t.co/cGWu9LOobz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063105621852049428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 24038,
+          "like_count": 188,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "一个 2005 年的 LGBTQ 论坛似乎在 2026 年重新恢复运营了……\n\nhttps://t.co/1uAoAwP1Pf https://t.co/cGWu9LOobz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 15,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

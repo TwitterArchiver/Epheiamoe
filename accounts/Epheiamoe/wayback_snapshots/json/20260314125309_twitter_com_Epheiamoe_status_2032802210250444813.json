@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032802205024301056"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2032802210250444813",
+    "created_at": "2026-03-14T12:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032802210250444813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aR8jc10sed",
+          "end": 26,
+          "expanded_url": "https://x.com/Epheiamoe/status/2032802210250444813/photo/1",
+          "media_key": "3_2032802205024301056",
+          "start": 3,
+          "url": "https://t.co/aR8jc10sed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032802210250444813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛逼 https://t.co/aR8jc10sed"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "NEEDY GIRL\nOVERDOSE\nニーディガール オーバードーズ\n​2026.4 START\n​TOKYO MX・BS11・群馬テレビ・とちぎテレビ\n4月4日(土)より 毎週土曜 24:30～\n​WOWOW\n4月7日(火)より 毎週火曜 24:00～\n​ABEMAにて\n4月4日(土) 24:30～ 地上波同時・最速配信\nほか各配信プラットフォームにて順次配信\n※放送日時は変更になる可能性がございます\n​公式HP https://needygirl-anime.com/ 公式X https://x.com/needygirl_anime\n公式TikTok https://www.tiktok.com/@needygirl_anime\n©WSS playground / NEEDY GIRL PROJECT",
+        "height": 721,
+        "media_key": "3_2032802205024301056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDX21dEasAAnqnc.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032802205024301056"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2032802210250444813",
+        "created_at": "2026-03-14T12:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032802210250444813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aR8jc10sed",
+              "end": 26,
+              "expanded_url": "https://x.com/Epheiamoe/status/2032802210250444813/photo/1",
+              "media_key": "3_2032802205024301056",
+              "start": 3,
+              "url": "https://t.co/aR8jc10sed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032802210250444813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/aR8jc10sed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "二次元百合厨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

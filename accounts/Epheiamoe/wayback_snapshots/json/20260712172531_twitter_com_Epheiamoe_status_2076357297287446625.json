@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076357290937217024"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076138277179117649",
+    "created_at": "2026-07-12T17:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076357297287446625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 29,
+          "id": "2055048512836972544",
+          "start": 14,
+          "username": "w2kmsorp444oid"
+        },
+        {
+          "end": 46,
+          "id": "1701484460250890240",
+          "start": 30,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0b47zkGAPG",
+          "end": 135,
+          "expanded_url": "https://x.com/Epheiamoe/status/2076357297287446625/photo/1",
+          "media_key": "3_2076357290937217024",
+          "start": 112,
+          "url": "https://t.co/0b47zkGAPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076357297287446625",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076315894012383665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @w2kmsorp444oid @SonogamiRinneTS 我认为我写的很清楚了，不会让你困惑\n在名字加代词是我的个人喜好，没有任何人强迫你也这么做，而且这不会有任何不好的影响，我乐意而已 https://t.co/0b47zkGAPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2076357290937217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCz9IEa8AAwYw8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076357290937217024"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076138277179117649",
+        "created_at": "2026-07-12T17:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076357297287446625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 29,
+              "id": "2055048512836972544",
+              "start": 14,
+              "username": "w2kmsorp444oid"
+            },
+            {
+              "end": 46,
+              "id": "1701484460250890240",
+              "start": 30,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b47zkGAPG",
+              "end": 135,
+              "expanded_url": "https://x.com/Epheiamoe/status/2076357297287446625/photo/1",
+              "media_key": "3_2076357290937217024",
+              "start": 112,
+              "url": "https://t.co/0b47zkGAPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076357297287446625",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076315894012383665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @w2kmsorp444oid @SonogamiRinneTS 我认为我写的很清楚了，不会让你困惑\n在名字加代词是我的个人喜好，没有任何人强迫你也这么做，而且这不会有任何不好的影响，我乐意而已 https://t.co/0b47zkGAPG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2076138277179117649",
+        "created_at": "2026-07-12T14:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076315894012383665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055048512836972544",
+              "start": 0,
+              "username": "w2kmsorp444oid"
+            },
+            {
+              "end": 26,
+              "id": "1984321775333937152",
+              "start": 16,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 43,
+              "id": "1701484460250890240",
+              "start": 27,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076315894012383665",
+        "in_reply_to_user_id": "2055048512836972544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076302670084890899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w2kmsorp444oid @Epheiamoe @SonogamiRinneTS 看不懂人话别上网了，我说特别说明自己的人称代词没必要，直接写明性别不行吗，直接写男/女，写he，she，her，his没必要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 68,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人/德拉无疑是美味的😋/本人搭载Welt大语言模型，响应速度114毫秒\n鉴证打咩，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 359,
+          "like_count": 10500,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 7597
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T22:12:25.000Z",
+        "description": "她/她的 十八年复数 讲话很没米线 嗑药三年依旧报以摸得",
+        "id": "2055048512836972544",
+        "name": "mint",
+        "pinned_tweet_id": "2055427502743630202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058362152512315392/vnuI-3fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 100,
+          "like_count": 4360,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "w2kmsorp444oid",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 3752,
+          "like_count": 1509,
+          "listed_count": 17,
+          "media_count": 289,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

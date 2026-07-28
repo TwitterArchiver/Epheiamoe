@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069428890120962270",
+    "created_at": "2026-06-23T18:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T19:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069488472445092103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "description": "希望成为中文多元性别社群历史的见证者",
+          "display_url": "transchinese.org",
+          "end": 32,
+          "expanded_url": "https://transchinese.org/",
+          "images": [
+            {
+              "height": 731,
+              "url": "https://pbs.twimg.com/news_img/2069488480217141248/mufhv4Iq?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2069488480217141248/mufhv4Iq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 9,
+          "status": 200,
+          "title": "多元性别中文数字图书馆",
+          "unwound_url": "https://transchinese.org/",
+          "url": "https://t.co/wsRXVAkGsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069488472445092103",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069428890120962270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui https://t.co/wsRXVAkGsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2069428846366179328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgWkkuaQAAF9vd.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069428890120962270",
+        "created_at": "2026-06-23T18:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069488472445092103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "description": "希望成为中文多元性别社群历史的见证者",
+              "display_url": "transchinese.org",
+              "end": 32,
+              "expanded_url": "https://transchinese.org/",
+              "images": [
+                {
+                  "height": 731,
+                  "url": "https://pbs.twimg.com/news_img/2069488480217141248/mufhv4Iq?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069488480217141248/mufhv4Iq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 9,
+              "status": 200,
+              "title": "多元性别中文数字图书馆",
+              "unwound_url": "https://transchinese.org/",
+              "url": "https://t.co/wsRXVAkGsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069488472445092103",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428890120962270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui https://t.co/wsRXVAkGsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069428846366179328"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2069428890120962270",
+        "created_at": "2026-06-23T14:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069428890120962270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtrshDwLJJ",
+              "end": 32,
+              "expanded_url": "https://x.com/gdioiui/status/2069428890120962270/photo/1",
+              "media_key": "3_2069428846366179328",
+              "start": 9,
+              "url": "https://t.co/gtrshDwLJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069428890120962270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 602,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想买这个... https://t.co/gtrshDwLJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 21,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 477,
+          "like_count": 4255,
+          "listed_count": 3,
+          "media_count": 1465,
+          "tweet_count": 7793
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

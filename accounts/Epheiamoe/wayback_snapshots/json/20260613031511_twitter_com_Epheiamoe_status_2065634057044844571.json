@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2065010095856197710",
+    "created_at": "2026-06-13T03:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065634057044844571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        },
+        {
+          "end": 25,
+          "id": "1980140172726673408",
+          "start": 13,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065634057044844571",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065633204321788136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth @RenChan_VmV 我认同您提出的这个观点\n但我认为，如果您要用AI，而其他人不使用，是非常不尊重和不公平的事情。\n我个人很讨厌不标注地使用AI。我都会对AI 生成内容进行标注。\n\n图中并非我的观点，是Grok 的观点，如你所见，我没有写任何AI 提示词。所以，这段表述确实存在问题。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2065633201918484480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqac_SaoAAF67k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065010095856197710",
+        "created_at": "2026-06-13T03:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065634057044844571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            },
+            {
+              "end": 25,
+              "id": "1980140172726673408",
+              "start": 13,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065634057044844571",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065633204321788136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth @RenChan_VmV 我认同您提出的这个观点\n但我认为，如果您要用AI，而其他人不使用，是非常不尊重和不公平的事情。\n我个人很讨厌不标注地使用AI。我都会对AI 生成内容进行标注。\n\n图中并非我的观点，是Grok 的观点，如你所见，我没有写任何AI 提示词。所以，这段表述确实存在问题。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065633201918484480"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2065010095856197710",
+        "created_at": "2026-06-13T03:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065633204321788136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            },
+            {
+              "end": 23,
+              "id": "1980140172726673408",
+              "start": 11,
+              "username": "RenChan_VmV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZB2coibWlY",
+              "end": 108,
+              "expanded_url": "https://x.com/TaoistYouth/status/2065633204321788136/photo/1",
+              "media_key": "3_2065633201918484480",
+              "start": 85,
+              "url": "https://t.co/ZB2coibWlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065633204321788136",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065629667848282284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe @RenChan_VmV 我真求你了，一段论证的成立与否，只取决于它的论据是否真实、推导是否严密，跟谁的模型更好、谁打字更快用不用AI没有任何关系 https://t.co/ZB2coibWlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 16,
+          "like_count": 309,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "一入玄门终不悔，永做三清不二臣。\n新疆乌鲁木齐人，现居日本，是留学生，道教善信。\n永远铭记六四。\n小粉红行为病理特征如下：\n1. 行为割裂：肉体翻墙享受言论自由，精神筑墙赞美信息禁锢。\n2.认知防卫：逻辑无法自洽时，迅速启动“宏大叙事”与自我感动催眠。\n3.去智识化：无法进行逻辑辩论，只会扣帽、比烂、人身攻击与举报。",
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "Taoist Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2062141364662636669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 74,
+          "like_count": 2721,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 756
+        },
+        "username": "TaoistYouth",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/They|02/21/12究极小登|gay🏳️‍🌈🏳️‍⚧️激进挺跨|中间偏左社民入🌹日常发些碎碎念呀|爱听术曲 可能是东方众（？）\n不OD不自残但是缺爱逼阴暗网区qwq\n想一下把这么温良这么友善的我block了是谁的问题╮(╯_╰)╭",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 776,
+          "like_count": 60869,
+          "listed_count": 4,
+          "media_count": 205,
+          "tweet_count": 11793
+        },
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

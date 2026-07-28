@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060324884539179009"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2060323836453933352",
+    "created_at": "2026-05-29T11:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060324896744546427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BwKehxhsXU",
+          "end": 43,
+          "expanded_url": "https://x.com/Epheiamoe/status/2060324896744546427/photo/1",
+          "media_key": "3_2060324884539179009",
+          "start": 20,
+          "url": "https://t.co/BwKehxhsXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060324896744546427",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060323836453933352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 如图。 https://t.co/BwKehxhsXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2060324884539179009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe-kQDbAAEfXLd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2060323828044267520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe9mwTaAAARuBy.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060324884539179009"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060323836453933352",
+        "created_at": "2026-05-29T11:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324896744546427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwKehxhsXU",
+              "end": 43,
+              "expanded_url": "https://x.com/Epheiamoe/status/2060324896744546427/photo/1",
+              "media_key": "3_2060324884539179009",
+              "start": 20,
+              "url": "https://t.co/BwKehxhsXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324896744546427",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323836453933352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 如图。 https://t.co/BwKehxhsXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060323828044267520"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060323836453933352",
+        "created_at": "2026-05-29T11:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060323836453933352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gvxlvy0IdY",
+              "end": 97,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060323836453933352/photo/1",
+              "media_key": "3_2060323828044267520",
+              "start": 74,
+              "url": "https://t.co/Gvxlvy0IdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060323836453933352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张截图在中国社交媒体上流传甚广。\n\n但環状線有几个问题：\n喝洗脚水会导致肺部感染？\n洗脚水喝下去的时候会流经肺部？\n肺部感染了而胃肠道安然无恙？ https://t.co/Gvxlvy0IdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 21,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 867,
+          "like_count": 23130,
+          "listed_count": 11,
+          "media_count": 1229,
+          "tweet_count": 6888
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

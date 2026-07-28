@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030175763908153344"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2030175780618281219",
+    "created_at": "2026-03-07T06:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030175780618281219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OFvbhOHFkt",
+          "end": 23,
+          "expanded_url": "https://x.com/Epheiamoe/status/2030175780618281219/photo/1",
+          "media_key": "3_2030175763908153344",
+          "start": 0,
+          "url": "https://t.co/OFvbhOHFkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030175780618281219",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OFvbhOHFkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "[测试网址](https://ab8.site/colortest3)\n图片内容：\n图片内容描述\n​1. 视觉主体：\n图片上半部分是一个圆角矩形窗口，展示了一群正在飞翔的飞鸟。画面采用了高对比度、带有强烈颗粒感的复古滤镜，色调以深青色（Teal）和灰蓝色为主。飞鸟呈现出半透明的浅亮青色，仿佛具有某种灵性或梦幻感。翅膀交织，形成一种向斜上方涌动的生命力与韵律感。\n​2. 核心文字：\n图片中部印有两行中文。\n​文案： “不远处就是通向天空的弹簧。” 字体纤细，带着一种诗意的哲理。\n​标题： 「 飞 鸟 」，并用括弧标注，居中排版，强调了意象的主题。\n​3. 色彩分析条：\n文字下方有一条水平的渐变色块，展示了画面所使用的色彩空间，由左至右分别是：深蓝、冬青、青绿。这体现了一种冷色调的艺术美学。\n​4. 交互与底部信息：\n​中间有一个紫色的椭圆形按钮，上面写着“查看解析”。\n​下方有细小的灰色提示文字：“请使用手机自带截图保存”、“图片来源于 Unsplash”。\n​最底部显示了网页工具栏，包含图标及网址 ab8.site。\n​设计风格分析\n​整体设计呈现出赛博禅意（Cyber-Zen）或现代极简文艺风。通过暗冷色调与抽象文案的结合，营造出一种孤独、自由且充满希望的心理氛围。",
+        "height": 2128,
+        "media_key": "3_2030175763908153344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyiGddaUAAHHg2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030175763908153344"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2030175780618281219",
+        "created_at": "2026-03-07T06:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030175780618281219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFvbhOHFkt",
+              "end": 23,
+              "expanded_url": "https://x.com/Epheiamoe/status/2030175780618281219/photo/1",
+              "media_key": "3_2030175763908153344",
+              "start": 0,
+              "url": "https://t.co/OFvbhOHFkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030175780618281219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OFvbhOHFkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "二次元百合厨 | 假装自己在学编程(x) |\n用分隔符填充简介但实际上自己根本没有什么特色 | 就这样",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

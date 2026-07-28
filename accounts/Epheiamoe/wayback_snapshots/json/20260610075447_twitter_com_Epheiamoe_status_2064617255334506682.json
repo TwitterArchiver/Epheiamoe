@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2064518721859706965",
+    "created_at": "2026-06-10T07:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064617255334506682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "910798559125045248",
+          "start": 0,
+          "username": "majuismail1122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064617255334506682",
+    "in_reply_to_user_id": "910798559125045248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064518721859706965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@majuismail1122 😅第一次看到T without LGB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2064518721859706965",
+        "created_at": "2026-06-10T07:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064617255334506682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "910798559125045248",
+              "start": 0,
+              "username": "majuismail1122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064617255334506682",
+        "in_reply_to_user_id": "910798559125045248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064518721859706965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@majuismail1122 😅第一次看到T without LGB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "910798559125045248",
+        "conversation_id": "2064518721859706965",
+        "created_at": "2026-06-10T01:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064518721859706965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vicwong/statu…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/_vicwong/status/2064333587747324376",
+              "start": 134,
+              "url": "https://t.co/hXWI3X7QjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064518721859706965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6026,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333587747324376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伊斯兰历史上记录最早的LGBTQ婚姻在8世纪。为LGBTQ的教法规约早在10世纪已经明文颁布…\n伊朗政府支付跨性别手术费用…\n\n有时候不得不感到：这世界是谣言与抹黑主导下的意识形态，庞大无知者为基础构建下的社会现实。\n互联网带来了新的可能，也带来了更多的谎言与考验。 https://t.co/hXWI3X7QjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 15,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T09:31:13.000Z",
+        "description": "伊斯兰价值坚守者，尊重自由抉择权🌈、女权主义、没有国籍的流浪者，今日大地的祖国是天山和🇵🇸；私信一般看不到；留言带脏字儿，管你是谁就拉黑。油管：https://t.co/AYh2BDPWfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEB68…",
+                "end": 95,
+                "expanded_url": "https://youtube.com/channel/UCEB68eRJ0bZNpUvafnfjaiw?si=-CWTLB9ttOBVPcGC",
+                "start": 72,
+                "url": "https://t.co/AYh2BDPWfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freeismailjuma…",
+                "end": 23,
+                "expanded_url": "https://t.me/freeismailjuma1122",
+                "start": 0,
+                "url": "https://t.co/sMWB4bQEuo"
+              }
+            ]
+          }
+        },
+        "id": "910798559125045248",
+        "location": "New York, USA",
+        "name": "马聚",
+        "pinned_tweet_id": "1625198395844399109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135971292593709057/6W30yfQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107205,
+          "following_count": 1649,
+          "like_count": 85791,
+          "listed_count": 311,
+          "media_count": 5251,
+          "tweet_count": 36846
+        },
+        "url": "https://t.co/sMWB4bQEuo",
+        "username": "majuismail1122",
+        "verified": false
+      }
+    ]
+  }
+}

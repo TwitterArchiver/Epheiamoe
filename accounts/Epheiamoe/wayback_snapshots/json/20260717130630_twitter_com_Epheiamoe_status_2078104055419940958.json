@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078104055419940958",
+    "created_at": "2026-07-17T13:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078104055419940958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763577841588056064",
+          "start": 3,
+          "username": "yxrchina"
+        }
+      ],
+      "urls": [
+        {
+          "description": "基于 Three.js 的确定性流式体素世界与红石沙盒。",
+          "display_url": "xmc-threejs.vercel.app",
+          "end": 54,
+          "expanded_url": "http://xmc-threejs.vercel.app",
+          "start": 31,
+          "status": 200,
+          "title": "XMC — 方寸成世界",
+          "unwound_url": "https://xmc-threejs.vercel.app/",
+          "url": "https://t.co/WSEJpwwzG4"
+        },
+        {
+          "description": "A Three.js voxel sandbox with terrain, daylight, water and a full redstone engine. WASD move · Space jump (double-tap: fly) · Shift sneak/descend · Ctrl sprint Left click break · Right click place/use · Middle click pick block · Wheel/1-9 hotbar E inventory · T or / chat & commands (/time set day, /demo, /seed, /tp) · F3 debug · Esc",
+          "display_url": "cmc-two-lake.vercel.app",
+          "end": 98,
+          "expanded_url": "http://cmc-two-lake.vercel.app",
+          "start": 75,
+          "status": 200,
+          "title": "CMC — Voxel Sandbox",
+          "unwound_url": "https://cmc-two-lake.vercel.app/",
+          "url": "https://t.co/M1JCOqOmRi"
+        },
+        {
+          "display_url": "t.co/JkHeaz",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/JkHeaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078104055419940958",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078103773789159526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yxrchina: GPT 5.6 Sol Max: https://t.co/WSEJpwwzG4\nClaude Fable 5 Max: https://t.co/M1JCOqOmRi\nGemini 3.1 Pro High: https://t.co/JkHeaz…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078104055419940958",
+        "created_at": "2026-07-17T13:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078104055419940958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763577841588056064",
+              "start": 3,
+              "username": "yxrchina"
+            }
+          ],
+          "urls": [
+            {
+              "description": "基于 Three.js 的确定性流式体素世界与红石沙盒。",
+              "display_url": "xmc-threejs.vercel.app",
+              "end": 54,
+              "expanded_url": "http://xmc-threejs.vercel.app",
+              "start": 31,
+              "status": 200,
+              "title": "XMC — 方寸成世界",
+              "unwound_url": "https://xmc-threejs.vercel.app/",
+              "url": "https://t.co/WSEJpwwzG4"
+            },
+            {
+              "description": "A Three.js voxel sandbox with terrain, daylight, water and a full redstone engine. WASD move · Space jump (double-tap: fly) · Shift sneak/descend · Ctrl sprint Left click break · Right click place/use · Middle click pick block · Wheel/1-9 hotbar E inventory · T or / chat & commands (/time set day, /demo, /seed, /tp) · F3 debug · Esc",
+              "display_url": "cmc-two-lake.vercel.app",
+              "end": 98,
+              "expanded_url": "http://cmc-two-lake.vercel.app",
+              "start": 75,
+              "status": 200,
+              "title": "CMC — Voxel Sandbox",
+              "unwound_url": "https://cmc-two-lake.vercel.app/",
+              "url": "https://t.co/M1JCOqOmRi"
+            },
+            {
+              "display_url": "t.co/JkHeaz",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/JkHeaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078104055419940958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078103773789159526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yxrchina: GPT 5.6 Sol Max: https://t.co/WSEJpwwzG4\nClaude Fable 5 Max: https://t.co/M1JCOqOmRi\nGemini 3.1 Pro High: https://t.co/JkHeaz…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2078103773789159526",
+        "created_at": "2026-07-17T13:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078103773789159526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "基于 Three.js 的确定性流式体素世界与红石沙盒。",
+              "display_url": "xmc-threejs.vercel.app",
+              "end": 40,
+              "expanded_url": "http://xmc-threejs.vercel.app",
+              "start": 17,
+              "status": 200,
+              "title": "XMC — 方寸成世界",
+              "unwound_url": "https://xmc-threejs.vercel.app/",
+              "url": "https://t.co/WSEJpwwzG4"
+            },
+            {
+              "description": "A Three.js voxel sandbox with terrain, daylight, water and a full redstone engine. WASD move · Space jump (double-tap: fly) · Shift sneak/descend · Ctrl sprint Left click break · Right click place/use · Middle click pick block · Wheel/1-9 hotbar E inventory · T or / chat & commands (/time set day, /demo, /seed, /tp) · F3 debug · Esc",
+              "display_url": "cmc-two-lake.vercel.app",
+              "end": 84,
+              "expanded_url": "http://cmc-two-lake.vercel.app",
+              "start": 61,
+              "status": 200,
+              "title": "CMC — Voxel Sandbox",
+              "unwound_url": "https://cmc-two-lake.vercel.app/",
+              "url": "https://t.co/M1JCOqOmRi"
+            },
+            {
+              "display_url": "minecraft-web-five.vercel.app",
+              "end": 129,
+              "expanded_url": "http://minecraft-web-five.vercel.app",
+              "start": 106,
+              "status": 200,
+              "title": "Minecraft Web",
+              "unwound_url": "https://minecraft-web-five.vercel.app/",
+              "url": "https://t.co/JkHeazHKTt"
+            },
+            {
+              "display_url": "x.com/epheiamoe/stat…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/epheiamoe/status/2078103616787996725",
+              "start": 130,
+              "url": "https://t.co/Th2rHygOAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078103773789159526",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078103616787996725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GPT 5.6 Sol Max: https://t.co/WSEJpwwzG4\nClaude Fable 5 Max: https://t.co/M1JCOqOmRi\nGemini 3.1 Pro High: https://t.co/JkHeazHKTt https://t.co/Th2rHygOAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 74,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Lover @nyaepheia",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2065655723187740857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 2050,
+          "like_count": 27283,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 8803
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": true
+      }
+    ]
+  }
+}

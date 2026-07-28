@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2060308708157247538",
+    "created_at": "2026-05-29T15:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060385606732230790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524744469245206531",
+          "start": 0,
+          "username": "saneyaro112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060385606732230790",
+    "in_reply_to_user_id": "1524744469245206531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308708157247538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saneyaro112 请给我这个按钮。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2060308504427266048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJevqzYagAA6BvN.jpg",
+        "width": 2144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060308708157247538",
+        "created_at": "2026-05-29T15:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385606732230790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524744469245206531",
+              "start": 0,
+              "username": "saneyaro112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385606732230790",
+        "in_reply_to_user_id": "1524744469245206531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308708157247538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saneyaro112 请给我这个按钮。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060308504427266048"
+          ]
+        },
+        "author_id": "1524744469245206531",
+        "conversation_id": "2060308708157247538",
+        "created_at": "2026-05-29T10:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060308708157247538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pp0SaqiOiO",
+              "end": 45,
+              "expanded_url": "https://x.com/saneyaro112/status/2060308708157247538/photo/1",
+              "media_key": "3_2060308504427266048",
+              "start": 22,
+              "url": "https://t.co/Pp0SaqiOiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060308708157247538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 449,
+          "impression_count": 456441,
+          "like_count": 8802,
+          "quote_count": 377,
+          "reply_count": 472,
+          "retweet_count": 1099
+        },
+        "reply_settings": "everyone",
+        "text": "100億円貰えるかわりに女の子になるボタン https://t.co/Pp0SaqiOiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 21,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-12T13:33:12.000Z",
+        "description": "青森県　八戸市出身\n\n漫画家です。「伝説の勇者は実はママでした！？」（アルファポリス）https://t.co/q4A0zXb9Kf\nお仕事はDMまで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alphapolis.co.jp/manga/official…",
+                "end": 66,
+                "expanded_url": "https://www.alphapolis.co.jp/manga/official/147000655",
+                "start": 43,
+                "url": "https://t.co/q4A0zXb9Kf"
+              }
+            ]
+          }
+        },
+        "id": "1524744469245206531",
+        "name": "さね野郎🍎",
+        "pinned_tweet_id": "2056204029219524794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524745081353535488/TzuA9-US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47435,
+          "following_count": 401,
+          "like_count": 9221,
+          "listed_count": 282,
+          "media_count": 525,
+          "tweet_count": 5797
+        },
+        "username": "saneyaro112",
+        "verified": true
+      }
+    ]
+  }
+}

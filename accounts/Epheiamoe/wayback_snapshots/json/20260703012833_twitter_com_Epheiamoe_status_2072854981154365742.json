@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2072228856657039425",
+    "created_at": "2026-07-03T01:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072854981154365742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1206904705160318981",
+          "start": 0,
+          "username": "congqianman1994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072854981154365742",
+    "in_reply_to_user_id": "1206904705160318981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072228856657039425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congqianman1994 提示：这不是你支持独裁的理由"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2072228795080495104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIJHCgb0AASN4H.png",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2072228856657039425",
+        "created_at": "2026-07-03T01:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072854981154365742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1206904705160318981",
+              "start": 0,
+              "username": "congqianman1994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072854981154365742",
+        "in_reply_to_user_id": "1206904705160318981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072228856657039425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congqianman1994 提示：这不是你支持独裁的理由"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072228795080495104"
+          ]
+        },
+        "author_id": "1206904705160318981",
+        "conversation_id": "2072228856657039425",
+        "created_at": "2026-07-01T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072228856657039425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0tUKLsC1I",
+              "end": 29,
+              "expanded_url": "https://x.com/congqianman1994/status/2072228856657039425/photo/1",
+              "media_key": "3_2072228795080495104",
+              "start": 6,
+              "url": "https://t.co/V0tUKLsC1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072228856657039425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 68907,
+          "like_count": 579,
+          "quote_count": 5,
+          "reply_count": 137,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "民主真相！ https://t.co/V0tUKLsC1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 25,
+          "like_count": 473,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T11:51:37.000Z",
+        "description": "There is no need to rush. There is no need to shine. You don't need to be anyone but yourself.\n我的油管：https://t.co/2bg3ik0hbs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@congqianman19…",
+                "end": 123,
+                "expanded_url": "https://www.youtube.com/@congqianman1994",
+                "start": 100,
+                "url": "https://t.co/2bg3ik0hbs"
+              }
+            ]
+          }
+        },
+        "id": "1206904705160318981",
+        "location": "China",
+        "name": "八瓣橘子七分甜",
+        "pinned_tweet_id": "2067498011136315758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643515465866805248/Cb-0l-ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40726,
+          "following_count": 310,
+          "like_count": 196283,
+          "listed_count": 76,
+          "media_count": 4867,
+          "tweet_count": 21012
+        },
+        "url": "",
+        "username": "congqianman1994",
+        "verified": false
+      }
+    ]
+  }
+}

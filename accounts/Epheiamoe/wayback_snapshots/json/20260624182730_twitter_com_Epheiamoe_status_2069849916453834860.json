@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2069760286173831407",
+    "created_at": "2026-06-24T18:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069849916453834860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "905062051441246209",
+          "start": 0,
+          "username": "itungoblac"
+        },
+        {
+          "end": 21,
+          "id": "2033556291600445440",
+          "start": 12,
+          "username": "M1L4GR03"
+        },
+        {
+          "end": 27,
+          "id": "1720665183188922368",
+          "start": 22,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069849916453834860",
+    "in_reply_to_user_id": "1984321775333937152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069849274008170614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itungoblac @M1L4GR03 @grok I mean, this logic just doesn't make sense. Believing that sexual orientation is a choice actually works against your interests—if you want to date beautiful women, you should expect most women to be heterosexual—obviously."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069760286173831407",
+        "created_at": "2026-06-24T18:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069849916453834860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "905062051441246209",
+              "start": 0,
+              "username": "itungoblac"
+            },
+            {
+              "end": 21,
+              "id": "2033556291600445440",
+              "start": 12,
+              "username": "M1L4GR03"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069849916453834860",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069849274008170614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itungoblac @M1L4GR03 @grok I mean, this logic just doesn't make sense. Believing that sexual orientation is a choice actually works against your interests—if you want to date beautiful women, you should expect most women to be heterosexual—obviously."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2069760286173831407",
+        "created_at": "2026-06-24T18:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069849274008170614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "905062051441246209",
+              "start": 0,
+              "username": "itungoblac"
+            },
+            {
+              "end": 21,
+              "id": "2033556291600445440",
+              "start": 12,
+              "username": "M1L4GR03"
+            },
+            {
+              "end": 27,
+              "id": "1720665183188922368",
+              "start": 22,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069849274008170614",
+        "in_reply_to_user_id": "905062051441246209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069840947027087480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itungoblac @M1L4GR03 @grok So if thats the logic, would all women choose to be lesbians?\nEven if they could choose, that would be pretty unfortunate. If no women were heterosexual, how would heterosexual men date women?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 22,
+          "like_count": 435,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-05T13:36:23.000Z",
+        "description": "“ Unapologetic truth-seeking bestie😎| My pride only stops at my funeral | No- filter real talk on life & living on our own terms | DMs open for real ones🔥”",
+        "id": "905062051441246209",
+        "name": "be you✌🏾",
+        "pinned_tweet_id": "2067470032653983827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061451781629186049/hAR6yVRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 3368,
+          "like_count": 19177,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 10674
+        },
+        "url": "",
+        "username": "itungoblac",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T14:49:56.000Z",
+        "description": "#viscaBarca💙❤️  #wethenorth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "viscaBarca"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "wethenorth"
+              }
+            ]
+          }
+        },
+        "id": "2033556291600445440",
+        "name": "🇦🇫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483138403844096/INRiek10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3834,
+          "following_count": 729,
+          "like_count": 29523,
+          "listed_count": 22,
+          "media_count": 301,
+          "tweet_count": 3577
+        },
+        "url": "",
+        "username": "M1L4GR03",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8823089,
+          "following_count": 5,
+          "like_count": 109,
+          "listed_count": 7054,
+          "media_count": 9085310,
+          "tweet_count": 129755339
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

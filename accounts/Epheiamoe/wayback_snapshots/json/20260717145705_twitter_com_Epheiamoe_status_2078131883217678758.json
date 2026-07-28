@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078131883217678758",
+    "created_at": "2026-07-17T14:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078131883217678758"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "立法禁止虐待动物"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2078072236154421657",
+          "start": 10,
+          "url": "https://t.co/vP2DrSYaYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078131883217678758",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078072236154421657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#立法禁止虐待动物 https://t.co/vP2DrSYaYp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077943288930439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWaXAbEAA_POD.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2077943316369604608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWb9ObgAAb9EA.jpg",
+        "width": 968
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2077943362762780672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWeqDbMAA-VcP.jpg",
+        "width": 966
+      },
+      {
+        "height": 877,
+        "media_key": "3_2077943408212201473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZWhTXaUAEnHQi.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078131883217678758",
+        "created_at": "2026-07-17T14:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078131883217678758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "立法禁止虐待动物"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2078072236154421657",
+              "start": 10,
+              "url": "https://t.co/vP2DrSYaYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078131883217678758",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072236154421657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#立法禁止虐待动物 https://t.co/vP2DrSYaYp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077943288930439168",
+            "3_2077943316369604608",
+            "3_2077943362762780672",
+            "3_2077943408212201473"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078072236154421657",
+        "created_at": "2026-07-17T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078072236154421657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943288930439168",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943316369604608",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943362762780672",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "pic.x.com/HQTwvNtNfB",
+              "end": 53,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2078072236154421657/photo/1",
+              "media_key": "3_2077943408212201473",
+              "start": 30,
+              "url": "https://t.co/HQTwvNtNfB"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2077282011287589173",
+              "start": 54,
+              "url": "https://t.co/VcPVUO0Ij5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072236154421657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 55360,
+          "like_count": 454,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077282011287589173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续：全国各地的电子大屏均出现“禁止虐待动物”的公益宣传。 https://t.co/HQTwvNtNfB https://t.co/VcPVUO0Ij5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 76,
+          "like_count": 689,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242365,
+          "following_count": 1078,
+          "like_count": 9798,
+          "listed_count": 8826,
+          "media_count": 50565,
+          "tweet_count": 57782
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

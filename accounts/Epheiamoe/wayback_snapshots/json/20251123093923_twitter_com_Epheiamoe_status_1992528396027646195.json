@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992528392781172736"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992528396027646195",
+    "created_at": "2025-11-23T09:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992528396027646195"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 0,
+          "tag": "Sakurabaema"
+        }
+      ],
+      "urls": [
+        {
+          "description": "\"怀着对崭新高中生活的满心期待，艾玛坠入了梦乡。可第二天醒来，她发现自己竟身处昏暗的牢房之中。\" 与其他12位少女一样，艾玛体内被检测出存在\"魔女因子\"，因而被强制隔离在孤岛监牢中。当杀人事件发生后，她必须参与残酷的魔女审判，在谎言与真相间寻找生路。 《魔法少女的魔女审判》是由Acacia开发的一款以\"魔法少女\"和\"推理悬疑\"为主题的文字冒险游戏，于2025年7月18日发售。 游戏讲述了13位因体内存在\"魔女因子\"而被囚禁在孤岛牢狱中的少女们的故事。每当发生凶杀案，幸存者们就必须在\"魔女审判\"中通过辩论找出混入其中的魔女。 玩家需要展开搜查收集证据，并在审判中揭穿参与者发言中的矛盾，找出真正的凶手。少 女们各自独有的\"魔法\"能力往往与案件的核心诡计息息相关，为推理增添变数。",
+          "display_url": "sakurabaema.com",
+          "end": 36,
+          "expanded_url": "https://sakurabaema.com/",
+          "start": 13,
+          "status": 200,
+          "title": "樱羽艾玛 - 魔法少女的魔女审判",
+          "unwound_url": "https://sakurabaema.com/",
+          "url": "https://t.co/Fj8DxWdGJb"
+        },
+        {
+          "display_url": "pic.x.com/NXQsycXqcg",
+          "end": 60,
+          "expanded_url": "https://x.com/Epheiamoe/status/1992528396027646195/photo/1",
+          "media_key": "3_1992528392781172736",
+          "start": 37,
+          "url": "https://t.co/NXQsycXqcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992528396027646195",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#Sakurabaema\nhttps://t.co/Fj8DxWdGJb https://t.co/NXQsycXqcg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2140,
+        "media_key": "3_1992528392781172736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6biBDCaEAA-N_h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992528392781172736"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992528396027646195",
+        "created_at": "2025-11-23T09:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992528396027646195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "Sakurabaema"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"怀着对崭新高中生活的满心期待，艾玛坠入了梦乡。可第二天醒来，她发现自己竟身处昏暗的牢房之中。\" 与其他12位少女一样，艾玛体内被检测出存在\"魔女因子\"，因而被强制隔离在孤岛监牢中。当杀人事件发生后，她必须参与残酷的魔女审判，在谎言与真相间寻找生路。 《魔法少女的魔女审判》是由Acacia开发的一款以\"魔法少女\"和\"推理悬疑\"为主题的文字冒险游戏，于2025年7月18日发售。 游戏讲述了13位因体内存在\"魔女因子\"而被囚禁在孤岛牢狱中的少女们的故事。每当发生凶杀案，幸存者们就必须在\"魔女审判\"中通过辩论找出混入其中的魔女。 玩家需要展开搜查收集证据，并在审判中揭穿参与者发言中的矛盾，找出真正的凶手。少 女们各自独有的\"魔法\"能力往往与案件的核心诡计息息相关，为推理增添变数。",
+              "display_url": "sakurabaema.com",
+              "end": 36,
+              "expanded_url": "https://sakurabaema.com/",
+              "start": 13,
+              "status": 200,
+              "title": "樱羽艾玛 - 魔法少女的魔女审判",
+              "unwound_url": "https://sakurabaema.com/",
+              "url": "https://t.co/Fj8DxWdGJb"
+            },
+            {
+              "display_url": "pic.x.com/NXQsycXqcg",
+              "end": 60,
+              "expanded_url": "https://x.com/Epheiamoe/status/1992528396027646195/photo/1",
+              "media_key": "3_1992528392781172736",
+              "start": 37,
+              "url": "https://t.co/NXQsycXqcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992528396027646195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Sakurabaema\nhttps://t.co/Fj8DxWdGJb https://t.co/NXQsycXqcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "今天似乎也会有好事发生呢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "epheia.moe",
+                "end": 23,
+                "expanded_url": "https://epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/tbgKQ60pYv"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984322733044559872/QsVHUVbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/tbgKQ60pYv",
+        "username": "Epheiamoe",
+        "verified": false
+      }
+    ]
+  }
+}

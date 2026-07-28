@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2076103820510413009",
+    "created_at": "2026-07-12T04:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076165334005072147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076165334005072147",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076103820510413009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 我不知道乌克兰是纳粹是不是事实，但他自己都说是歧视性言论了，这完全不属于言论自由的范畴啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2076103801476636672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_NaGPaYAA58Vj.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2076103820510413009",
+        "created_at": "2026-07-12T04:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076165334005072147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076165334005072147",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076103820510413009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 我不知道乌克兰是纳粹是不是事实，但他自己都说是歧视性言论了，这完全不属于言论自由的范畴啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076103801476636672"
+          ]
+        },
+        "author_id": "2037575598730584064",
+        "conversation_id": "2076103820510413009",
+        "created_at": "2026-07-12T00:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076103820510413009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HzmMMpdCd",
+              "end": 43,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2076103820510413009/photo/1",
+              "media_key": "3_2076103801476636672",
+              "start": 20,
+              "url": "https://t.co/0HzmMMpdCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076103820510413009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 184,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要是你觉得这能算言论自由那我也无能为力 https://t.co/0HzmMMpdCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 66,
+          "like_count": 590,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "这里是键政嘉豪的安人☭🟥⬛️第二人格\n窝是顺男♂不是跨性别喵",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🚩🏴🌹反🐜🐉紧急状态",
+        "pinned_tweet_id": "2074819031052525951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 390,
+          "like_count": 9921,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2077837467722629600",
+    "created_at": "2026-07-17T05:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077984689357570205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847451639751548928",
+          "start": 0,
+          "username": "UPedrolli46470"
+        },
+        {
+          "end": 25,
+          "id": "884616503898910722",
+          "start": 16,
+          "username": "tenobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077984689357570205",
+    "in_reply_to_user_id": "1847451639751548928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "· Reaffirming the commitment to open source to promote \"openness and mutual benefit\" in artificial intelligence.\n· Warning against \"overextending\" the concept of national security in the field of artificial intelligence, that is, a situation where one country's national security is prioritized over that of others.\n· China opposes the emergence of a \"new historical injustice\" in the field of artificial intelligence (one of the most strongly worded parts of the speech)."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077982809894060328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UPedrolli46470 @tenobrus · Reaffirming the commitment to open source to promote \"openness and mutual benefit\" in artificial intelligence.\n· Warning against \"overextending\" the concept of national security in the field of artificial intelligence, that is, a situation where one country's national security"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2077982796535181312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ6WATaMAABA7t.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2077837467722629600",
+        "created_at": "2026-07-17T05:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077984689357570205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847451639751548928",
+              "start": 0,
+              "username": "UPedrolli46470"
+            },
+            {
+              "end": 25,
+              "id": "884616503898910722",
+              "start": 16,
+              "username": "tenobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077984689357570205",
+        "in_reply_to_user_id": "1847451639751548928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "· Reaffirming the commitment to open source to promote \"openness and mutual benefit\" in artificial intelligence.\n· Warning against \"overextending\" the concept of national security in the field of artificial intelligence, that is, a situation where one country's national security is prioritized over that of others.\n· China opposes the emergence of a \"new historical injustice\" in the field of artificial intelligence (one of the most strongly worded parts of the speech)."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077982809894060328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UPedrolli46470 @tenobrus · Reaffirming the commitment to open source to promote \"openness and mutual benefit\" in artificial intelligence.\n· Warning against \"overextending\" the concept of national security in the field of artificial intelligence, that is, a situation where one country's national security"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077982796535181312"
+          ]
+        },
+        "author_id": "1847451639751548928",
+        "conversation_id": "2077837467722629600",
+        "created_at": "2026-07-17T05:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077982809894060328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "884616503898910722",
+              "start": 0,
+              "username": "tenobrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNVZit3xED",
+              "end": 86,
+              "expanded_url": "https://x.com/UPedrolli46470/status/2077982809894060328/photo/1",
+              "media_key": "3_2077982796535181312",
+              "start": 63,
+              "url": "https://t.co/GNVZit3xED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077982809894060328",
+        "in_reply_to_user_id": "884616503898910722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077837467722629600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tenobrus 这是习刚刚在世界人工智能大会的发言，收回你的偏见，中国不是小肚鸡肠的国家。比你们美国封锁前沿模型好一亿倍 https://t.co/GNVZit3xED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 74,
+          "like_count": 684,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T01:36:27.000Z",
+        "description": "ASI AGI.",
+        "id": "1847451639751548928",
+        "location": "US",
+        "name": "Jewelry Bonney's Nika",
+        "pinned_tweet_id": "1992257463358468498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937702063233990659/p72S-1EF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 397,
+          "like_count": 8227,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "UPedrolli46470",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-11T03:33:04.000Z",
+        "description": "this endless blue sky is driving me insane",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tenobrus.io",
+                "end": 23,
+                "expanded_url": "https://tenobrus.io",
+                "start": 0,
+                "url": "https://t.co/JkSzMFzzT4"
+              }
+            ]
+          }
+        },
+        "id": "884616503898910722",
+        "location": "sf",
+        "name": "Tenobrus",
+        "pinned_tweet_id": "1846242051677213034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640415225991282688/K0CmWWD6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33590,
+          "following_count": 3000,
+          "like_count": 264150,
+          "listed_count": 294,
+          "media_count": 3876,
+          "tweet_count": 48608
+        },
+        "url": "https://t.co/JkSzMFzzT4",
+        "username": "tenobrus",
+        "verified": true
+      }
+    ]
+  }
+}

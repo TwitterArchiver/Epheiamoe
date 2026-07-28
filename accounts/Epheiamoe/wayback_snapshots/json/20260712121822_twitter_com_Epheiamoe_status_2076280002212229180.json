@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076259114423042048"
+      ],
+      "media_source_tweet_id": [
+        "2076259118093095303"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2076280002212229180",
+    "created_at": "2026-07-12T12:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076280002212229180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565691463685795840",
+          "start": 3,
+          "username": "barutan8964"
+        },
+        {
+          "end": 27,
+          "id": "1984321775333937152",
+          "start": 17,
+          "username": "Epheiamoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GX0vsWjXRr",
+          "end": 63,
+          "expanded_url": "https://x.com/barutan8964/status/2076259118093095303/photo/1",
+          "media_key": "3_2076259114423042048",
+          "start": 40,
+          "url": "https://t.co/GX0vsWjXRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076280002212229180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076259118093095303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @barutan8964: @Epheiamoe 小野种还说要送戒同所呢 https://t.co/GX0vsWjXRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2076259114423042048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBaqgDaQAAMZRb.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076259114423042048"
+          ],
+          "media_source_tweet_id": [
+            "2076259118093095303"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2076280002212229180",
+        "created_at": "2026-07-12T12:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076280002212229180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565691463685795840",
+              "start": 3,
+              "username": "barutan8964"
+            },
+            {
+              "end": 27,
+              "id": "1984321775333937152",
+              "start": 17,
+              "username": "Epheiamoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GX0vsWjXRr",
+              "end": 63,
+              "expanded_url": "https://x.com/barutan8964/status/2076259118093095303/photo/1",
+              "media_key": "3_2076259114423042048",
+              "start": 40,
+              "url": "https://t.co/GX0vsWjXRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076280002212229180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076259118093095303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @barutan8964: @Epheiamoe 小野种还说要送戒同所呢 https://t.co/GX0vsWjXRr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076259114423042048"
+          ]
+        },
+        "author_id": "1565691463685795840",
+        "conversation_id": "2076164975215980970",
+        "created_at": "2026-07-12T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076259118093095303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GX0vsWjXRr",
+              "end": 46,
+              "expanded_url": "https://x.com/barutan8964/status/2076259118093095303/photo/1",
+              "media_key": "3_2076259114423042048",
+              "start": 23,
+              "url": "https://t.co/GX0vsWjXRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076259118093095303",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076164975215980970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe 小野种还说要送戒同所呢 https://t.co/GX0vsWjXRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 66,
+          "like_count": 619,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "骄傲月快乐喵🍥🏳️‍⚧️王烟洛连坐🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 324,
+          "like_count": 19447,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3374
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2071612469865586937",
+    "created_at": "2026-06-30T10:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071906563649048670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879932586052714496",
+          "start": 0,
+          "username": "Shuiheliusuannv"
+        },
+        {
+          "end": 31,
+          "id": "1766407744536420352",
+          "start": 17,
+          "username": "ScarsTowel616"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "en.wikipedia.org/wiki/Transgend…",
+          "end": 55,
+          "expanded_url": "https://en.wikipedia.org/wiki/Transgender",
+          "images": [
+            {
+              "height": 768,
+              "url": "https://pbs.twimg.com/news_img/2070814801622634496/NXw3iwFo?format=png&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2070814801622634496/NXw3iwFo?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Transgender - Wikipedia",
+          "unwound_url": "https://en.wikipedia.org/wiki/Transgender",
+          "url": "https://t.co/0XXvqTGbhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071906563649048670",
+    "in_reply_to_user_id": "1879932586052714496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071644176291414155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuiheliusuannv @ScarsTowel616 https://t.co/0XXvqTGbhW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2071612469865586937",
+        "created_at": "2026-06-30T10:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071906563649048670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879932586052714496",
+              "start": 0,
+              "username": "Shuiheliusuannv"
+            },
+            {
+              "end": 31,
+              "id": "1766407744536420352",
+              "start": 17,
+              "username": "ScarsTowel616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Transgend…",
+              "end": 55,
+              "expanded_url": "https://en.wikipedia.org/wiki/Transgender",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/2070814801622634496/NXw3iwFo?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070814801622634496/NXw3iwFo?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Transgender - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Transgender",
+              "url": "https://t.co/0XXvqTGbhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071906563649048670",
+        "in_reply_to_user_id": "1879932586052714496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071644176291414155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuiheliusuannv @ScarsTowel616 https://t.co/0XXvqTGbhW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879932586052714496",
+        "conversation_id": "2071612469865586937",
+        "created_at": "2026-06-29T17:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071644176291414155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071644176291414155",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071612469865586937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 为什么我首页刷到了很多头像带有鸣门卷🍥的用户？而且他们头像背景都是蓝色粉色白色粉色蓝色的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 24,
+          "like_count": 469,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T16:44:05.000Z",
+        "description": "这里是八水合硫酸钕，我喜欢睡觉。有时候会睡不醒，经常会犯困。",
+        "id": "1879932586052714496",
+        "location": "被窝",
+        "name": "八水合硫酸钕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019026240615952384/IFGleBAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "Shuiheliusuannv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|宝宝：@Satori065 主人（不是）:@YuChenawa 姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Satori065"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 555,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

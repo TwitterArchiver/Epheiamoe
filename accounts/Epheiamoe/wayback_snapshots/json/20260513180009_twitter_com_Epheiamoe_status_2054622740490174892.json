@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054622568762810368"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054622740490174892",
+    "created_at": "2026-05-13T18:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054622740490174892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 0,
+          "tag": "FindPeopleWhoBlockedMeProject"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 55,
+          "id": "1835139537418567680",
+          "start": 39,
+          "username": "WellingtonPixel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nyaepheia/stat…",
+          "end": 93,
+          "expanded_url": "https://x.com/nyaepheia/status/2054419350376034725",
+          "start": 70,
+          "url": "https://t.co/nuky1iIIsK"
+        },
+        {
+          "display_url": "x.com/Epheiamoe/stat…",
+          "end": 124,
+          "expanded_url": "https://x.com/Epheiamoe/status/2054419897585975773",
+          "start": 101,
+          "url": "https://t.co/VdSbVyYsbb"
+        },
+        {
+          "display_url": "pic.x.com/yBAWIAtHJA",
+          "end": 148,
+          "expanded_url": "https://x.com/Epheiamoe/status/2054622740490174892/photo/1",
+          "media_key": "3_2054622568762810368",
+          "start": 125,
+          "url": "https://t.co/yBAWIAtHJA"
+        },
+        {
+          "display_url": "x.com/WellingtonPixe…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/WellingtonPixel/status/2054605560025076207",
+          "start": 149,
+          "url": "https://t.co/SDrmJ80Fzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054622740490174892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054605560025076207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "#FindPeopleWhoBlockedMeProject\n\nNo.002 @WellingtonPixel \n\nLearn more: https://t.co/nuky1iIIsK\n\n上一个条目：https://t.co/VdSbVyYsbb https://t.co/yBAWIAtHJA https://t.co/SDrmJ80Fzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2317,
+        "media_key": "3_2054622568762810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIN8VyaboAA-pfX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054622568762810368"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054622740490174892",
+        "created_at": "2026-05-13T18:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054622740490174892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 0,
+              "tag": "FindPeopleWhoBlockedMeProject"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1835139537418567680",
+              "start": 39,
+              "username": "WellingtonPixel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 93,
+              "expanded_url": "https://x.com/nyaepheia/status/2054419350376034725",
+              "start": 70,
+              "url": "https://t.co/nuky1iIIsK"
+            },
+            {
+              "display_url": "x.com/Epheiamoe/stat…",
+              "end": 124,
+              "expanded_url": "https://x.com/Epheiamoe/status/2054419897585975773",
+              "start": 101,
+              "url": "https://t.co/VdSbVyYsbb"
+            },
+            {
+              "display_url": "pic.x.com/yBAWIAtHJA",
+              "end": 148,
+              "expanded_url": "https://x.com/Epheiamoe/status/2054622740490174892/photo/1",
+              "media_key": "3_2054622568762810368",
+              "start": 125,
+              "url": "https://t.co/yBAWIAtHJA"
+            },
+            {
+              "display_url": "x.com/WellingtonPixe…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/WellingtonPixel/status/2054605560025076207",
+              "start": 149,
+              "url": "https://t.co/SDrmJ80Fzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054622740490174892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054605560025076207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "#FindPeopleWhoBlockedMeProject\n\nNo.002 @WellingtonPixel \n\nLearn more: https://t.co/nuky1iIIsK\n\n上一个条目：https://t.co/VdSbVyYsbb https://t.co/yBAWIAtHJA https://t.co/SDrmJ80Fzs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835139537418567680",
+        "conversation_id": "2054544733419323696",
+        "created_at": "2026-05-13T16:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054605560025076207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054605560025076207",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054544733419323696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley 🤔在中国呆久了也不是件好事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 20,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "给我片绿箭口香糖，我要写文章了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpceN"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "🇹🇼Wellington † Pixel",
+        "pinned_tweet_id": "2053200591975813495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054208872655585280/unABZ_tG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 4246,
+          "like_count": 17355,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 3328
+        },
+        "url": "https://t.co/u4ZrWlpceN",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

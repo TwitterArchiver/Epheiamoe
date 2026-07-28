@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052269238816231424"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2052268320444027340",
+    "created_at": "2026-05-07T06:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052269246613443067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 24,
+          "id": "1821845737929404416",
+          "start": 11,
+          "username": "Ljk750515Ljk"
+        },
+        {
+          "end": 38,
+          "id": "1821845737929404416",
+          "start": 25,
+          "username": "Ljk750515Ljk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NnbpUQQ5hi",
+          "end": 103,
+          "expanded_url": "https://x.com/Epheiamoe/status/2052269246613443067/photo/1",
+          "media_key": "3_2052269238816231424",
+          "start": 80,
+          "url": "https://t.co/NnbpUQQ5hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052269246613443067",
+    "in_reply_to_user_id": "1984321775333937152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052268663785562192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia @Ljk750515Ljk @Ljk750515Ljk 然后啊，建议检查一下自己是不是被shadow ban 了，你的回复我小号都看不到 https://t.co/NnbpUQQ5hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1965,
+        "media_key": "3_2052269238816231424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsf_9MaUAAPUFS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052269238816231424"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2052268320444027340",
+        "created_at": "2026-05-07T06:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052269246613443067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 24,
+              "id": "1821845737929404416",
+              "start": 11,
+              "username": "Ljk750515Ljk"
+            },
+            {
+              "end": 38,
+              "id": "1821845737929404416",
+              "start": 25,
+              "username": "Ljk750515Ljk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NnbpUQQ5hi",
+              "end": 103,
+              "expanded_url": "https://x.com/Epheiamoe/status/2052269246613443067/photo/1",
+              "media_key": "3_2052269238816231424",
+              "start": 80,
+              "url": "https://t.co/NnbpUQQ5hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052269246613443067",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052268663785562192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Ljk750515Ljk @Ljk750515Ljk 然后啊，建议检查一下自己是不是被shadow ban 了，你的回复我小号都看不到 https://t.co/NnbpUQQ5hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2052268320444027340",
+        "created_at": "2026-05-07T06:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052268663785562192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 24,
+              "id": "1821845737929404416",
+              "start": 11,
+              "username": "Ljk750515Ljk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052268663785562192",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052268320444027340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @Ljk750515Ljk 自己说说你招不招笑，自己没看清就老实承认，结果直接屏蔽了\n你们顺直都这样吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "主要账号@nyaepheia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "nyaepheia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "Epheia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 19,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好\nTransfeminine Non-binary?Queer?MtF/X\ntransles?|she/they|小证含糖hrt since26.4.1\n家长党|天残党😭\nSocDem\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 794,
+          "like_count": 19868,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 3403
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-09T09:47:40.000Z",
+        "description": "一个年轻的人，太难了🇨🇳",
+        "id": "1821845737929404416",
+        "location": "地球",
+        "name": "ljk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847854408712192/w6nbb8BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 317,
+          "like_count": 7952,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1474
+        },
+        "url": "",
+        "username": "Ljk750515Ljk",
+        "verified": false
+      }
+    ]
+  }
+}

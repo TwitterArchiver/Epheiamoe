@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2078260602708090885",
+    "created_at": "2026-07-17T23:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078260602708090885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055356059066466304",
+          "start": 3,
+          "username": "TransCircleOrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078260602708090885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078148400181350407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransCircleOrg: 抗雄方案的选择是女性向跨性别者激素治疗的核心议题之一，但面对色普龙、比卡鲁胺、螺内酯、针剂单药抗雄等多种方案，许多人在选择时缺乏系统性的参考依据\n因此，我们梳理了各主流抗雄方案的作用机制、副作用与适用人群，帮助你在用药前建立基础认知，做出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2078260602708090885",
+        "created_at": "2026-07-17T23:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078260602708090885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055356059066466304",
+              "start": 3,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078260602708090885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148400181350407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransCircleOrg: 抗雄方案的选择是女性向跨性别者激素治疗的核心议题之一，但面对色普龙、比卡鲁胺、螺内酯、针剂单药抗雄等多种方案，许多人在选择时缺乏系统性的参考依据\n因此，我们梳理了各主流抗雄方案的作用机制、副作用与适用人群，帮助你在用药前建立基础认知，做出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2078148400181350407",
+        "created_at": "2026-07-17T16:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078148400181350407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "介绍色普龙、比卡鲁胺、螺内酯及针剂等常见抗雄方案的机制、副作用与适用人群，帮助您做出更合理的方案选择",
+              "display_url": "blog.transcircle.org/posts/mtf-anti…",
+              "end": 151,
+              "expanded_url": "https://blog.transcircle.org/posts/mtf-anti-androgen-guide/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078147461584216064/O351wmFM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078147461584216064/O351wmFM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "女性向跨性别者抗雄方案选择指南",
+              "unwound_url": "https://blog.transcircle.org/posts/mtf-anti-androgen-guide/",
+              "url": "https://t.co/xmxdMYRmvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078148400181350407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1433,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "抗雄方案的选择是女性向跨性别者激素治疗的核心议题之一，但面对色普龙、比卡鲁胺、螺内酯、针剂单药抗雄等多种方案，许多人在选择时缺乏系统性的参考依据\n因此，我们梳理了各主流抗雄方案的作用机制、副作用与适用人群，帮助你在用药前建立基础认知，做出更适合自己的选择\nhttps://t.co/xmxdMYRmvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 76,
+          "like_count": 691,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 33,
+          "like_count": 130,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075190501712765021",
+    "created_at": "2026-07-09T12:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075190501712765021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2074688655604789738",
+          "start": 28,
+          "url": "https://t.co/B0fjzJiB5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075190501712765021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074688655604789738",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「跨性别在现在不会受到歧视了，为什么还要发声？」\n\n👆 https://t.co/B0fjzJiB5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2074688647941738496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrGVUgaUAAYGps.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1101,
+        "media_key": "3_2074688648759717889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrGVXjbsAE3CNX.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075190501712765021",
+        "created_at": "2026-07-09T12:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075190501712765021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2074688655604789738",
+              "start": 28,
+              "url": "https://t.co/B0fjzJiB5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075190501712765021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074688655604789738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「跨性别在现在不会受到歧视了，为什么还要发声？」\n\n👆 https://t.co/B0fjzJiB5o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074688647941738496",
+            "3_2074688648759717889"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074688655604789738",
+        "created_at": "2026-07-08T02:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074688655604789738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSHDyIVNV2",
+              "end": 45,
+              "expanded_url": "https://x.com/theforeveriris/status/2074688655604789738/photo/1",
+              "media_key": "3_2074688647941738496",
+              "start": 22,
+              "url": "https://t.co/jSHDyIVNV2"
+            },
+            {
+              "display_url": "pic.x.com/jSHDyIVNV2",
+              "end": 45,
+              "expanded_url": "https://x.com/theforeveriris/status/2074688655604789738/photo/1",
+              "media_key": "3_2074688648759717889",
+              "start": 22,
+              "url": "https://t.co/jSHDyIVNV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074688655604789738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 22738,
+          "like_count": 182,
+          "quote_count": 11,
+          "reply_count": 45,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "“多用塑料衣架抽打孩子可以有效治疗易性症” https://t.co/jSHDyIVNV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 65,
+          "like_count": 551,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 445,
+          "like_count": 17239,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3829
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

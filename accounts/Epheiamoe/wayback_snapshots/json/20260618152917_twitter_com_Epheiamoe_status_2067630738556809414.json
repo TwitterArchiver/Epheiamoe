@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2060937549745410177",
+    "created_at": "2026-06-18T15:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067630738556809414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010675136484057088",
+          "start": 0,
+          "username": "KhelbeyKhan"
+        },
+        {
+          "end": 29,
+          "id": "1316879490694393857",
+          "start": 13,
+          "username": "irishtravelerAZ"
+        },
+        {
+          "end": 40,
+          "id": "2888593734",
+          "start": 30,
+          "username": "Byron_Wan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067630738556809414",
+    "in_reply_to_user_id": "2010675136484057088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061267935671312592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KhelbeyKhan @irishtravelerAZ @Byron_Wan 为什么这个时候又不反华了？你自己试着在中国生活一段时间，看看底层人的体验然后再说话？\n其实不仅中国，整个东亚基本都是这种情况。无休止的竞争，几乎没有的心理疏导。\n你凭什么认为在这种环境下不会抑郁？这是东亚！不是你岁月静好的美洲。\nbtw，中国大部分人都是无神论者。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2060937549745410177",
+        "created_at": "2026-06-18T15:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067630738556809414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010675136484057088",
+              "start": 0,
+              "username": "KhelbeyKhan"
+            },
+            {
+              "end": 29,
+              "id": "1316879490694393857",
+              "start": 13,
+              "username": "irishtravelerAZ"
+            },
+            {
+              "end": 40,
+              "id": "2888593734",
+              "start": 30,
+              "username": "Byron_Wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067630738556809414",
+        "in_reply_to_user_id": "2010675136484057088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061267935671312592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KhelbeyKhan @irishtravelerAZ @Byron_Wan 为什么这个时候又不反华了？你自己试着在中国生活一段时间，看看底层人的体验然后再说话？\n其实不仅中国，整个东亚基本都是这种情况。无休止的竞争，几乎没有的心理疏导。\n你凭什么认为在这种环境下不会抑郁？这是东亚！不是你岁月静好的美洲。\nbtw，中国大部分人都是无神论者。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010675136484057088",
+        "conversation_id": "2060937549745410177",
+        "created_at": "2026-06-01T02:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061267935671312592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1316879490694393857",
+              "start": 0,
+              "username": "irishtravelerAZ"
+            },
+            {
+              "end": 27,
+              "id": "2888593734",
+              "start": 17,
+              "username": "Byron_Wan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061267935671312592",
+        "in_reply_to_user_id": "1316879490694393857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "It’s all in your head this is why people have to think outside of the box you have to free your mind.\nUnderstand mind over matter, \nfree yourself from yourself,\nfree yourself from your fears\naccept that which is inevitable,\n\nAccept the fact that at the end of the day we are only dust,\n\nGenesis 3:19 \nfor out of the ground you were taken, \nfor dust you are,\nand to dust you shall return,\n\npeople worry themselves with things they will never have control over\n\nBut what you do have the ability to control is your mind, set it free"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 397,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061256765111730186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irishtravelerAZ @Byron_Wan It’s all in your head this is why people have to think outside of the box you have to free your mind.\nUnderstand mind over matter, \nfree yourself from yourself,\nfree yourself from your fears\naccept that which is inevitable,\n\nAccept the fact that at the end of the day we are only"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 22,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T11:38:19.000Z",
+        "description": "Make chauvinism great again 🇺🇸🇺🇸🇺🇸",
+        "id": "2010675136484057088",
+        "location": "Denver, CO",
+        "name": "Khelbey Arnold jr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311927742623744/oQjei2je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 20,
+          "like_count": 3853,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 3551
+        },
+        "url": "",
+        "username": "KhelbeyKhan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-15T23:12:15.000Z",
+        "description": "MAGA🤖no DM’s 🤖American Patriot🤖mother, grandmother,daughter ❤️❤️❤️loves dogs🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+        "id": "1316879490694393857",
+        "location": "United States",
+        "name": "StormySkies",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566568827302711296/v84mg_tY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 3336,
+          "like_count": 2587,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 12793
+        },
+        "url": "",
+        "username": "irishtravelerAZ",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-03T14:14:36.000Z",
+        "description": "",
+        "id": "2888593734",
+        "location": "Los Angeles, CA",
+        "name": "Byron Wan",
+        "pinned_tweet_id": "1746106091442974945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418546921132609540/DVDw3PNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54432,
+          "following_count": 1827,
+          "like_count": 37208,
+          "listed_count": 469,
+          "media_count": 11640,
+          "tweet_count": 68116
+        },
+        "url": "",
+        "username": "Byron_Wan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2061472482431824375",
+    "created_at": "2026-06-02T01:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061626453343817881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4264340774",
+          "start": 0,
+          "username": "theyarggbird"
+        },
+        {
+          "end": 26,
+          "id": "1958062134052417537",
+          "start": 14,
+          "username": "neil_z_tang"
+        },
+        {
+          "end": 41,
+          "id": "2008803056327032832",
+          "start": 27,
+          "username": "JhonPork420tp"
+        },
+        {
+          "end": 56,
+          "id": "1353491573808492547",
+          "start": 42,
+          "username": "klssyourenemy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061626453343817881",
+    "in_reply_to_user_id": "4264340774",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061615752407581026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theyarggbird @neil_z_tang @JhonPork420tp @klssyourenemy bro you didn't know the GFW?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2061472482431824375",
+        "created_at": "2026-06-02T01:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061626453343817881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4264340774",
+              "start": 0,
+              "username": "theyarggbird"
+            },
+            {
+              "end": 26,
+              "id": "1958062134052417537",
+              "start": 14,
+              "username": "neil_z_tang"
+            },
+            {
+              "end": 41,
+              "id": "2008803056327032832",
+              "start": 27,
+              "username": "JhonPork420tp"
+            },
+            {
+              "end": 56,
+              "id": "1353491573808492547",
+              "start": 42,
+              "username": "klssyourenemy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061626453343817881",
+        "in_reply_to_user_id": "4264340774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061615752407581026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theyarggbird @neil_z_tang @JhonPork420tp @klssyourenemy bro you didn't know the GFW?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4264340774",
+        "conversation_id": "2061472482431824375",
+        "created_at": "2026-06-02T01:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061615752407581026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958062134052417537",
+              "start": 0,
+              "username": "neil_z_tang"
+            },
+            {
+              "end": 27,
+              "id": "2008803056327032832",
+              "start": 13,
+              "username": "JhonPork420tp"
+            },
+            {
+              "end": 42,
+              "id": "1353491573808492547",
+              "start": 28,
+              "username": "klssyourenemy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061615752407581026",
+        "in_reply_to_user_id": "1958062134052417537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061608772460536019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neil_z_tang @JhonPork420tp @klssyourenemy Right, account based in the United States"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Epheia 的评论账号\n酷儿，女性倾向跨性别者。\n主要账号@nyaepheia\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 73,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 50,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 14,
+          "like_count": 83,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-17T05:20:00.000Z",
+        "description": "",
+        "id": "4264340774",
+        "name": "Theyarggbird",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860577872978604032/NtU1Y7lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 348,
+          "like_count": 17654,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 505
+        },
+        "username": "theyarggbird",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T07:03:00.000Z",
+        "description": "",
+        "id": "1958062134052417537",
+        "name": "Neil Tang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958062897440968704/H_QxLAk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 1443,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "neil_z_tang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T07:30:30.000Z",
+        "description": "",
+        "id": "2008803056327032832",
+        "location": "Indiana ",
+        "name": "Jhon Pork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008803610667163648/10xCvg9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 116,
+          "like_count": 10335,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 2520
+        },
+        "username": "JhonPork420tp",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T23:55:46.000Z",
+        "description": "real rumeru official",
+        "id": "1353491573808492547",
+        "name": "🐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659186005037965313/h6h85HYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7929,
+          "following_count": 439,
+          "like_count": 24914,
+          "listed_count": 15,
+          "media_count": 85,
+          "tweet_count": 1882
+        },
+        "username": "klssyourenemy",
+        "verified": false
+      }
+    ]
+  }
+}

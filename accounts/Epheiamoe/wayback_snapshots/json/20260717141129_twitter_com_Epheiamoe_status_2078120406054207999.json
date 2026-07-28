@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2077759234695958687",
+    "created_at": "2026-07-17T14:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078120406054207999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600929805515399168",
+          "start": 0,
+          "username": "Luna4rzd"
+        },
+        {
+          "end": 56,
+          "id": "2055356059066466304",
+          "start": 41,
+          "username": "TransCircleOrg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "如果您希望加入此项目，请您在X先关注x.com/TransCircleOrg。否则无法邀请您进入群聊。",
+          "display_url": "tsc.tf/join",
+          "end": 80,
+          "expanded_url": "http://tsc.tf/join",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2078120324160524288/W1FvtQyW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078120324160524288/W1FvtQyW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 57,
+          "status": 200,
+          "title": "TransCircleProject 加入申请",
+          "unwound_url": "https://tsc.tf/join",
+          "url": "https://t.co/XQc9tnDL7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078120406054207999",
+    "in_reply_to_user_id": "1600929805515399168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077759234695958687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luna4rzd 您好！这正是TransCircle 正在做的事情！\n欢迎加入 @TransCircleOrg\nhttps://t.co/XQc9tnDL7R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2077759234695958687",
+        "created_at": "2026-07-17T14:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078120406054207999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600929805515399168",
+              "start": 0,
+              "username": "Luna4rzd"
+            },
+            {
+              "end": 56,
+              "id": "2055356059066466304",
+              "start": 41,
+              "username": "TransCircleOrg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "如果您希望加入此项目，请您在X先关注x.com/TransCircleOrg。否则无法邀请您进入群聊。",
+              "display_url": "tsc.tf/join",
+              "end": 80,
+              "expanded_url": "http://tsc.tf/join",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078120324160524288/W1FvtQyW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078120324160524288/W1FvtQyW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "TransCircleProject 加入申请",
+              "unwound_url": "https://tsc.tf/join",
+              "url": "https://t.co/XQc9tnDL7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078120406054207999",
+        "in_reply_to_user_id": "1600929805515399168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077759234695958687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna4rzd 您好！这正是TransCircle 正在做的事情！\n欢迎加入 @TransCircleOrg\nhttps://t.co/XQc9tnDL7R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600929805515399168",
+        "conversation_id": "2077759234695958687",
+        "created_at": "2026-07-16T14:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077759234695958687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077759234695958687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2813,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要做一个跨圈的历史网页，记录圈子内对一些重要/有趣的事件（例如Unk零元购茶pi），或者一些比较严肃的事件（例如某条与跨有关的法律规定更新）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2077017710924623957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 74,
+          "like_count": 686,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-08T19:06:37.000Z",
+        "description": "未出柜 mtf🏳️‍⚧️一枚喵｜\n同类互fo｜\n年龄党 无证含糖｜\nHRT 🍥 2026.7.17\n11年激活｜",
+        "id": "1600929805515399168",
+        "location": "远在天边 近在眼前",
+        "name": "Luna 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075228119347380535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 236,
+          "like_count": 1349,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Luna4rzd",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 32,
+          "like_count": 120,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

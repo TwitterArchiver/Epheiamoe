@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2066511027492245915",
+    "created_at": "2026-06-16T18:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066948888146460903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013100592202194945",
+          "start": 0,
+          "username": "Viki211027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066948888146460903",
+    "in_reply_to_user_id": "2013100592202194945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066511027492245915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viki211027 傻逼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_2066511019451744256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK240sbaAAADOg0.jpg",
+        "width": 2012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2066511027492245915",
+        "created_at": "2026-06-16T18:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066948888146460903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013100592202194945",
+              "start": 0,
+              "username": "Viki211027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066948888146460903",
+        "in_reply_to_user_id": "2013100592202194945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066511027492245915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viki211027 傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066511019451744256"
+          ]
+        },
+        "author_id": "2013100592202194945",
+        "conversation_id": "2066511027492245915",
+        "created_at": "2026-06-15T13:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066511027492245915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkFLG7T2dD",
+              "end": 166,
+              "expanded_url": "https://x.com/Viki211027/status/2066511027492245915/photo/1",
+              "media_key": "3_2066511019451744256",
+              "start": 143,
+              "url": "https://t.co/IkFLG7T2dD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066511027492245915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网上那些靠贩卖“性别焦虑”来收割流量的魔怔博主和激进耗子，赶紧滚蛋吧！孩子心智不成熟，全他妈是被你们这帮天天抱团取暖、教唆跟风的群体给生拉硬拽带偏的。这不叫包容，这叫你们为了群体自我认同而进行的拉人下水！必须给未成年人留出清净的空间自我探索，绝不能容忍你们这帮怪胎用所谓的“前卫潮流” https://t.co/IkFLG7T2dD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 19,
+          "like_count": 361,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/",
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 20,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 315
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

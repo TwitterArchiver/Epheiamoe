@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074494770488267089",
+    "created_at": "2026-07-08T12:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074826140469125403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720478288127381504",
+          "start": 0,
+          "username": "Driantries"
+        },
+        {
+          "end": 24,
+          "id": "742295005",
+          "start": 12,
+          "username": "LaplaceTong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074826140469125403",
+    "in_reply_to_user_id": "1720478288127381504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074727177120285110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Driantries @LaplaceTong 文盲啊\n祝福想要表达的是对祥林嫂的讽刺吗？反而恰恰是对你这种人的讽刺吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074494770488267089",
+        "created_at": "2026-07-08T12:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074826140469125403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720478288127381504",
+              "start": 0,
+              "username": "Driantries"
+            },
+            {
+              "end": 24,
+              "id": "742295005",
+              "start": 12,
+              "username": "LaplaceTong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074826140469125403",
+        "in_reply_to_user_id": "1720478288127381504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074727177120285110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Driantries @LaplaceTong 文盲啊\n祝福想要表达的是对祥林嫂的讽刺吗？反而恰恰是对你这种人的讽刺吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720478288127381504",
+        "conversation_id": "2074494770488267089",
+        "created_at": "2026-07-08T05:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074727177120285110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "742295005",
+              "start": 0,
+              "username": "LaplaceTong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074727177120285110",
+        "in_reply_to_user_id": "742295005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 734,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074494770488267089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceTong 就应该无时无刻，每天每时，祥林嫂的怨妇一般，和所有人诉说自己的苦难。这就是对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 61,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T16:29:53.000Z",
+        "description": "",
+        "id": "1720478288127381504",
+        "name": "Qr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892885109768146947/T6QAIYgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1545,
+          "like_count": 3229,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 1393
+        },
+        "url": "",
+        "username": "Driantries",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-07T06:22:12.000Z",
+        "description": "🌈 NJ/HZ Enlightened | 高级拉群工程师 | SQLBOY | 工作是在草台班子装疯卖傻  | 前半生有故事后半生还有故事 | JRPG 爱好者｜探索生活的方向中｜会共情会无情",
+        "id": "742295005",
+        "name": "Laplace",
+        "pinned_tweet_id": "2074527649855406133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644335533093703683/km-p7srp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 308,
+          "like_count": 6823,
+          "listed_count": 8,
+          "media_count": 2102,
+          "tweet_count": 18268
+        },
+        "url": "",
+        "username": "LaplaceTong",
+        "verified": true
+      }
+    ]
+  }
+}

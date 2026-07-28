@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074799703393460224"
+      ]
+    },
+    "author_id": "1984321775333937152",
+    "conversation_id": "2074759076773507253",
+    "created_at": "2026-07-08T10:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074799708732883277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 26,
+          "id": "1582545494752251904",
+          "start": 16,
+          "username": "yhdawn831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNzLN4c8HR",
+          "end": 84,
+          "expanded_url": "https://x.com/Epheiamoe/status/2074799708732883277/photo/1",
+          "media_key": "3_2074799703393460224",
+          "start": 61,
+          "url": "https://t.co/SNzLN4c8HR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074799708732883277",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074792244377530879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @yhdawn831 其实感觉这个没啥用...\n反而还会担心自己的账号会不会被封号... https://t.co/SNzLN4c8HR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2074799703393460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsrVmTaYAAwiTf.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074799703393460224"
+          ]
+        },
+        "author_id": "1984321775333937152",
+        "conversation_id": "2074759076773507253",
+        "created_at": "2026-07-08T10:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074799708732883277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 26,
+              "id": "1582545494752251904",
+              "start": 16,
+              "username": "yhdawn831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNzLN4c8HR",
+              "end": 84,
+              "expanded_url": "https://x.com/Epheiamoe/status/2074799708732883277/photo/1",
+              "media_key": "3_2074799703393460224",
+              "start": 61,
+              "url": "https://t.co/SNzLN4c8HR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074799708732883277",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074792244377530879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @yhdawn831 其实感觉这个没啥用...\n反而还会担心自己的账号会不会被封号... https://t.co/SNzLN4c8HR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2074759076773507253",
+        "created_at": "2026-07-08T09:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074792244377530879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1582545494752251904",
+              "start": 0,
+              "username": "yhdawn831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074792244377530879",
+        "in_reply_to_user_id": "1582545494752251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074791822958981173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhdawn831 推特的这个自杀倾向检测有点「宁肯杀错一千也不放过一个」的感觉。不过这样其实也好，至少比漏掉某位真有自杀倾向的推友更好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2065235130730623030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 54,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9369,
+          "following_count": 878,
+          "like_count": 30025,
+          "listed_count": 12,
+          "media_count": 1940,
+          "tweet_count": 9901
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T01:33:55.000Z",
+        "description": "【追記】日本の左翼の方には友好的に接しますが、右翼の方は私に話しかけないでください。ありがとうございます。\nこのようなやり取りは私に負担をかけるだけでなく、私たち双方にトラブルをもたらすことになってしまうからです。\n粉蛆粉红别回复我\n胡温派!!!  喜欢政治，但不喜欢吵架，因为吵架也不会改变任何东西!\n日本友好",
+        "id": "1582545494752251904",
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "name": "jack🇯🇵\\^O^/🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040699926536163329/vfaUMC2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 203,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "yhdawn831",
+        "verified": false
+      }
+    ]
+  }
+}

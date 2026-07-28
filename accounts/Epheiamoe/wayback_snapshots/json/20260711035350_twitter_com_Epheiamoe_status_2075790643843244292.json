@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075790643843244292",
+    "created_at": "2026-07-11T03:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075790643843244292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShitpostRock/s…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/ShitpostRock/status/2075387780016848926",
+          "start": 158,
+          "url": "https://t.co/eP5iIYhqDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075790643843244292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only about \"morality.\" The foundation of atheism is science, not some \"morality\" you pulled out of your ass. Not having sex with a corpse is simply because it's unhygienic. Religion, on the other hand, doesn't have these hang-ups—if some religion tells you to do it, you just throw your morality out the window. That's exactly why you should believe in atheism: it makes you think for yourself, not blindly follow."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075387780016848926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only https://t.co/eP5iIYhqDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2075359524559458304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0ofeqXEAApzvP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075790643843244292",
+        "created_at": "2026-07-11T03:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075790643843244292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShitpostRock/s…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/ShitpostRock/status/2075387780016848926",
+              "start": 158,
+              "url": "https://t.co/eP5iIYhqDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075790643843244292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only about \"morality.\" The foundation of atheism is science, not some \"morality\" you pulled out of your ass. Not having sex with a corpse is simply because it's unhygienic. Religion, on the other hand, doesn't have these hang-ups—if some religion tells you to do it, you just throw your morality out the window. That's exactly why you should believe in atheism: it makes you think for yourself, not blindly follow."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075387780016848926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only https://t.co/eP5iIYhqDA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075359524559458304"
+          ]
+        },
+        "author_id": "839116207756279808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2075387780016848926",
+        "created_at": "2026-07-10T01:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075387780016848926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a05glnzOmb",
+              "end": 303,
+              "expanded_url": "https://x.com/ShitpostRock/status/2075387780016848926/photo/1",
+              "media_key": "3_2075359524559458304",
+              "start": 280,
+              "url": "https://t.co/a05glnzOmb"
+            },
+            {
+              "display_url": "x.com/fluffybiscuit0…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/fluffybiscuit03/status/2074497912394911877",
+              "start": 304,
+              "url": "https://t.co/fSPwWvayE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075387780016848926",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The best logical fallacy to give an atheist when discussing morals is to ask them why it's morally wrong to have intercourse with roadkill\n\nIt's dead it will not feel anything, nobody will know and there are no victims\n \nIf you ask a Christian or Buddhist why it's morally wrong, they will tell you it's because the body retains inherent dignity as part of God's creation (or the sacred flow of life), and desecrating it violates divine/natural order, harms your soul/karma, and shows disrespect, even if no one feels it or knows\n\nAn atheistic worldview of this question taken to its extreme, concludes that intercourse with roadkill is tantamount to masturbation and nothing more"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 2346988,
+          "like_count": 2552,
+          "quote_count": 855,
+          "reply_count": 1231,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074497912394911877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The best logical fallacy to give an atheist when discussing morals is to ask them why it's morally wrong to have intercourse with roadkill\n\nIt's dead it will not feel anything, nobody will know and there are no victims\n \nIf you ask a Christian or Buddhist why it's morally wrong, https://t.co/a05glnzOmb https://t.co/fSPwWvayE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 66,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-07T14:11:08.000Z",
+        "description": "Streamer and Vtuber\nPersonal account where i post stuff\nI like Vidya, anime and  VTubers \n🇵🇱🇳🇴🇺🇸🇻🇦 🔌🐰\nBackup: @ShitpostRock2\n\n⬇️check out the stream⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "ShitpostRock2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shitpostrock",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/shitpostrock",
+                "start": 0,
+                "url": "https://t.co/n02kTJWhln"
+              }
+            ]
+          }
+        },
+        "id": "839116207756279808",
+        "location": "Sneed",
+        "name": "Rock Solid",
+        "pinned_tweet_id": "2072511633373421878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481761464658673667/M7ZtQXnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206450,
+          "following_count": 2156,
+          "like_count": 55287,
+          "listed_count": 629,
+          "media_count": 23126,
+          "tweet_count": 36709
+        },
+        "url": "https://t.co/n02kTJWhln",
+        "username": "ShitpostRock",
+        "verified": true
+      }
+    ]
+  }
+}

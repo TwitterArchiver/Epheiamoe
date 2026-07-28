@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075223447211286711",
+    "created_at": "2026-07-09T19:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T20:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075294259343765598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696019262723219456",
+          "start": 0,
+          "username": "abccbaabccom"
+        },
+        {
+          "end": 26,
+          "id": "2035220457134465024",
+          "start": 14,
+          "username": "sistelevesn"
+        },
+        {
+          "end": 42,
+          "id": "1260553941714186241",
+          "start": 27,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075294259343765598",
+    "in_reply_to_user_id": "1696019262723219456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "能得到不再被这片土地的人迫害的权利。\n\n他已经做了很多了，甚至在走之前给员工结算了工资，所以他完全是一个善良的人，不想拖累别人...\n\n求求你不要再这样谴责受害者了，那难道每个自杀的人都应该先杀死让他们决定死去的人吗？已经想要做出那种选择的人，我认为继续要求他们做出什么「贡献」，和社会宏大叙事是类似的，而他们恰恰就是被宏大叙事害死的，一定还要施加另一层宏大叙事吗..."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075285231297593730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abccbaabccom @sistelevesn @whyyoutouzhele 能得到不再被这片土地的人迫害的权利。\n\n他已经做了很多了，甚至在走之前给员工结算了工资，所以他完全是一个善良的人，不想拖累别人..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075223447211286711",
+        "created_at": "2026-07-09T19:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T20:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075294259343765598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696019262723219456",
+              "start": 0,
+              "username": "abccbaabccom"
+            },
+            {
+              "end": 26,
+              "id": "2035220457134465024",
+              "start": 14,
+              "username": "sistelevesn"
+            },
+            {
+              "end": 42,
+              "id": "1260553941714186241",
+              "start": 27,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075294259343765598",
+        "in_reply_to_user_id": "1696019262723219456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "能得到不再被这片土地的人迫害的权利。\n\n他已经做了很多了，甚至在走之前给员工结算了工资，所以他完全是一个善良的人，不想拖累别人...\n\n求求你不要再这样谴责受害者了，那难道每个自杀的人都应该先杀死让他们决定死去的人吗？已经想要做出那种选择的人，我认为继续要求他们做出什么「贡献」，和社会宏大叙事是类似的，而他们恰恰就是被宏大叙事害死的，一定还要施加另一层宏大叙事吗..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075285231297593730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abccbaabccom @sistelevesn @whyyoutouzhele 能得到不再被这片土地的人迫害的权利。\n\n他已经做了很多了，甚至在走之前给员工结算了工资，所以他完全是一个善良的人，不想拖累别人..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696019262723219456",
+        "conversation_id": "2075223447211286711",
+        "created_at": "2026-07-09T18:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075285231297593730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035220457134465024",
+              "start": 0,
+              "username": "sistelevesn"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075285231297593730",
+        "in_reply_to_user_id": "2035220457134465024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075258602236047646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sistelevesn @whyyoutouzhele 那你跳楼能得到什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 66,
+          "like_count": 566,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T04:38:21.000Z",
+        "description": "",
+        "id": "1696019262723219456",
+        "name": "Arohi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064034503761559554/Wv9B0v11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 480,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "abccbaabccom",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T05:04:13.000Z",
+        "description": "喜欢王洪文｜左？｜略懂一些政治，厌恶春秋笔法｜不嬷，也不是妈粉",
+        "id": "2035220457134465024",
+        "location": "中南海",
+        "name": "sisten",
+        "pinned_tweet_id": "2072986675077435835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068379551949017088/Z6kgl-hd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 21,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "sistelevesn",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245429,
+          "following_count": 1073,
+          "like_count": 9788,
+          "listed_count": 8817,
+          "media_count": 50128,
+          "tweet_count": 57335
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

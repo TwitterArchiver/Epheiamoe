@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2065121836304843115",
+    "created_at": "2026-06-11T17:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065121836304843115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1957764837817348096",
+          "start": 3,
+          "username": "silentandgreat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065121836304843115",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064880266615874017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silentandgreat: 커밍아웃의 함정 (화자가 여자라고 가정)\n\n[양성애자]\n너 저번에 동성애자라며 왜 남친 사귀었어? -&gt; 나 바이라니까\n\n[범성애자]\n아 맞다 너 바이라며-&gt; 아니 난 범성애자라니까-&gt;그게 뭔데?-&gt; 그니까 이게-&gt;…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2065121836304843115",
+        "created_at": "2026-06-11T17:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065121836304843115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1957764837817348096",
+              "start": 3,
+              "username": "silentandgreat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065121836304843115",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064880266615874017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silentandgreat: 커밍아웃의 함정 (화자가 여자라고 가정)\n\n[양성애자]\n너 저번에 동성애자라며 왜 남친 사귀었어? -&gt; 나 바이라니까\n\n[범성애자]\n아 맞다 너 바이라며-&gt; 아니 난 범성애자라니까-&gt;그게 뭔데?-&gt; 그니까 이게-&gt;…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957764837817348096",
+        "conversation_id": "2064880266615874017",
+        "created_at": "2026-06-11T01:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064880266615874017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064880266615874017",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 54926,
+          "like_count": 1204,
+          "quote_count": 74,
+          "reply_count": 2,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "커밍아웃의 함정 (화자가 여자라고 가정)\n\n[양성애자]\n너 저번에 동성애자라며 왜 남친 사귀었어? -&gt; 나 바이라니까\n\n[범성애자]\n아 맞다 너 바이라며-&gt; 아니 난 범성애자라니까-&gt;그게 뭔데?-&gt; 그니까 이게-&gt;그게 바이 아님? \n\n[무성애자]\n뭐 그냥 건강에 문제 있는거 아니야?-&gt;🤦‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2063105621852049428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 16,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T11:21:49.000Z",
+        "description": "퀴엇말하는 사람입니다. // 1n\n말 많이 하는 10대 율무씨 입니다.",
+        "id": "1957764837817348096",
+        "location": "네마음속",
+        "name": "율무🏳️‍⚧️",
+        "pinned_tweet_id": "2064560143946416462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063587897345998848/5tnUnCrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 58,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 260
+        },
+        "username": "silentandgreat",
+        "verified": false
+      }
+    ]
+  }
+}

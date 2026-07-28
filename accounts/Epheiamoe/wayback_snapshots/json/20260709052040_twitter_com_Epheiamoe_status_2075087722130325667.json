@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1984321775333937152",
+    "conversation_id": "2075087722130325667",
+    "created_at": "2026-07-09T05:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075087722130325667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037909112055300096",
+          "start": 3,
+          "username": "QueerLawWatchCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075087722130325667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074888795564966335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QueerLawWatchCN: 中国支持联合国照护系统性别平等决议，同时强调“人权实现路径不宜规定过细” 🇺🇳🇨🇳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075087722130325667",
+        "created_at": "2026-07-09T05:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075087722130325667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037909112055300096",
+              "start": 3,
+              "username": "QueerLawWatchCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075087722130325667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074888795564966335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QueerLawWatchCN: 中国支持联合国照护系统性别平等决议，同时强调“人权实现路径不宜规定过细” 🇺🇳🇨🇳…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2074888795564966335",
+        "created_at": "2026-07-08T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:55:22.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074885061342617691",
+          "2074885231874560238",
+          "2074888795564966335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074888795564966335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "digitallibrary.un.org/record/4079295",
+                "end": 831,
+                "expanded_url": "https://digitallibrary.un.org/record/4079295",
+                "start": 808,
+                "url": "https://t.co/1kKwa7L7Sq"
+              },
+              {
+                "display_url": "youtube.com/watch?v=lS18LI…",
+                "end": 863,
+                "expanded_url": "https://www.youtube.com/watch?v=lS18LI7_NdQ",
+                "start": 840,
+                "url": "https://t.co/h3TsAaDtpP"
+              }
+            ]
+          },
+          "text": "中国支持联合国照护系统性别平等决议，同时强调“人权实现路径不宜规定过细” 🇺🇳🇨🇳\n\n2026年7月6日，在联合国人权理事会第62届会议（HRC62）审议《在照护和扶助系统中消除对妇女和女童一切形式歧视》（A/HRC/62/L.16/Rev.1）决议草案期间，中国常驻联合国日内瓦代表团在表决前解释立场，表示参与决议草案协商一致。\n\n中方在发言中表示：“中国政府将保障妇女权益上升为国家意志，持续完善全面保障妇女权益的法律体系，持续实施促进妇女全面发展的国家行动计划；坚持生命至上，大幅提升妇女健康水平；积极保障女童和妇女平等受教育权；着力消除针对妇女一切形式暴力；积极推动妇女参与决策和管理。”\n\n同时，中方提出：“对于人权实现路径的规定过细，可能解释成本增加，实施过程中缺乏灵活性，尤其增加发展中国家履行义务的负担。”中方强调，“各国历史文化不同，应尊重各国选择的人权发展道路。”经过磋商后，中方表示提案国积极回应有关段落关切，因此参与协商一致。\n\n该决议由墨西哥、冰岛、西班牙等国推动，是联合国将“照护与支持”（care and support）纳入妇女人权体系的重要文件。决议认为，妇女和女童承担了不成比例的无偿及低薪照护劳动，例如育儿、养老和家庭照护，这限制其教育、就业、社会保障和公共参与机会。\n\n决议呼吁各国建立基于人权的照护和支持系统（human rights-based care and support systems），通过公共服务、托育、长期护理、社会保障、育儿假以及改善照护劳动者待遇等政策，推动家庭、社会、市场和国家共同承担照护责任。\n\n最终，该决议在人权理事会第62届会议以协商一致方式通过（adopted without a vote），成为联合国推动照护经济（care economy）、妇女平等和反歧视议程的新一项主题决议。\n\n参考来源：\nA/HRC/62/L.16/Rev.1\nhttps://t.co/1kKwa7L7Sq\n中方发言视频：\nhttps://t.co/h3TsAaDtpP"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2033,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中国支持联合国照护系统性别平等决议，同时强调“人权实现路径不宜规定过细” 🇺🇳🇨🇳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 62,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/queerlawwatchcn",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/queerlawwatchcn",
+                "start": 0,
+                "url": "https://t.co/MLCOxo8JWH"
+              }
+            ]
+          }
+        },
+        "id": "2037909112055300096",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1271,
+          "like_count": 994,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/MLCOxo8JWH",
+        "username": "QueerLawWatchCN",
+        "verified": true
+      }
+    ]
+  }
+}
